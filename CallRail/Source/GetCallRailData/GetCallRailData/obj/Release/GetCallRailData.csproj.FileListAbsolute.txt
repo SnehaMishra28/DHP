@@ -1,0 +1,14 @@
+C:\Dev\VSTS\Utilities\GetCallRailData\GetCallRailData\bin\Release\GetCallRailData.exe.config
+C:\Dev\VSTS\Utilities\GetCallRailData\GetCallRailData\bin\Release\GetCallRailData.exe
+C:\Dev\VSTS\Utilities\GetCallRailData\GetCallRailData\bin\Release\GetCallRailData.pdb
+C:\Dev\VSTS\Utilities\GetCallRailData\GetCallRailData\bin\Release\log4net.dll
+C:\Dev\VSTS\Utilities\GetCallRailData\GetCallRailData\bin\Release\Newtonsoft.Json.dll
+C:\Dev\VSTS\Utilities\GetCallRailData\GetCallRailData\bin\Release\RestSharp.dll
+C:\Dev\VSTS\Utilities\GetCallRailData\GetCallRailData\bin\Release\log4net.xml
+C:\Dev\VSTS\Utilities\GetCallRailData\GetCallRailData\bin\Release\Newtonsoft.Json.xml
+C:\Dev\VSTS\Utilities\GetCallRailData\GetCallRailData\bin\Release\RestSharp.xml
+C:\Dev\VSTS\Utilities\GetCallRailData\GetCallRailData\obj\Release\GetCallRailData.csprojAssemblyReference.cache
+C:\Dev\VSTS\Utilities\GetCallRailData\GetCallRailData\obj\Release\GetCallRailData.csproj.CoreCompileInputs.cache
+C:\Dev\VSTS\Utilities\GetCallRailData\GetCallRailData\obj\Release\GetCallRailData.csproj.CopyComplete
+C:\Dev\VSTS\Utilities\GetCallRailData\GetCallRailData\obj\Release\GetCallRailData.exe
+C:\Dev\VSTS\Utilities\GetCallRailData\GetCallRailData\obj\Release\GetCallRailData.pdb

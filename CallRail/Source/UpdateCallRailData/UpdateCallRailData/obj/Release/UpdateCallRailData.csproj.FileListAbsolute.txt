@@ -1,0 +1,12 @@
+C:\Dev\VSTS\Utilities\UpdateCallRailData\UpdateCallRailData\bin\Release\UpdateCallRailData.exe.config
+C:\Dev\VSTS\Utilities\UpdateCallRailData\UpdateCallRailData\bin\Release\UpdateCallRailData.exe
+C:\Dev\VSTS\Utilities\UpdateCallRailData\UpdateCallRailData\bin\Release\UpdateCallRailData.pdb
+C:\Dev\VSTS\Utilities\UpdateCallRailData\UpdateCallRailData\bin\Release\log4net.dll
+C:\Dev\VSTS\Utilities\UpdateCallRailData\UpdateCallRailData\bin\Release\RestSharp.dll
+C:\Dev\VSTS\Utilities\UpdateCallRailData\UpdateCallRailData\bin\Release\log4net.xml
+C:\Dev\VSTS\Utilities\UpdateCallRailData\UpdateCallRailData\bin\Release\RestSharp.xml
+C:\Dev\VSTS\Utilities\UpdateCallRailData\UpdateCallRailData\obj\Release\UpdateCallRailData.csprojAssemblyReference.cache
+C:\Dev\VSTS\Utilities\UpdateCallRailData\UpdateCallRailData\obj\Release\UpdateCallRailData.csproj.CoreCompileInputs.cache
+C:\Dev\VSTS\Utilities\UpdateCallRailData\UpdateCallRailData\obj\Release\UpdateCallRailData.csproj.CopyComplete
+C:\Dev\VSTS\Utilities\UpdateCallRailData\UpdateCallRailData\obj\Release\UpdateCallRailData.exe
+C:\Dev\VSTS\Utilities\UpdateCallRailData\UpdateCallRailData\obj\Release\UpdateCallRailData.pdb

@@ -1,0 +1,17 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="UpdateCallRailData.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="fetchNoteValueFieldFromCallRail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://api.callrail.com/v2/a/638986454/calls/414742703.json?value=261&amp;note=%22orno%20=%2090%20%26%20or%20amount%20=%2010%22</Value>
+    </Setting>
+    <Setting Name="BaanConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=fort;Initial Catalog=baandb;Integrated Security=True&lt;/ConnectionString&gt;
+  &lt;ProviderName /&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=fort;Initial Catalog=baandb;Integrated Security=True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

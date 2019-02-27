@@ -1,0 +1,2337 @@
+2019-02-19 09:56:42,780 DEBUG Inside Main function - Start of GetCallRailData Application
+2019-02-19 09:56:42,799 DEBUG Inside getDataFromCallrail function.
+2019-02-19 09:56:45,619 DEBUG Inside response okay for page 1.
+2019-02-19 09:56:45,620 INFO  Adding response to the response list for page number -1
+2019-02-19 09:56:45,622 DEBUG Inside for loop for all pages.
+2019-02-19 09:56:47,650 DEBUG Inside response okay for page - 2
+2019-02-19 09:56:47,652 INFO  Adding response to the response list for page number -2
+2019-02-19 09:56:47,655 DEBUG Inside for loop for all pages.
+2019-02-19 09:56:49,576 DEBUG Inside response okay for page - 3
+2019-02-19 09:56:49,578 INFO  Adding response to the response list for page number -3
+2019-02-19 09:56:49,579 DEBUG Inside for loop for all pages.
+2019-02-19 09:56:52,069 DEBUG Inside response okay for page - 4
+2019-02-19 09:56:52,071 INFO  Adding response to the response list for page number -4
+2019-02-19 09:56:52,072 DEBUG Inside for loop for all pages.
+2019-02-19 09:56:55,945 DEBUG Inside response okay for page - 5
+2019-02-19 09:56:55,956 INFO  Adding response to the response list for page number -5
+2019-02-19 09:56:55,962 DEBUG Inside for loop for all pages.
+2019-02-19 09:56:58,931 DEBUG Inside response okay for page - 6
+2019-02-19 09:56:58,933 INFO  Adding response to the response list for page number -6
+2019-02-19 09:56:58,935 DEBUG Inside for loop for all pages.
+2019-02-19 09:57:01,795 DEBUG Inside response okay for page - 7
+2019-02-19 09:57:01,797 INFO  Adding response to the response list for page number -7
+2019-02-19 09:57:01,798 DEBUG Inside for loop for all pages.
+2019-02-19 09:57:03,625 DEBUG Inside response okay for page - 8
+2019-02-19 09:57:03,627 INFO  Adding response to the response list for page number -8
+2019-02-19 09:57:03,629 DEBUG Inside for loop for all pages.
+2019-02-19 09:57:06,448 DEBUG Inside response okay for page - 9
+2019-02-19 09:57:06,450 INFO  Adding response to the response list for page number -9
+2019-02-19 09:57:06,451 DEBUG Inside for loop for all pages.
+2019-02-19 09:57:08,988 DEBUG Inside response okay for page - 10
+2019-02-19 09:57:08,989 INFO  Adding response to the response list for page number -10
+2019-02-19 09:57:08,991 DEBUG Inside for loop for all pages.
+2019-02-19 09:57:11,485 DEBUG Inside response okay for page - 11
+2019-02-19 09:57:11,486 INFO  Adding response to the response list for page number -11
+2019-02-19 09:57:11,487 DEBUG Inside for loop for all pages.
+2019-02-19 09:57:14,032 DEBUG Inside response okay for page - 12
+2019-02-19 09:57:14,034 INFO  Adding response to the response list for page number -12
+2019-02-19 09:57:14,035 DEBUG Inside for loop for all pages.
+2019-02-19 09:57:16,238 DEBUG Inside response okay for page - 13
+2019-02-19 09:57:16,240 INFO  Adding response to the response list for page number -13
+2019-02-19 09:57:16,242 DEBUG Inside for loop for all pages.
+2019-02-19 09:57:19,251 DEBUG Inside response okay for page - 14
+2019-02-19 09:57:19,253 INFO  Adding response to the response list for page number -14
+2019-02-19 09:57:19,255 DEBUG Inside for loop for all pages.
+2019-02-19 09:57:22,110 DEBUG Inside response okay for page - 15
+2019-02-19 09:57:22,112 INFO  Adding response to the response list for page number -15
+2019-02-19 09:57:22,114 DEBUG Inside for loop for all pages.
+2019-02-19 09:57:24,926 DEBUG Inside response okay for page - 16
+2019-02-19 09:57:24,927 INFO  Adding response to the response list for page number -16
+2019-02-19 09:57:24,928 DEBUG Inside for loop for all pages.
+2019-02-19 09:57:27,239 DEBUG Inside response okay for page - 17
+2019-02-19 09:57:27,241 INFO  Adding response to the response list for page number -17
+2019-02-19 09:57:27,243 DEBUG Inside for loop for all pages.
+2019-02-19 09:57:30,275 DEBUG Inside response okay for page - 18
+2019-02-19 09:57:30,277 INFO  Adding response to the response list for page number -18
+2019-02-19 09:57:30,278 DEBUG Inside for loop for all pages.
+2019-02-19 09:57:33,444 DEBUG Inside response okay for page - 19
+2019-02-19 09:57:33,446 INFO  Adding response to the response list for page number -19
+2019-02-19 09:57:33,447 DEBUG Inside for loop for all pages.
+2019-02-19 09:57:35,441 DEBUG Inside response okay for page - 20
+2019-02-19 09:57:35,443 INFO  Adding response to the response list for page number -20
+2019-02-19 09:57:35,444 DEBUG Count of objectList is - 20
+2019-02-19 09:57:35,445 INFO  Referring object number - 0 - from the list of 20
+2019-02-19 09:57:35,446 INFO  Inside case OK!
+2019-02-19 09:57:35,447 INFO  Response here status code is - OK
+2019-02-19 09:57:35,449 INFO  Count of call data list is - 100
+2019-02-19 09:57:35,450 INFO  Getting in the loop to get the call data at each indexes.
+2019-02-19 09:57:35,451 INFO  cus name for index -0 is - HAYNIE ALEXANDR
+2019-02-19 09:57:35,453 INFO  cus name for index -1 is - NEAL CHRISTOPHE
+2019-02-19 09:57:35,454 INFO  cus name for index -2 is - GARY MARLA GROV
+2019-02-19 09:57:35,455 INFO  cus name for index -3 is - GARY MARLA GROV
+2019-02-19 09:57:35,456 INFO  cus name for index -4 is - DELTA AIR LINES
+2019-02-19 09:57:35,457 INFO  cus name for index -5 is - JENNIFER DEJAME
+2019-02-19 09:57:35,458 INFO  cus name for index -6 is - HAYNIE ALEXANDR
+2019-02-19 09:57:35,459 INFO  cus name for index -7 is - DELTA AIR LINES
+2019-02-19 09:57:35,461 INFO  cus name for index -8 is - GAINESVILLE, GA
+2019-02-19 09:57:35,463 INFO  cus name for index -9 is - GAINESVILLE, GA
+2019-02-19 09:57:35,464 INFO  cus name for index -10 is - GAINESVILLE, GA
+2019-02-19 09:57:35,465 INFO  cus name for index -11 is - HOWARD THORN
+2019-02-19 09:57:35,466 INFO  cus name for index -12 is - SECRETARIAT INT
+2019-02-19 09:57:35,468 INFO  cus name for index -13 is - ATLANTA, GA
+2019-02-19 09:57:35,469 INFO  cus name for index -14 is - QUEENS, NY
+2019-02-19 09:57:35,470 INFO  cus name for index -15 is - AARON UNTERBERG
+2019-02-19 09:57:35,471 INFO  cus name for index -16 is - MIAMI, FL
+2019-02-19 09:57:35,473 INFO  cus name for index -17 is - ETHRIDGE DANIEL
+2019-02-19 09:57:35,474 INFO  cus name for index -18 is - TALLAHASSEE, FL
+2019-02-19 09:57:35,475 INFO  cus name for index -19 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,477 INFO  cus name for index -20 is - ATLANTA, GA
+2019-02-19 09:57:35,478 INFO  cus name for index -21 is - LORI ORTKIESE
+2019-02-19 09:57:35,479 INFO  cus name for index -22 is - MIAMI, FL
+2019-02-19 09:57:35,480 INFO  cus name for index -23 is - RICHARD HUIZING
+2019-02-19 09:57:35,481 INFO  cus name for index -24 is - CUMMING, GA
+2019-02-19 09:57:35,483 INFO  cus name for index -25 is - HAYNIE ALEXANDR
+2019-02-19 09:57:35,484 INFO  cus name for index -26 is - VANESA - HAROLD
+2019-02-19 09:57:35,486 INFO  cus name for index -27 is - ATLANTA, GA
+2019-02-19 09:57:35,487 INFO  cus name for index -28 is - RANSOM ANNETTE
+2019-02-19 09:57:35,488 INFO  cus name for index -29 is - BAKER STAN
+2019-02-19 09:57:35,489 INFO  cus name for index -30 is - ATLANTA, GA
+2019-02-19 09:57:35,490 INFO  cus name for index -31 is - ATLANTA, GA
+2019-02-19 09:57:35,491 INFO  cus name for index -32 is - RANSOM ANNETTE
+2019-02-19 09:57:35,493 INFO  cus name for index -33 is - WILKINS ADRIANE
+2019-02-19 09:57:35,494 INFO  cus name for index -34 is - GAIL MACISAAC
+2019-02-19 09:57:35,496 INFO  cus name for index -35 is - SF,Z
+2019-02-19 09:57:35,497 INFO  cus name for index -36 is - JULIE LAMANNA
+2019-02-19 09:57:35,498 INFO  cus name for index -37 is - DAVID OLCSVARY
+2019-02-19 09:57:35,499 INFO  cus name for index -38 is - DOORS,SUPREME O
+2019-02-19 09:57:35,500 INFO  cus name for index -39 is - AIRGAS
+2019-02-19 09:57:35,502 INFO  cus name for index -40 is - VICKI
+2019-02-19 09:57:35,503 INFO  cus name for index -41 is - NGUYEN HOA
+2019-02-19 09:57:35,504 INFO  cus name for index -42 is - SIMMONS SETH
+2019-02-19 09:57:35,505 INFO  cus name for index -43 is - ALLISON GROSS
+2019-02-19 09:57:35,506 INFO  cus name for index -44 is - MCCLURE,TIFFANY
+2019-02-19 09:57:35,507 INFO  cus name for index -45 is - BROWN THOMAS
+2019-02-19 09:57:35,508 INFO  cus name for index -46 is - PADGETT CHRISTY
+2019-02-19 09:57:35,510 INFO  cus name for index -47 is - PADGETT CHRISTY
+2019-02-19 09:57:35,512 INFO  cus name for index -48 is - DAWN BARRS
+2019-02-19 09:57:35,513 INFO  cus name for index -49 is - BOLGNY AHMED
+2019-02-19 09:57:35,514 INFO  cus name for index -50 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,515 INFO  cus name for index -51 is - SMITH ALAN
+2019-02-19 09:57:35,517 INFO  cus name for index -52 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,519 INFO  cus name for index -53 is - BUFORD, GA
+2019-02-19 09:57:35,520 INFO  cus name for index -54 is - BARCLIFF UJIMA
+2019-02-19 09:57:35,521 INFO  cus name for index -55 is - YONKERS, NY
+2019-02-19 09:57:35,523 INFO  cus name for index -56 is - THORNTON ERMA
+2019-02-19 09:57:35,525 INFO  cus name for index -57 is - LESLI CREEL
+2019-02-19 09:57:35,526 INFO  cus name for index -58 is - THORNTON ERMA
+2019-02-19 09:57:35,528 INFO  cus name for index -59 is - RENETTA MORRIS
+2019-02-19 09:57:35,529 INFO  cus name for index -60 is - ATLANTA, GA
+2019-02-19 09:57:35,530 INFO  cus name for index -61 is - ALLISON GROSS
+2019-02-19 09:57:35,531 INFO  cus name for index -62 is - COLLINS,JESSE
+2019-02-19 09:57:35,533 INFO  cus name for index -63 is - ATLANTA, GA
+2019-02-19 09:57:35,536 INFO  cus name for index -64 is - BACHMAN MELISSA
+2019-02-19 09:57:35,537 INFO  cus name for index -65 is - JOSEPH SMITH
+2019-02-19 09:57:35,539 INFO  cus name for index -66 is - RAY PATRICK
+2019-02-19 09:57:35,540 INFO  cus name for index -67 is - HOWARD JOHN
+2019-02-19 09:57:35,541 INFO  cus name for index -68 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,543 INFO  cus name for index -69 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,544 INFO  cus name for index -70 is - ATLANTA, GA
+2019-02-19 09:57:35,546 INFO  cus name for index -71 is - TIME DISPATCH
+2019-02-19 09:57:35,547 INFO  cus name for index -72 is - DEBRA KIDD
+2019-02-19 09:57:35,548 INFO  cus name for index -73 is - STEELE FREDERIC
+2019-02-19 09:57:35,549 INFO  cus name for index -74 is - STEELE FREDERIC
+2019-02-19 09:57:35,550 INFO  cus name for index -75 is - TIME DISPATCH
+2019-02-19 09:57:35,552 INFO  cus name for index -76 is - STEELE FREDERIC
+2019-02-19 09:57:35,553 INFO  cus name for index -77 is - STEELE FREDERIC
+2019-02-19 09:57:35,554 INFO  cus name for index -78 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,555 INFO  cus name for index -79 is - MCCALL SCOTT
+2019-02-19 09:57:35,556 INFO  cus name for index -80 is - WENDY HOLLON
+2019-02-19 09:57:35,557 INFO  cus name for index -81 is - LINDA
+2019-02-19 09:57:35,558 INFO  cus name for index -82 is - CLOTHS LESS TRA
+2019-02-19 09:57:35,559 INFO  cus name for index -83 is - BOHACH MARY A
+2019-02-19 09:57:35,561 INFO  cus name for index -84 is - LINDA
+2019-02-19 09:57:35,563 INFO  cus name for index -85 is - VENTURE CONSTRU
+2019-02-19 09:57:35,564 INFO  cus name for index -86 is - SIMONE MAY
+2019-02-19 09:57:35,565 INFO  cus name for index -87 is - RENEE ROTE
+2019-02-19 09:57:35,567 INFO  cus name for index -88 is - MCCALL SCOTT
+2019-02-19 09:57:35,568 INFO  cus name for index -89 is - CANCER TREATMEN
+2019-02-19 09:57:35,569 INFO  cus name for index -90 is - CANCER TREATMEN
+2019-02-19 09:57:35,570 INFO  cus name for index -91 is - ALLISON GROSS
+2019-02-19 09:57:35,573 INFO  cus name for index -92 is - MEGARO WILLIAM
+2019-02-19 09:57:35,574 INFO  cus name for index -93 is - CUMMING, GA
+2019-02-19 09:57:35,575 INFO  cus name for index -94 is - SIMMONS MANUFAC
+2019-02-19 09:57:35,576 INFO  cus name for index -95 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,578 INFO  cus name for index -96 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,579 INFO  cus name for index -97 is - RAWLS,DANMARQUE
+2019-02-19 09:57:35,580 INFO  cus name for index -98 is - BAKER STAN
+2019-02-19 09:57:35,581 INFO  cus name for index -99 is - STEELE FREDERIC
+2019-02-19 09:57:35,583 INFO  Referring object number - 1 - from the list of 20
+2019-02-19 09:57:35,584 INFO  Inside case OK!
+2019-02-19 09:57:35,586 INFO  Response here status code is - OK
+2019-02-19 09:57:35,587 INFO  Count of call data list is - 100
+2019-02-19 09:57:35,588 INFO  Getting in the loop to get the call data at each indexes.
+2019-02-19 09:57:35,590 INFO  cus name for index -0 is - EDMONDSON SHERR
+2019-02-19 09:57:35,591 INFO  cus name for index -1 is - ATLANTA, GA
+2019-02-19 09:57:35,593 INFO  cus name for index -2 is - STEELE FREDERIC
+2019-02-19 09:57:35,594 INFO  cus name for index -3 is - KUTTAPPAN LEELA
+2019-02-19 09:57:35,595 INFO  cus name for index -4 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,596 INFO  cus name for index -5 is - DEBRA KURTZ
+2019-02-19 09:57:35,597 INFO  cus name for index -6 is - GLASSON JULIE
+2019-02-19 09:57:35,598 INFO  cus name for index -7 is - JOHNSON RONALD 
+2019-02-19 09:57:35,599 INFO  cus name for index -8 is - GLASSON JULIE
+2019-02-19 09:57:35,600 INFO  cus name for index -9 is - TENNESSEE COMME
+2019-02-19 09:57:35,603 INFO  cus name for index -10 is - JIM CIZZKS
+2019-02-19 09:57:35,604 INFO  cus name for index -11 is - CUMMING, GA
+2019-02-19 09:57:35,606 INFO  cus name for index -12 is - NEAL CHRISTOPHE
+2019-02-19 09:57:35,607 INFO  cus name for index -13 is - LAGRANGE, GA
+2019-02-19 09:57:35,608 INFO  cus name for index -14 is - ATLANTA, GA
+2019-02-19 09:57:35,609 INFO  cus name for index -15 is - SPRAGUE SUSAN C
+2019-02-19 09:57:35,610 INFO  cus name for index -16 is - UBE URBAN
+2019-02-19 09:57:35,612 INFO  cus name for index -17 is - ATLANTA, GA
+2019-02-19 09:57:35,613 INFO  cus name for index -18 is - JAMIE ELLIOTT
+2019-02-19 09:57:35,614 INFO  cus name for index -19 is - H.M. PATTERSON
+2019-02-19 09:57:35,615 INFO  cus name for index -20 is - H.M. PATTERSON
+2019-02-19 09:57:35,616 INFO  cus name for index -21 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,617 INFO  cus name for index -22 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,618 INFO  cus name for index -23 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,620 INFO  cus name for index -24 is - DELTA AIR LINES
+2019-02-19 09:57:35,621 INFO  cus name for index -25 is - EGHTEDARI ASHLE
+2019-02-19 09:57:35,622 INFO  cus name for index -26 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,623 INFO  cus name for index -27 is - HOCKSTEIN KEN
+2019-02-19 09:57:35,624 INFO  cus name for index -28 is - RENEE ROTE
+2019-02-19 09:57:35,625 INFO  cus name for index -29 is - ATLANTA, GA
+2019-02-19 09:57:35,626 INFO  cus name for index -30 is - JASON RANDALL
+2019-02-19 09:57:35,627 INFO  cus name for index -31 is - WALKER,LANGSTON
+2019-02-19 09:57:35,629 INFO  cus name for index -32 is - DES MOINES, IA
+2019-02-19 09:57:35,631 INFO  cus name for index -33 is - BRENT J
+2019-02-19 09:57:35,632 INFO  cus name for index -34 is - AUE,MARY
+2019-02-19 09:57:35,633 INFO  cus name for index -35 is - ATLANTA, GA
+2019-02-19 09:57:35,634 INFO  cus name for index -36 is - LANCASTER, NY
+2019-02-19 09:57:35,635 INFO  cus name for index -37 is - LANCASTER, NY
+2019-02-19 09:57:35,636 INFO  cus name for index -38 is - WARSAW, MO
+2019-02-19 09:57:35,637 INFO  cus name for index -39 is - WARD,ATIBA
+2019-02-19 09:57:35,638 INFO  cus name for index -40 is - WARD,ATIBA
+2019-02-19 09:57:35,640 INFO  cus name for index -41 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,641 INFO  cus name for index -42 is - TEMEN JAY
+2019-02-19 09:57:35,642 INFO  cus name for index -43 is - TEMEN JAY
+2019-02-19 09:57:35,643 INFO  cus name for index -44 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,644 INFO  cus name for index -45 is - GAINESVILLE, GA
+2019-02-19 09:57:35,645 INFO  cus name for index -46 is - MORRIS PRIDE
+2019-02-19 09:57:35,646 INFO  cus name for index -47 is - MORRIS PRIDE
+2019-02-19 09:57:35,647 INFO  cus name for index -48 is - MORRIS PRIDE
+2019-02-19 09:57:35,648 INFO  cus name for index -49 is - WARDEN KENNETH
+2019-02-19 09:57:35,649 INFO  cus name for index -50 is - WARDEN KENNETH
+2019-02-19 09:57:35,650 INFO  cus name for index -51 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,652 INFO  cus name for index -52 is - WINGFIELD LYNNE
+2019-02-19 09:57:35,653 INFO  cus name for index -53 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,654 INFO  cus name for index -54 is - ZIEGLER THOMAS
+2019-02-19 09:57:35,655 INFO  cus name for index -55 is - DILLARD MOU, GA
+2019-02-19 09:57:35,656 INFO  cus name for index -56 is - SHINE STEVE
+2019-02-19 09:57:35,657 INFO  cus name for index -57 is - SHELBY JOSEPH
+2019-02-19 09:57:35,658 INFO  cus name for index -58 is - MARINOS HELGA
+2019-02-19 09:57:35,661 INFO  cus name for index -59 is - BECHARA RABIH I
+2019-02-19 09:57:35,662 INFO  cus name for index -60 is - HIGGINS DEBORAH
+2019-02-19 09:57:35,663 INFO  cus name for index -61 is - BECHARA RABIH I
+2019-02-19 09:57:35,665 INFO  cus name for index -62 is - HIGGINS DEBORAH
+2019-02-19 09:57:35,665 INFO  cus name for index -63 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,666 INFO  cus name for index -64 is - HIGGINS DEBORAH
+2019-02-19 09:57:35,669 INFO  cus name for index -65 is - GIBBS,SHANE
+2019-02-19 09:57:35,670 INFO  cus name for index -66 is - MIDDLEBROOKS KA
+2019-02-19 09:57:35,670 INFO  cus name for index -67 is - ZIEGLER THOMAS
+2019-02-19 09:57:35,671 INFO  cus name for index -68 is - TOOLEY NOVEL
+2019-02-19 09:57:35,672 INFO  cus name for index -69 is - WALKER,LANGSTON
+2019-02-19 09:57:35,673 INFO  cus name for index -70 is - ATLANTA, GA
+2019-02-19 09:57:35,674 INFO  cus name for index -71 is - FLYNN KATHLEEN
+2019-02-19 09:57:35,675 INFO  cus name for index -72 is - DUGANS MR
+2019-02-19 09:57:35,676 INFO  cus name for index -73 is - DENNIS JAMIE
+2019-02-19 09:57:35,677 INFO  cus name for index -74 is - BAHRI RAJEEV
+2019-02-19 09:57:35,679 INFO  cus name for index -75 is - DENNIS JAMIE
+2019-02-19 09:57:35,680 INFO  cus name for index -76 is - ,TAMEKA
+2019-02-19 09:57:35,680 INFO  cus name for index -77 is - ,TAMEKA
+2019-02-19 09:57:35,681 INFO  cus name for index -78 is - DENNIS JAMIE
+2019-02-19 09:57:35,682 INFO  cus name for index -79 is - JILLIAN CLEVELA
+2019-02-19 09:57:35,683 INFO  cus name for index -80 is - SPARANO JUSTIN
+2019-02-19 09:57:35,684 INFO  cus name for index -81 is - DEBORAH BANNWOR
+2019-02-19 09:57:35,685 INFO  cus name for index -82 is - DEBORAH BANNWOR
+2019-02-19 09:57:35,686 INFO  cus name for index -83 is - BUFORD, GA
+2019-02-19 09:57:35,687 INFO  cus name for index -84 is - JONES ROGER
+2019-02-19 09:57:35,689 INFO  cus name for index -85 is - JONES ROGER
+2019-02-19 09:57:35,689 INFO  cus name for index -86 is - JILLIAN CLEVELA
+2019-02-19 09:57:35,690 INFO  cus name for index -87 is - BAHRI RAJEEV
+2019-02-19 09:57:35,691 INFO  cus name for index -88 is - JONES ROGER
+2019-02-19 09:57:35,693 INFO  cus name for index -89 is - GAINESVILLE, GA
+2019-02-19 09:57:35,694 INFO  cus name for index -90 is - ALLEN SHAMEKA
+2019-02-19 09:57:35,695 INFO  cus name for index -91 is - POZVONKOV MICHA
+2019-02-19 09:57:35,696 INFO  cus name for index -92 is - GLENDALE CARNES
+2019-02-19 09:57:35,697 INFO  cus name for index -93 is - NEAL DAVIDSON
+2019-02-19 09:57:35,699 INFO  cus name for index -94 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,700 INFO  cus name for index -95 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,702 INFO  cus name for index -96 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,703 INFO  cus name for index -97 is - ZIEGLER THOMAS
+2019-02-19 09:57:35,704 INFO  cus name for index -98 is - GYIMAH,PETER
+2019-02-19 09:57:35,704 INFO  cus name for index -99 is - ALLEN EBRON
+2019-02-19 09:57:35,705 INFO  Referring object number - 2 - from the list of 20
+2019-02-19 09:57:35,706 INFO  Inside case OK!
+2019-02-19 09:57:35,707 INFO  Response here status code is - OK
+2019-02-19 09:57:35,709 INFO  Count of call data list is - 100
+2019-02-19 09:57:35,710 INFO  Getting in the loop to get the call data at each indexes.
+2019-02-19 09:57:35,712 INFO  cus name for index -0 is - ATLANTA, GA
+2019-02-19 09:57:35,712 INFO  cus name for index -1 is - LONG GERALD C
+2019-02-19 09:57:35,713 INFO  cus name for index -2 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,715 INFO  cus name for index -3 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,719 INFO  cus name for index -4 is - FREE JULIE
+2019-02-19 09:57:35,720 INFO  cus name for index -5 is - BILL LUTZ
+2019-02-19 09:57:35,722 INFO  cus name for index -6 is - FREE JULIE
+2019-02-19 09:57:35,722 INFO  cus name for index -7 is - COCO
+2019-02-19 09:57:35,723 INFO  cus name for index -8 is - SHOOK ANDREA
+2019-02-19 09:57:35,724 INFO  cus name for index -9 is - MCCORMICK JEAN
+2019-02-19 09:57:35,725 INFO  cus name for index -10 is - MCCORMICK JEAN
+2019-02-19 09:57:35,726 INFO  cus name for index -11 is - FREEMAN SUSAN
+2019-02-19 09:57:35,728 INFO  cus name for index -12 is - RAY PATRICK
+2019-02-19 09:57:35,729 INFO  cus name for index -13 is - FREEMAN SUSAN
+2019-02-19 09:57:35,730 INFO  cus name for index -14 is - FREEMAN SUSAN
+2019-02-19 09:57:35,731 INFO  cus name for index -15 is - HOSSEIN ZANDKAR
+2019-02-19 09:57:35,732 INFO  cus name for index -16 is - JAY VINCENT
+2019-02-19 09:57:35,733 INFO  cus name for index -17 is - HOSSEIN ZANDKAR
+2019-02-19 09:57:35,735 INFO  cus name for index -18 is - EVANGELISTA D
+2019-02-19 09:57:35,735 INFO  cus name for index -19 is - PENSKE TRUCK RE
+2019-02-19 09:57:35,736 INFO  cus name for index -20 is - FULLER,MICHAEL
+2019-02-19 09:57:35,737 INFO  cus name for index -21 is - JAY VINCENT
+2019-02-19 09:57:35,738 INFO  cus name for index -22 is - EVANS CHRISTOPH
+2019-02-19 09:57:35,739 INFO  cus name for index -23 is - FULLER,MICHAEL
+2019-02-19 09:57:35,741 INFO  cus name for index -24 is - FULLER,MICHAEL
+2019-02-19 09:57:35,742 INFO  cus name for index -25 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,743 INFO  cus name for index -26 is - PREVENT CHILD A
+2019-02-19 09:57:35,744 INFO  cus name for index -27 is - MACARTHUR KELLY
+2019-02-19 09:57:35,745 INFO  cus name for index -28 is - NEWMAN MARY
+2019-02-19 09:57:35,746 INFO  cus name for index -29 is - ATLANTA, GA
+2019-02-19 09:57:35,748 INFO  cus name for index -30 is - ATLANTA, GA
+2019-02-19 09:57:35,749 INFO  cus name for index -31 is - CORBETT LINDA
+2019-02-19 09:57:35,750 INFO  cus name for index -32 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,751 INFO  cus name for index -33 is - TOM OASIS
+2019-02-19 09:57:35,752 INFO  cus name for index -34 is - ATLANTA, GA
+2019-02-19 09:57:35,753 INFO  cus name for index -35 is - HELGESEN BOB
+2019-02-19 09:57:35,753 INFO  cus name for index -36 is - TEMEN JAY
+2019-02-19 09:57:35,754 INFO  cus name for index -37 is - MR. BURNETTE
+2019-02-19 09:57:35,755 INFO  cus name for index -38 is - MR. BURNETTE
+2019-02-19 09:57:35,756 INFO  cus name for index -39 is - MR. BURNETTE
+2019-02-19 09:57:35,758 INFO  cus name for index -40 is - PREVENT CHILD A
+2019-02-19 09:57:35,759 INFO  cus name for index -41 is - HELEN HAYES
+2019-02-19 09:57:35,760 INFO  cus name for index -42 is - MS. LYNDA
+2019-02-19 09:57:35,760 INFO  cus name for index -43 is - SCOTT VIRGIL
+2019-02-19 09:57:35,761 INFO  cus name for index -44 is - SCOTT VIRGIL
+2019-02-19 09:57:35,762 INFO  cus name for index -45 is - SCOTT VIRGIL
+2019-02-19 09:57:35,762 INFO  cus name for index -46 is - NEWMAN MARY
+2019-02-19 09:57:35,763 INFO  cus name for index -47 is - EMORY
+2019-02-19 09:57:35,764 INFO  cus name for index -48 is - FOY & ASSOCIATE
+2019-02-19 09:57:35,764 INFO  cus name for index -49 is - JETTA WINKFIELD
+2019-02-19 09:57:35,765 INFO  cus name for index -50 is - NEMEC JOSEPH J
+2019-02-19 09:57:35,766 INFO  cus name for index -51 is - TROY COOPER
+2019-02-19 09:57:35,768 INFO  cus name for index -52 is - NEWMAN MARY
+2019-02-19 09:57:35,769 INFO  cus name for index -53 is - ZIEGLER THOMAS
+2019-02-19 09:57:35,769 INFO  cus name for index -54 is - SNIDER JOHN W
+2019-02-19 09:57:35,770 INFO  cus name for index -55 is - DR WKG CAP INC
+2019-02-19 09:57:35,771 INFO  cus name for index -56 is - DES MOINES, IA
+2019-02-19 09:57:35,771 INFO  cus name for index -57 is - ATLANTA, GA
+2019-02-19 09:57:35,772 INFO  cus name for index -58 is - STARSHIP ENTERP
+2019-02-19 09:57:35,773 INFO  cus name for index -59 is - STINEY JOHN K
+2019-02-19 09:57:35,773 INFO  cus name for index -60 is - AARON S RENTS
+2019-02-19 09:57:35,774 INFO  cus name for index -61 is - ATLANTA, GA
+2019-02-19 09:57:35,775 INFO  cus name for index -62 is - SIMONIS ASSOC
+2019-02-19 09:57:35,775 INFO  cus name for index -63 is - DEVIN SOCCER
+2019-02-19 09:57:35,778 INFO  cus name for index -64 is - THROCKMORTON SH
+2019-02-19 09:57:35,779 INFO  cus name for index -65 is - SMITH HAROLYN
+2019-02-19 09:57:35,780 INFO  cus name for index -66 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,781 INFO  cus name for index -67 is - ATLANTA, GA
+2019-02-19 09:57:35,782 INFO  cus name for index -68 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,782 INFO  cus name for index -69 is - HACKENSACK, NJ
+2019-02-19 09:57:35,783 INFO  cus name for index -70 is - HACKENSACK, NJ
+2019-02-19 09:57:35,784 INFO  cus name for index -71 is - KAT GRAHAM
+2019-02-19 09:57:35,785 INFO  cus name for index -72 is - ATLANTA, GA
+2019-02-19 09:57:35,786 INFO  cus name for index -73 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,787 INFO  cus name for index -74 is - DES MOINES, IA
+2019-02-19 09:57:35,788 INFO  cus name for index -75 is - ATLANTA, GA
+2019-02-19 09:57:35,789 INFO  cus name for index -76 is - ATLANTA, GA
+2019-02-19 09:57:35,789 INFO  cus name for index -77 is - NICHOLS ALEC
+2019-02-19 09:57:35,790 INFO  cus name for index -78 is - TAMMY HUINKER
+2019-02-19 09:57:35,791 INFO  cus name for index -79 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,791 INFO  cus name for index -80 is - HYMAN ROBERT
+2019-02-19 09:57:35,792 INFO  cus name for index -81 is - ATLANTA, GA
+2019-02-19 09:57:35,793 INFO  cus name for index -82 is - WEINER,NANCI
+2019-02-19 09:57:35,794 INFO  cus name for index -83 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,795 INFO  cus name for index -84 is - MARIETTA PULMON
+2019-02-19 09:57:35,796 INFO  cus name for index -85 is - CHRIS TREADWELL
+2019-02-19 09:57:35,797 INFO  cus name for index -86 is - LAW OFFICES OF
+2019-02-19 09:57:35,798 INFO  cus name for index -87 is - RASHAD MCFARLAN
+2019-02-19 09:57:35,799 INFO  cus name for index -88 is - MAMBO ASRAT
+2019-02-19 09:57:35,800 INFO  cus name for index -89 is - CHANG,CHIH
+2019-02-19 09:57:35,801 INFO  cus name for index -90 is - COMMERCE, GA
+2019-02-19 09:57:35,802 INFO  cus name for index -91 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,802 INFO  cus name for index -92 is - CHANG,CHIH
+2019-02-19 09:57:35,803 INFO  cus name for index -93 is - DAVIDSON AMY
+2019-02-19 09:57:35,803 INFO  cus name for index -94 is - PIERCE,SHARON
+2019-02-19 09:57:35,804 INFO  cus name for index -95 is - WOOD STEVEN W
+2019-02-19 09:57:35,805 INFO  cus name for index -96 is - WIND,BARBARA
+2019-02-19 09:57:35,805 INFO  cus name for index -97 is - BENJAMIN CLAREN
+2019-02-19 09:57:35,807 INFO  cus name for index -98 is - BENJAMIN CLAREN
+2019-02-19 09:57:35,808 INFO  cus name for index -99 is - BENJAMIN CLAREN
+2019-02-19 09:57:35,809 INFO  Referring object number - 3 - from the list of 20
+2019-02-19 09:57:35,809 INFO  Inside case OK!
+2019-02-19 09:57:35,811 INFO  Response here status code is - OK
+2019-02-19 09:57:35,811 INFO  Count of call data list is - 100
+2019-02-19 09:57:35,812 INFO  Getting in the loop to get the call data at each indexes.
+2019-02-19 09:57:35,813 INFO  cus name for index -0 is - BUNCH SHERRE
+2019-02-19 09:57:35,813 INFO  cus name for index -1 is - LIN XI OWN
+2019-02-19 09:57:35,814 INFO  cus name for index -2 is - NICHOLS ALEC
+2019-02-19 09:57:35,815 INFO  cus name for index -3 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,815 INFO  cus name for index -4 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,817 INFO  cus name for index -5 is - J HILDERBRAND
+2019-02-19 09:57:35,819 INFO  cus name for index -6 is - TOWNSEND JAMES
+2019-02-19 09:57:35,820 INFO  cus name for index -7 is - ATLANTA, GA
+2019-02-19 09:57:35,821 INFO  cus name for index -8 is - SHANK MICHAEL
+2019-02-19 09:57:35,821 INFO  cus name for index -9 is - SHANK MICHAEL
+2019-02-19 09:57:35,822 INFO  cus name for index -10 is - MS. LYNDA
+2019-02-19 09:57:35,823 INFO  cus name for index -11 is - MS. LYNDA
+2019-02-19 09:57:35,823 INFO  cus name for index -12 is - KRAFT MATTHEW A
+2019-02-19 09:57:35,824 INFO  cus name for index -13 is - WOODHAM DEANNA
+2019-02-19 09:57:35,825 INFO  cus name for index -14 is - WOODHAM DEANNA
+2019-02-19 09:57:35,825 INFO  cus name for index -15 is - WOODHAM DEANNA
+2019-02-19 09:57:35,826 INFO  cus name for index -16 is - FRED HOLZHEISER
+2019-02-19 09:57:35,828 INFO  cus name for index -17 is - WINDER, GA
+2019-02-19 09:57:35,828 INFO  cus name for index -18 is - MIZELL MICHAEL
+2019-02-19 09:57:35,829 INFO  cus name for index -19 is - BENJAMIN CLAREN
+2019-02-19 09:57:35,830 INFO  cus name for index -20 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,831 INFO  cus name for index -21 is - G GARCIA
+2019-02-19 09:57:35,833 INFO  cus name for index -22 is - SCHLOSSER JAY
+2019-02-19 09:57:35,834 INFO  cus name for index -23 is - TONY BENNETT
+2019-02-19 09:57:35,835 INFO  cus name for index -24 is - COPELAND,DWIGHT
+2019-02-19 09:57:35,836 INFO  cus name for index -25 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,837 INFO  cus name for index -26 is - MEREDITH PAMELA
+2019-02-19 09:57:35,838 INFO  cus name for index -27 is - MEREDITH PAMELA
+2019-02-19 09:57:35,839 INFO  cus name for index -28 is - MEREDITH PAMELA
+2019-02-19 09:57:35,839 INFO  cus name for index -29 is - HELEN, GA
+2019-02-19 09:57:35,840 INFO  cus name for index -30 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,841 INFO  cus name for index -31 is - WASHINGTON,ARTH
+2019-02-19 09:57:35,842 INFO  cus name for index -32 is - WASHINGTON,ARTH
+2019-02-19 09:57:35,843 INFO  cus name for index -33 is - WILLIAMS DEXTER
+2019-02-19 09:57:35,843 INFO  cus name for index -34 is - DENNIS ARNOLD
+2019-02-19 09:57:35,844 INFO  cus name for index -35 is - DENNIS ARNOLD
+2019-02-19 09:57:35,845 INFO  cus name for index -36 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,846 INFO  cus name for index -37 is - GREGORY BUSSEY
+2019-02-19 09:57:35,847 INFO  cus name for index -38 is - HENDERSON LYNN
+2019-02-19 09:57:35,848 INFO  cus name for index -39 is - BERTRAM JAMES
+2019-02-19 09:57:35,849 INFO  cus name for index -40 is - DALTON ALCINA
+2019-02-19 09:57:35,849 INFO  cus name for index -41 is - JOHNSTON HERBER
+2019-02-19 09:57:35,850 INFO  cus name for index -42 is - LISA POWELL
+2019-02-19 09:57:35,851 INFO  cus name for index -43 is - LINDA
+2019-02-19 09:57:35,852 INFO  cus name for index -44 is - SURASKY AARON
+2019-02-19 09:57:35,852 INFO  cus name for index -45 is - SURASKY AARON
+2019-02-19 09:57:35,853 INFO  cus name for index -46 is - SELBY NAOMI
+2019-02-19 09:57:35,854 INFO  cus name for index -47 is - LADUE, MO
+2019-02-19 09:57:35,854 INFO  cus name for index -48 is - ARLINGTON, TX
+2019-02-19 09:57:35,855 INFO  cus name for index -49 is - ATLANTA, GA
+2019-02-19 09:57:35,857 INFO  cus name for index -50 is - ALSTON BIRD LLP
+2019-02-19 09:57:35,857 INFO  cus name for index -51 is - ATLANTA, GA
+2019-02-19 09:57:35,858 INFO  cus name for index -52 is - AUSTIN SHERRY
+2019-02-19 09:57:35,859 INFO  cus name for index -53 is - TROY COOPER
+2019-02-19 09:57:35,860 INFO  cus name for index -54 is - JESSUP HANNAH
+2019-02-19 09:57:35,861 INFO  cus name for index -55 is - AUSTIN SHERRY
+2019-02-19 09:57:35,861 INFO  cus name for index -56 is - ATLANTA, GA
+2019-02-19 09:57:35,862 INFO  cus name for index -57 is - CHANG,CHIH
+2019-02-19 09:57:35,862 INFO  cus name for index -58 is - ATLANTA, GA
+2019-02-19 09:57:35,863 INFO  cus name for index -59 is - KWON,GREGORY
+2019-02-19 09:57:35,864 INFO  cus name for index -60 is - DAY JOHN S
+2019-02-19 09:57:35,864 INFO  cus name for index -61 is - CORDER,KRISTAN
+2019-02-19 09:57:35,866 INFO  cus name for index -62 is - ADAIRSVILLE, GA
+2019-02-19 09:57:35,867 INFO  cus name for index -63 is - LYNN SHULER
+2019-02-19 09:57:35,868 INFO  cus name for index -64 is - HORNER CHASE
+2019-02-19 09:57:35,869 INFO  cus name for index -65 is - GAINESVILLE, GA
+2019-02-19 09:57:35,869 INFO  cus name for index -66 is - JACOBSON ANDREA
+2019-02-19 09:57:35,870 INFO  cus name for index -67 is - BUBBA
+2019-02-19 09:57:35,871 INFO  cus name for index -68 is - KEVIN GREEN
+2019-02-19 09:57:35,871 INFO  cus name for index -69 is - KEVIN GREEN
+2019-02-19 09:57:35,872 INFO  cus name for index -70 is - MATTHEW AHLERT
+2019-02-19 09:57:35,873 INFO  cus name for index -71 is - PADMANABHAN JAI
+2019-02-19 09:57:35,874 INFO  cus name for index -72 is - ATLANTA, GA
+2019-02-19 09:57:35,874 INFO  cus name for index -73 is - GREGORY BUSSEY
+2019-02-19 09:57:35,875 INFO  cus name for index -74 is - GREGORY BUSSEY
+2019-02-19 09:57:35,877 INFO  cus name for index -75 is - MICHAEL TURNER
+2019-02-19 09:57:35,878 INFO  cus name for index -76 is - BUNCH SHERRE
+2019-02-19 09:57:35,879 INFO  cus name for index -77 is - MITCHELL1 TONI
+2019-02-19 09:57:35,879 INFO  cus name for index -78 is - TIRES PLUS
+2019-02-19 09:57:35,880 INFO  cus name for index -79 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,881 INFO  cus name for index -80 is - HILDA PORTWOOD
+2019-02-19 09:57:35,883 INFO  cus name for index -81 is - HILDA PORTWOOD
+2019-02-19 09:57:35,884 INFO  cus name for index -82 is - HILDA PORTWOOD
+2019-02-19 09:57:35,886 INFO  cus name for index -83 is - CJ B
+2019-02-19 09:57:35,887 INFO  cus name for index -84 is - MILLER DOUGLAS
+2019-02-19 09:57:35,887 INFO  cus name for index -85 is - MILLER DOUGLAS
+2019-02-19 09:57:35,888 INFO  cus name for index -86 is - BURR RIDGE, IL
+2019-02-19 09:57:35,889 INFO  cus name for index -87 is - JESSUP HANNAH
+2019-02-19 09:57:35,889 INFO  cus name for index -88 is - JESSUP HANNAH
+2019-02-19 09:57:35,890 INFO  cus name for index -89 is - KEN REUSCH
+2019-02-19 09:57:35,891 INFO  cus name for index -90 is - KEN REUSCH
+2019-02-19 09:57:35,891 INFO  cus name for index -91 is - KEN REUSCH
+2019-02-19 09:57:35,892 INFO  cus name for index -92 is - KEN REUSCH
+2019-02-19 09:57:35,893 INFO  cus name for index -93 is - ATLANTA, GA
+2019-02-19 09:57:35,894 INFO  cus name for index -94 is - ATLANTA, GA
+2019-02-19 09:57:35,895 INFO  cus name for index -95 is - LADDAWN
+2019-02-19 09:57:35,896 INFO  cus name for index -96 is - LADDAWN
+2019-02-19 09:57:35,897 INFO  cus name for index -97 is - WILSON CHAD
+2019-02-19 09:57:35,898 INFO  cus name for index -98 is - KEN REUSCH
+2019-02-19 09:57:35,899 INFO  cus name for index -99 is - AUSTIN SHERRY
+2019-02-19 09:57:35,899 INFO  Referring object number - 4 - from the list of 20
+2019-02-19 09:57:35,900 INFO  Inside case OK!
+2019-02-19 09:57:35,901 INFO  Response here status code is - OK
+2019-02-19 09:57:35,902 INFO  Count of call data list is - 100
+2019-02-19 09:57:35,902 INFO  Getting in the loop to get the call data at each indexes.
+2019-02-19 09:57:35,903 INFO  cus name for index -0 is - BENNETT DAVID
+2019-02-19 09:57:35,904 INFO  cus name for index -1 is - CATALINA VIZCAR
+2019-02-19 09:57:35,905 INFO  cus name for index -2 is - ATLANTA, GA
+2019-02-19 09:57:35,906 INFO  cus name for index -3 is - DONALD LEMON
+2019-02-19 09:57:35,907 INFO  cus name for index -4 is - GAINESVILLE, GA
+2019-02-19 09:57:35,908 INFO  cus name for index -5 is - GAINESVILLE, GA
+2019-02-19 09:57:35,908 INFO  cus name for index -6 is - ATLANTA, GA
+2019-02-19 09:57:35,909 INFO  cus name for index -7 is - DA VITA DECATUR
+2019-02-19 09:57:35,910 INFO  cus name for index -8 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,911 INFO  cus name for index -9 is - LARKIN FRANK P
+2019-02-19 09:57:35,912 INFO  cus name for index -10 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,912 INFO  cus name for index -11 is - ATLANTA SOU, GA
+2019-02-19 09:57:35,913 INFO  cus name for index -12 is - FLOWERS BY TONY
+2019-02-19 09:57:35,913 INFO  cus name for index -13 is - US COURTS
+2019-02-19 09:57:35,915 INFO  cus name for index -14 is - PARKSIDE DENTAL
+2019-02-19 09:57:35,916 INFO  cus name for index -15 is - DONALD,CHAD
+2019-02-19 09:57:35,917 INFO  cus name for index -16 is - CONNER
+2019-02-19 09:57:35,918 INFO  cus name for index -17 is - CONNER
+2019-02-19 09:57:35,919 INFO  cus name for index -18 is - CHATTAHOOCHEE E
+2019-02-19 09:57:35,919 INFO  cus name for index -19 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,920 INFO  cus name for index -20 is - TONY NABA
+2019-02-19 09:57:35,921 INFO  cus name for index -21 is - TONY NABA
+2019-02-19 09:57:35,922 INFO  cus name for index -22 is - ROVER HENNESSY
+2019-02-19 09:57:35,922 INFO  cus name for index -23 is - TONY NABA
+2019-02-19 09:57:35,923 INFO  cus name for index -24 is - LONG GERALD C
+2019-02-19 09:57:35,924 INFO  cus name for index -25 is - SUZANNE TROMBIN
+2019-02-19 09:57:35,925 INFO  cus name for index -26 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,926 INFO  cus name for index -27 is - ATLANTA, GA
+2019-02-19 09:57:35,928 INFO  cus name for index -28 is - HARRIS,KAREN
+2019-02-19 09:57:35,929 INFO  cus name for index -29 is - ATLANTA, GA
+2019-02-19 09:57:35,929 INFO  cus name for index -30 is - LONG GERALD C
+2019-02-19 09:57:35,930 INFO  cus name for index -31 is - LONG GERALD C
+2019-02-19 09:57:35,931 INFO  cus name for index -32 is - SINGLETON BRIAN
+2019-02-19 09:57:35,934 INFO  cus name for index -33 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,936 INFO  cus name for index -34 is - YARBROUGH KIRK
+2019-02-19 09:57:35,937 INFO  cus name for index -35 is - ALEX HAMILTON
+2019-02-19 09:57:35,938 INFO  cus name for index -36 is - PONTIS,MICHAEL
+2019-02-19 09:57:35,939 INFO  cus name for index -37 is - LACOSS JOEY
+2019-02-19 09:57:35,940 INFO  cus name for index -38 is - GMC TV
+2019-02-19 09:57:35,941 INFO  cus name for index -39 is - LARRY CHAMBERS
+2019-02-19 09:57:35,941 INFO  cus name for index -40 is - LARRY CHAMBERS
+2019-02-19 09:57:35,942 INFO  cus name for index -41 is - PONTIS,MICHAEL
+2019-02-19 09:57:35,943 INFO  cus name for index -42 is - COHEN ELIZABETH
+2019-02-19 09:57:35,944 INFO  cus name for index -43 is - DONALD,CHAD
+2019-02-19 09:57:35,945 INFO  cus name for index -44 is - ATLANTA, GA
+2019-02-19 09:57:35,947 INFO  cus name for index -45 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,948 INFO  cus name for index -46 is - HPW LLC
+2019-02-19 09:57:35,949 INFO  cus name for index -47 is - MCPHERSON IMPLE
+2019-02-19 09:57:35,950 INFO  cus name for index -48 is - COHEN ELIZABETH
+2019-02-19 09:57:35,952 INFO  cus name for index -49 is - LAMARRA GEORGE
+2019-02-19 09:57:35,953 INFO  cus name for index -50 is - DH PACE CORPORA
+2019-02-19 09:57:35,955 INFO  cus name for index -51 is - DH PACE CORPORA
+2019-02-19 09:57:35,956 INFO  cus name for index -52 is - ATLANTA, GA
+2019-02-19 09:57:35,957 INFO  cus name for index -53 is - DH PACE CORPORA
+2019-02-19 09:57:35,958 INFO  cus name for index -54 is - DH PACE CORPORA
+2019-02-19 09:57:35,960 INFO  cus name for index -55 is - CBRE
+2019-02-19 09:57:35,961 INFO  cus name for index -56 is - CBRE
+2019-02-19 09:57:35,962 INFO  cus name for index -57 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,963 INFO  cus name for index -58 is - DH PACE CORPORA
+2019-02-19 09:57:35,964 INFO  cus name for index -59 is - ATLANTA, GA
+2019-02-19 09:57:35,965 INFO  cus name for index -60 is - ATLANTA, GA
+2019-02-19 09:57:35,966 INFO  cus name for index -61 is - DH PACE CORPORA
+2019-02-19 09:57:35,968 INFO  cus name for index -62 is - COLBY JOHN
+2019-02-19 09:57:35,969 INFO  cus name for index -63 is - MEDTERRIAN REST
+2019-02-19 09:57:35,970 INFO  cus name for index -64 is - LYNN SHULER
+2019-02-19 09:57:35,971 INFO  cus name for index -65 is - WIND,BARBARA
+2019-02-19 09:57:35,972 INFO  cus name for index -66 is - ATLANTA NOR, GA
+2019-02-19 09:57:35,973 INFO  cus name for index -67 is - MARTINEZ,ENCARN
+2019-02-19 09:57:35,974 INFO  cus name for index -68 is - GAINESVILLE, GA
+2019-02-19 09:57:35,975 INFO  cus name for index -69 is - LONG GERALD C
+2019-02-19 09:57:35,976 INFO  cus name for index -70 is - WATSON MARCUS
+2019-02-19 09:57:35,979 INFO  cus name for index -71 is - ATLANTA, GA
+2019-02-19 09:57:35,979 INFO  cus name for index -72 is - LEAPFROG SVCS
+2019-02-19 09:57:35,980 INFO  cus name for index -73 is - POWE,SHIRLEY
+2019-02-19 09:57:35,981 INFO  cus name for index -74 is - IDC CONSTRUCTIO
+2019-02-19 09:57:35,983 INFO  cus name for index -75 is - LEE PIERCE
+2019-02-19 09:57:35,985 INFO  cus name for index -76 is - MESAROS,GEORGE
+2019-02-19 09:57:35,986 INFO  cus name for index -77 is - OWENS MARTHA
+2019-02-19 09:57:35,987 INFO  cus name for index -78 is - DH PACE CORPORA
+2019-02-19 09:57:35,988 INFO  cus name for index -79 is - BUSH DIANNE
+2019-02-19 09:57:35,989 INFO  cus name for index -80 is - ATLANTA, GA
+2019-02-19 09:57:35,989 INFO  cus name for index -81 is - ATLANTA, GA
+2019-02-19 09:57:35,990 INFO  cus name for index -82 is - ATLANTA, GA
+2019-02-19 09:57:35,991 INFO  cus name for index -83 is - BOWERS DAVID
+2019-02-19 09:57:35,991 INFO  cus name for index -84 is - BARKHOUSER DAN
+2019-02-19 09:57:35,992 INFO  cus name for index -85 is - FULTON THOMAS N
+2019-02-19 09:57:35,993 INFO  cus name for index -86 is - XIA JESSIE
+2019-02-19 09:57:35,994 INFO  cus name for index -87 is - EUGENE CURRY
+2019-02-19 09:57:35,996 INFO  cus name for index -88 is - TIFFANY NEWELL
+2019-02-19 09:57:35,997 INFO  cus name for index -89 is - EUGENE CURRY
+2019-02-19 09:57:35,997 INFO  cus name for index -90 is - WORLD CHANGERS
+2019-02-19 09:57:35,998 INFO  cus name for index -91 is - BARKHOUSER DAN
+2019-02-19 09:57:36,000 INFO  cus name for index -92 is - BARKHOUSER DAN
+2019-02-19 09:57:36,002 INFO  cus name for index -93 is - K KINDERDIETZ
+2019-02-19 09:57:36,003 INFO  cus name for index -94 is - EMORY
+2019-02-19 09:57:36,004 INFO  cus name for index -95 is - LONG GERALD C
+2019-02-19 09:57:36,006 INFO  cus name for index -96 is - WEBB,BILLIE
+2019-02-19 09:57:36,007 INFO  cus name for index -97 is - WEBB,BILLIE
+2019-02-19 09:57:36,007 INFO  cus name for index -98 is - PERKINS LEE
+2019-02-19 09:57:36,008 INFO  cus name for index -99 is - PERKINS LEE
+2019-02-19 09:57:36,009 INFO  Referring object number - 5 - from the list of 20
+2019-02-19 09:57:36,009 INFO  Inside case OK!
+2019-02-19 09:57:36,010 INFO  Response here status code is - OK
+2019-02-19 09:57:36,011 INFO  Count of call data list is - 100
+2019-02-19 09:57:36,011 INFO  Getting in the loop to get the call data at each indexes.
+2019-02-19 09:57:36,012 INFO  cus name for index -0 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,013 INFO  cus name for index -1 is - MATAMOROS LORLE
+2019-02-19 09:57:36,013 INFO  cus name for index -2 is - MAGGAW & PAWPAW
+2019-02-19 09:57:36,015 INFO  cus name for index -3 is - CHERYL FORTITUD
+2019-02-19 09:57:36,016 INFO  cus name for index -4 is - WASHINGTON,ARTH
+2019-02-19 09:57:36,017 INFO  cus name for index -5 is - WASHINGTON,ARTH
+2019-02-19 09:57:36,018 INFO  cus name for index -6 is - WASHINGTON,ARTH
+2019-02-19 09:57:36,019 INFO  cus name for index -7 is - BILL STREIB
+2019-02-19 09:57:36,019 INFO  cus name for index -8 is - BILL STREIB
+2019-02-19 09:57:36,020 INFO  cus name for index -9 is - MITCHELL1 TONI
+2019-02-19 09:57:36,021 INFO  cus name for index -10 is - ATLANTA SOU, GA
+2019-02-19 09:57:36,021 INFO  cus name for index -11 is - HOLLY BOYETT
+2019-02-19 09:57:36,022 INFO  cus name for index -12 is - ATLANTA, GA
+2019-02-19 09:57:36,023 INFO  cus name for index -13 is - WALKER GARADE D
+2019-02-19 09:57:36,023 INFO  cus name for index -14 is - ATLANTA, GA
+2019-02-19 09:57:36,024 INFO  cus name for index -15 is - BUDDY S SERVICE
+2019-02-19 09:57:36,025 INFO  cus name for index -16 is - BILL STREIB
+2019-02-19 09:57:36,026 INFO  cus name for index -17 is - GAINESVILLE, GA
+2019-02-19 09:57:36,027 INFO  cus name for index -18 is - TIFFANY NEWELL
+2019-02-19 09:57:36,027 INFO  cus name for index -19 is - EAST MEETS WEST
+2019-02-19 09:57:36,029 INFO  cus name for index -20 is - SWIECICHOWSKI J
+2019-02-19 09:57:36,029 INFO  cus name for index -21 is - CLARKSON MARGAR
+2019-02-19 09:57:36,030 INFO  cus name for index -22 is - DONALD,CHAD
+2019-02-19 09:57:36,032 INFO  cus name for index -23 is - ATLANTA, GA
+2019-02-19 09:57:36,033 INFO  cus name for index -24 is - HOLLY BOYETT
+2019-02-19 09:57:36,034 INFO  cus name for index -25 is - AMNE
+2019-02-19 09:57:36,035 INFO  cus name for index -26 is - LEAPFROG SVCS
+2019-02-19 09:57:36,036 INFO  cus name for index -27 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,037 INFO  cus name for index -28 is - BROWN & CO. JEW
+2019-02-19 09:57:36,037 INFO  cus name for index -29 is - SENKBEIL TOM
+2019-02-19 09:57:36,039 INFO  cus name for index -30 is - SENKBEIL TOM
+2019-02-19 09:57:36,040 INFO  cus name for index -31 is - DONALD,CHAD
+2019-02-19 09:57:36,041 INFO  cus name for index -32 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,041 INFO  cus name for index -33 is - ELEVATE
+2019-02-19 09:57:36,042 INFO  cus name for index -34 is - QUEEN LINDA
+2019-02-19 09:57:36,043 INFO  cus name for index -35 is - BELL,GEORGE
+2019-02-19 09:57:36,044 INFO  cus name for index -36 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,045 INFO  cus name for index -37 is - MARKETTE W ROSC
+2019-02-19 09:57:36,045 INFO  cus name for index -38 is - WALKER PAULA
+2019-02-19 09:57:36,046 INFO  cus name for index -39 is - SHEAROD S D
+2019-02-19 09:57:36,047 INFO  cus name for index -40 is - LIFE SCIENCE IN
+2019-02-19 09:57:36,047 INFO  cus name for index -41 is - LIFE SCIENCE IN
+2019-02-19 09:57:36,048 INFO  cus name for index -42 is - EMORY UNIVERSIT
+2019-02-19 09:57:36,049 INFO  cus name for index -43 is - TRI-STARR
+2019-02-19 09:57:36,050 INFO  cus name for index -44 is - SNELSON FLOYD
+2019-02-19 09:57:36,051 INFO  cus name for index -45 is - HELEN TUTTLE
+2019-02-19 09:57:36,052 INFO  cus name for index -46 is - HOLLOMAN ANGELA
+2019-02-19 09:57:36,054 INFO  cus name for index -47 is - DOMERMUTH,CHARL
+2019-02-19 09:57:36,055 INFO  cus name for index -48 is - ATLANTA, GA
+2019-02-19 09:57:36,057 INFO  cus name for index -49 is - KE DAN
+2019-02-19 09:57:36,057 INFO  cus name for index -50 is - DOTHAN, AL
+2019-02-19 09:57:36,058 INFO  cus name for index -51 is - DAWSONVILLE, GA
+2019-02-19 09:57:36,059 INFO  cus name for index -52 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,059 INFO  cus name for index -53 is - LEARY KEVIN
+2019-02-19 09:57:36,060 INFO  cus name for index -54 is - PATTERSON THOMA
+2019-02-19 09:57:36,060 INFO  cus name for index -55 is - SAINT MARYS, GA
+2019-02-19 09:57:36,061 INFO  cus name for index -56 is - ADAIRSVILLE, GA
+2019-02-19 09:57:36,062 INFO  cus name for index -57 is - CRAIG ROBINSON
+2019-02-19 09:57:36,062 INFO  cus name for index -58 is - CLAISE BRIAN
+2019-02-19 09:57:36,063 INFO  cus name for index -59 is - ATLANTA SOU, GA
+2019-02-19 09:57:36,065 INFO  cus name for index -60 is - ATLANTA SOU, GA
+2019-02-19 09:57:36,065 INFO  cus name for index -61 is - DES MOINES, IA
+2019-02-19 09:57:36,066 INFO  cus name for index -62 is - WAYNE L
+2019-02-19 09:57:36,067 INFO  cus name for index -63 is - ARMSTRONG,LESLI
+2019-02-19 09:57:36,068 INFO  cus name for index -64 is - DABDOUB MAHMOUD
+2019-02-19 09:57:36,069 INFO  cus name for index -65 is - Y PRESLEY
+2019-02-19 09:57:36,069 INFO  cus name for index -66 is - DONALD WILMORE
+2019-02-19 09:57:36,070 INFO  cus name for index -67 is - TONY BROWN
+2019-02-19 09:57:36,071 INFO  cus name for index -68 is - SLATTER,KERRY
+2019-02-19 09:57:36,071 INFO  cus name for index -69 is - DANIEL CHOI
+2019-02-19 09:57:36,072 INFO  cus name for index -70 is - MCGIVERN JAMES
+2019-02-19 09:57:36,073 INFO  cus name for index -71 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,074 INFO  cus name for index -72 is - MATT WHITING
+2019-02-19 09:57:36,075 INFO  cus name for index -73 is - ROBERT NESBITT
+2019-02-19 09:57:36,076 INFO  cus name for index -74 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,077 INFO  cus name for index -75 is - MATT WHITING
+2019-02-19 09:57:36,077 INFO  cus name for index -76 is - MATT WHITING
+2019-02-19 09:57:36,078 INFO  cus name for index -77 is - SAVANNAH, GA
+2019-02-19 09:57:36,079 INFO  cus name for index -78 is - SAVANNAH, GA
+2019-02-19 09:57:36,079 INFO  cus name for index -79 is - BILL STREIB
+2019-02-19 09:57:36,080 INFO  cus name for index -80 is - JANE MALLOY
+2019-02-19 09:57:36,081 INFO  cus name for index -81 is - SAVANNAH, GA
+2019-02-19 09:57:36,081 INFO  cus name for index -82 is - WILLIAMS LAURIE
+2019-02-19 09:57:36,082 INFO  cus name for index -83 is - ADAIRSVILLE, GA
+2019-02-19 09:57:36,083 INFO  cus name for index -84 is - TAYLOR AKITA
+2019-02-19 09:57:36,085 INFO  cus name for index -85 is - BILL BOTZONG
+2019-02-19 09:57:36,086 INFO  cus name for index -86 is - DES MOINES, IA
+2019-02-19 09:57:36,086 INFO  cus name for index -87 is - BOYD JR,DONALD
+2019-02-19 09:57:36,087 INFO  cus name for index -88 is - OSKALOOSA, IA
+2019-02-19 09:57:36,088 INFO  cus name for index -89 is - DES MOINES, IA
+2019-02-19 09:57:36,088 INFO  cus name for index -90 is - ATLANTA, GA
+2019-02-19 09:57:36,089 INFO  cus name for index -91 is - DARRIEL SLOAN
+2019-02-19 09:57:36,089 INFO  cus name for index -92 is - RAMSEY, NJ
+2019-02-19 09:57:36,090 INFO  cus name for index -93 is - ORTIZ,JULIO
+2019-02-19 09:57:36,091 INFO  cus name for index -94 is - CHI BUI
+2019-02-19 09:57:36,091 INFO  cus name for index -95 is - EVAN PIHERA
+2019-02-19 09:57:36,092 INFO  cus name for index -96 is - YOON,BYUNG
+2019-02-19 09:57:36,093 INFO  cus name for index -97 is - YOON,BYUNG
+2019-02-19 09:57:36,095 INFO  cus name for index -98 is - YOON,BYUNG
+2019-02-19 09:57:36,095 INFO  cus name for index -99 is - HEINTZELMAN MAR
+2019-02-19 09:57:36,096 INFO  Referring object number - 6 - from the list of 20
+2019-02-19 09:57:36,097 INFO  Inside case OK!
+2019-02-19 09:57:36,097 INFO  Response here status code is - OK
+2019-02-19 09:57:36,099 INFO  Count of call data list is - 100
+2019-02-19 09:57:36,100 INFO  Getting in the loop to get the call data at each indexes.
+2019-02-19 09:57:36,101 INFO  cus name for index -0 is - JANE MALLOY
+2019-02-19 09:57:36,102 INFO  cus name for index -1 is - DR. DEBBIE-ANN 
+2019-02-19 09:57:36,102 INFO  cus name for index -2 is - EG
+2019-02-19 09:57:36,104 INFO  cus name for index -3 is - RICHARD HUIZING
+2019-02-19 09:57:36,105 INFO  cus name for index -4 is - BOYD JR,DONALD
+2019-02-19 09:57:36,106 INFO  cus name for index -5 is - DUNCAN,CRAIG
+2019-02-19 09:57:36,107 INFO  cus name for index -6 is - DUNCAN,CRAIG
+2019-02-19 09:57:36,107 INFO  cus name for index -7 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,108 INFO  cus name for index -8 is - WUESTE,JAMES
+2019-02-19 09:57:36,109 INFO  cus name for index -9 is - ATLANTA, GA
+2019-02-19 09:57:36,109 INFO  cus name for index -10 is - WUESTE,JAMES
+2019-02-19 09:57:36,110 INFO  cus name for index -11 is - ATLANTA, GA
+2019-02-19 09:57:36,111 INFO  cus name for index -12 is - WALKER PAULA
+2019-02-19 09:57:36,112 INFO  cus name for index -13 is - TERRY HELTON
+2019-02-19 09:57:36,112 INFO  cus name for index -14 is - MCNAIR REVAPLE
+2019-02-19 09:57:36,113 INFO  cus name for index -15 is - DES MOINES, IA
+2019-02-19 09:57:36,114 INFO  cus name for index -16 is - ATLANTA, GA
+2019-02-19 09:57:36,115 INFO  cus name for index -17 is - HERZIG GENE M
+2019-02-19 09:57:36,116 INFO  cus name for index -18 is - MCNAIR REVAPLE
+2019-02-19 09:57:36,117 INFO  cus name for index -19 is - DES MOINES, IA
+2019-02-19 09:57:36,118 INFO  cus name for index -20 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,118 INFO  cus name for index -21 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,119 INFO  cus name for index -22 is - BEAVERS,DAVID
+2019-02-19 09:57:36,120 INFO  cus name for index -23 is - GIFT RHAPSODY B
+2019-02-19 09:57:36,121 INFO  cus name for index -24 is - GIFT RHAPSODY B
+2019-02-19 09:57:36,121 INFO  cus name for index -25 is - MORGAN WRIGHT
+2019-02-19 09:57:36,122 INFO  cus name for index -26 is - WARD WITKOWSKI
+2019-02-19 09:57:36,123 INFO  cus name for index -27 is - BRANTLEY VALERI
+2019-02-19 09:57:36,125 INFO  cus name for index -28 is - DULUTH, GA
+2019-02-19 09:57:36,126 INFO  cus name for index -29 is - DULUTH, GA
+2019-02-19 09:57:36,127 INFO  cus name for index -30 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,128 INFO  cus name for index -31 is - PIRTLE JOSEPH
+2019-02-19 09:57:36,128 INFO  cus name for index -32 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,130 INFO  cus name for index -33 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,130 INFO  cus name for index -34 is - ALPHA CARR
+2019-02-19 09:57:36,131 INFO  cus name for index -35 is - MIKE STINSON
+2019-02-19 09:57:36,133 INFO  cus name for index -36 is - NORCROSS, GA
+2019-02-19 09:57:36,134 INFO  cus name for index -37 is - HUYETTE STEVE
+2019-02-19 09:57:36,136 INFO  cus name for index -38 is - WALKER PAULA
+2019-02-19 09:57:36,136 INFO  cus name for index -39 is - FIELDS,LINDA
+2019-02-19 09:57:36,137 INFO  cus name for index -40 is - TRENT WOGON
+2019-02-19 09:57:36,138 INFO  cus name for index -41 is - SHRADER LARRY
+2019-02-19 09:57:36,139 INFO  cus name for index -42 is - CRAVEN,ROGER
+2019-02-19 09:57:36,139 INFO  cus name for index -43 is - CRAVEN,ROGER
+2019-02-19 09:57:36,140 INFO  cus name for index -44 is - CRAVEN,ROGER
+2019-02-19 09:57:36,141 INFO  cus name for index -45 is - DON JONES
+2019-02-19 09:57:36,141 INFO  cus name for index -46 is - FULL CIRCLE REC
+2019-02-19 09:57:36,142 INFO  cus name for index -47 is - THE COCA COLA C
+2019-02-19 09:57:36,143 INFO  cus name for index -48 is - MCCADDEN LARRY
+2019-02-19 09:57:36,145 INFO  cus name for index -49 is - BROWN ROBERT
+2019-02-19 09:57:36,146 INFO  cus name for index -50 is - KNOXVILLE, IA
+2019-02-19 09:57:36,146 INFO  cus name for index -51 is - IHNS LISA
+2019-02-19 09:57:36,148 INFO  cus name for index -52 is - RES ALTERNATIVE
+2019-02-19 09:57:36,149 INFO  cus name for index -53 is - NEERU
+2019-02-19 09:57:36,149 INFO  cus name for index -54 is - RANDY BERRY
+2019-02-19 09:57:36,151 INFO  cus name for index -55 is - NOT AVALIBLE
+2019-02-19 09:57:36,152 INFO  cus name for index -56 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,153 INFO  cus name for index -57 is - WINTERSET, IA
+2019-02-19 09:57:36,154 INFO  cus name for index -58 is - RIDDLE,JAMES
+2019-02-19 09:57:36,156 INFO  cus name for index -59 is - RIDDLE,JAMES
+2019-02-19 09:57:36,157 INFO  cus name for index -60 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,159 INFO  cus name for index -61 is - MURPHY THOMAS
+2019-02-19 09:57:36,160 INFO  cus name for index -62 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,160 INFO  cus name for index -63 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,162 INFO  cus name for index -64 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,162 INFO  cus name for index -65 is - OLIVIA WAGNER
+2019-02-19 09:57:36,163 INFO  cus name for index -66 is - BRENER JASON
+2019-02-19 09:57:36,165 INFO  cus name for index -67 is - ATLANTA, GA
+2019-02-19 09:57:36,166 INFO  cus name for index -68 is - NEERU
+2019-02-19 09:57:36,167 INFO  cus name for index -69 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,168 INFO  cus name for index -70 is - KINNEY,FREDDIE
+2019-02-19 09:57:36,170 INFO  cus name for index -71 is - WORTHINGTON, OH
+2019-02-19 09:57:36,171 INFO  cus name for index -72 is - MCELWAY,ALVIN
+2019-02-19 09:57:36,172 INFO  cus name for index -73 is - GEORGE JR
+2019-02-19 09:57:36,173 INFO  cus name for index -74 is - MR BRUCE
+2019-02-19 09:57:36,174 INFO  cus name for index -75 is - CAROLE MICSION
+2019-02-19 09:57:36,175 INFO  cus name for index -76 is - GENESIS BIOSCI
+2019-02-19 09:57:36,176 INFO  cus name for index -77 is - DES MOINES, IA
+2019-02-19 09:57:36,177 INFO  cus name for index -78 is - RONNIE MARTINEZ
+2019-02-19 09:57:36,178 INFO  cus name for index -79 is - DEBTSTOPPERS
+2019-02-19 09:57:36,178 INFO  cus name for index -80 is - DEVIN SOCCER
+2019-02-19 09:57:36,179 INFO  cus name for index -81 is - DEVIN SOCCER
+2019-02-19 09:57:36,179 INFO  cus name for index -82 is - GLENN ROBERT
+2019-02-19 09:57:36,180 INFO  cus name for index -83 is - GLENN ROBERT
+2019-02-19 09:57:36,181 INFO  cus name for index -84 is - GLENN ROBERT
+2019-02-19 09:57:36,181 INFO  cus name for index -85 is - WIND,BARBARA
+2019-02-19 09:57:36,182 INFO  cus name for index -86 is - GILBERT HOWARD
+2019-02-19 09:57:36,185 INFO  cus name for index -87 is - ATLANTA, GA
+2019-02-19 09:57:36,186 INFO  cus name for index -88 is - ATLANTA, GA
+2019-02-19 09:57:36,187 INFO  cus name for index -89 is - MCKENNA GLENN B
+2019-02-19 09:57:36,188 INFO  cus name for index -90 is - ATLANTA, GA
+2019-02-19 09:57:36,189 INFO  cus name for index -91 is - MCKENNA GLENN B
+2019-02-19 09:57:36,190 INFO  cus name for index -92 is - PARKATPEACHTREE
+2019-02-19 09:57:36,191 INFO  cus name for index -93 is - DULUTH, GA
+2019-02-19 09:57:36,191 INFO  cus name for index -94 is - BARRETT CLAYTON
+2019-02-19 09:57:36,194 INFO  cus name for index -95 is - MINYARD CAROLYN
+2019-02-19 09:57:36,195 INFO  cus name for index -96 is - BARRETT CLAYTON
+2019-02-19 09:57:36,197 INFO  cus name for index -97 is - EAST POINT, GA
+2019-02-19 09:57:36,197 INFO  cus name for index -98 is - COLBERT,DARCELL
+2019-02-19 09:57:36,198 INFO  cus name for index -99 is - MCAVOY KENNETH
+2019-02-19 09:57:36,199 INFO  Referring object number - 7 - from the list of 20
+2019-02-19 09:57:36,200 INFO  Inside case OK!
+2019-02-19 09:57:36,201 INFO  Response here status code is - OK
+2019-02-19 09:57:36,203 INFO  Count of call data list is - 100
+2019-02-19 09:57:36,204 INFO  Getting in the loop to get the call data at each indexes.
+2019-02-19 09:57:36,205 INFO  cus name for index -0 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,205 INFO  cus name for index -1 is - ADAM SWANSON
+2019-02-19 09:57:36,206 INFO  cus name for index -2 is - PARKS,GREGORY
+2019-02-19 09:57:36,207 INFO  cus name for index -3 is - DES MOINES, IA
+2019-02-19 09:57:36,208 INFO  cus name for index -4 is - ATLANTA, GA
+2019-02-19 09:57:36,208 INFO  cus name for index -5 is - WALKER PAULA
+2019-02-19 09:57:36,209 INFO  cus name for index -6 is - ADAM SWANSON
+2019-02-19 09:57:36,210 INFO  cus name for index -7 is - BOHACH MARY A
+2019-02-19 09:57:36,210 INFO  cus name for index -8 is - ELEVATE
+2019-02-19 09:57:36,213 INFO  cus name for index -9 is - DES MOINES, IA
+2019-02-19 09:57:36,214 INFO  cus name for index -10 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,215 INFO  cus name for index -11 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,215 INFO  cus name for index -12 is - GILBERT JAMES
+2019-02-19 09:57:36,216 INFO  cus name for index -13 is - GILBERT JAMES
+2019-02-19 09:57:36,219 INFO  cus name for index -14 is - CLEVELAND, GA
+2019-02-19 09:57:36,220 INFO  cus name for index -15 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,221 INFO  cus name for index -16 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,222 INFO  cus name for index -17 is - JUNEAU CONSTRUC
+2019-02-19 09:57:36,223 INFO  cus name for index -18 is - ALI SHAW
+2019-02-19 09:57:36,224 INFO  cus name for index -19 is - PCE
+2019-02-19 09:57:36,224 INFO  cus name for index -20 is - RIDDLE,JAMES
+2019-02-19 09:57:36,226 INFO  cus name for index -21 is - GLASGOW, VA
+2019-02-19 09:57:36,227 INFO  cus name for index -22 is - ARORA,RAM
+2019-02-19 09:57:36,228 INFO  cus name for index -23 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,229 INFO  cus name for index -24 is - WHITEHURST JAME
+2019-02-19 09:57:36,229 INFO  cus name for index -25 is - CENTRICS IT N C
+2019-02-19 09:57:36,230 INFO  cus name for index -26 is - DANA VASEY
+2019-02-19 09:57:36,231 INFO  cus name for index -27 is - HEUER KYLE
+2019-02-19 09:57:36,231 INFO  cus name for index -28 is - GLASGOW, VA
+2019-02-19 09:57:36,232 INFO  cus name for index -29 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,235 INFO  cus name for index -30 is - MACON, GA
+2019-02-19 09:57:36,236 INFO  cus name for index -31 is - ATLANTA, GA
+2019-02-19 09:57:36,236 INFO  cus name for index -32 is - ATLANTA, GA
+2019-02-19 09:57:36,237 INFO  cus name for index -33 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,238 INFO  cus name for index -34 is - DICKEY BROADCAS
+2019-02-19 09:57:36,239 INFO  cus name for index -35 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,239 INFO  cus name for index -36 is - BLACKMON RICHAR
+2019-02-19 09:57:36,240 INFO  cus name for index -37 is - BLACKMON RICHAR
+2019-02-19 09:57:36,241 INFO  cus name for index -38 is - DAVID LELAK
+2019-02-19 09:57:36,244 INFO  cus name for index -39 is - BLACKMON RICHAR
+2019-02-19 09:57:36,245 INFO  cus name for index -40 is - DES MOINES, IA
+2019-02-19 09:57:36,247 INFO  cus name for index -41 is - PRINTPACK INC
+2019-02-19 09:57:36,248 INFO  cus name for index -42 is - DANA VASEY
+2019-02-19 09:57:36,249 INFO  cus name for index -43 is - LONG GERALD C
+2019-02-19 09:57:36,251 INFO  cus name for index -44 is - LONG GERALD
+2019-02-19 09:57:36,252 INFO  cus name for index -45 is - LONG GERALD C
+2019-02-19 09:57:36,254 INFO  cus name for index -46 is - MANHATTAN, NY
+2019-02-19 09:57:36,255 INFO  cus name for index -47 is - GIGI CHILDRENS
+2019-02-19 09:57:36,255 INFO  cus name for index -48 is - GIGI CHILDRENS
+2019-02-19 09:57:36,256 INFO  cus name for index -49 is - CHRISTOPHER CUS
+2019-02-19 09:57:36,258 INFO  cus name for index -50 is - DARA GRANT
+2019-02-19 09:57:36,259 INFO  cus name for index -51 is - DARA GRANT
+2019-02-19 09:57:36,260 INFO  cus name for index -52 is - DEVIN
+2019-02-19 09:57:36,261 INFO  cus name for index -53 is - DEVIN
+2019-02-19 09:57:36,261 INFO  cus name for index -54 is - BONNIE MAURER
+2019-02-19 09:57:36,263 INFO  cus name for index -55 is - AHN SIMON
+2019-02-19 09:57:36,264 INFO  cus name for index -56 is - JACKSON & CAMPB
+2019-02-19 09:57:36,265 INFO  cus name for index -57 is - TRISH ERICKSON
+2019-02-19 09:57:36,265 INFO  cus name for index -58 is - WALKER JUERGEN
+2019-02-19 09:57:36,266 INFO  cus name for index -59 is - THE COCA COLA C
+2019-02-19 09:57:36,267 INFO  cus name for index -60 is - THOMPSON DAVID
+2019-02-19 09:57:36,268 INFO  cus name for index -61 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,269 INFO  cus name for index -62 is - RON SLAPPEY
+2019-02-19 09:57:36,270 INFO  cus name for index -63 is - RON SLAPPEY
+2019-02-19 09:57:36,271 INFO  cus name for index -64 is - RON SLAPPEY
+2019-02-19 09:57:36,272 INFO  cus name for index -65 is - HERRIN LEIGH
+2019-02-19 09:57:36,274 INFO  cus name for index -66 is - RON SLAPPEY
+2019-02-19 09:57:36,274 INFO  cus name for index -67 is - DELOITTE
+2019-02-19 09:57:36,276 INFO  cus name for index -68 is - EMIX ATL
+2019-02-19 09:57:36,276 INFO  cus name for index -69 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,277 INFO  cus name for index -70 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,278 INFO  cus name for index -71 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,279 INFO  cus name for index -72 is - DANIELS,RODERIC
+2019-02-19 09:57:36,280 INFO  cus name for index -73 is - MIKE
+2019-02-19 09:57:36,281 INFO  cus name for index -74 is - ATLANTA, GA
+2019-02-19 09:57:36,283 INFO  cus name for index -75 is - ATLANTA, GA
+2019-02-19 09:57:36,285 INFO  cus name for index -76 is - DANIELS,RODERIC
+2019-02-19 09:57:36,285 INFO  cus name for index -77 is - BIG MOON MOON F
+2019-02-19 09:57:36,286 INFO  cus name for index -78 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,287 INFO  cus name for index -79 is - DES MOINES, IA
+2019-02-19 09:57:36,288 INFO  cus name for index -80 is - TY
+2019-02-19 09:57:36,288 INFO  cus name for index -81 is - TY
+2019-02-19 09:57:36,289 INFO  cus name for index -82 is - ROSWELL, GA
+2019-02-19 09:57:36,290 INFO  cus name for index -83 is - RASHONDA COOPER
+2019-02-19 09:57:36,290 INFO  cus name for index -84 is - ATLANTA, GA
+2019-02-19 09:57:36,291 INFO  cus name for index -85 is - ATLANTA, GA
+2019-02-19 09:57:36,292 INFO  cus name for index -86 is - WHALEN,RHONDA
+2019-02-19 09:57:36,293 INFO  cus name for index -87 is - WHALEN,RHONDA
+2019-02-19 09:57:36,295 INFO  cus name for index -88 is - WHALEN,RHONDA
+2019-02-19 09:57:36,295 INFO  cus name for index -89 is - PHYLLIS BILLIN
+2019-02-19 09:57:36,296 INFO  cus name for index -90 is - WHALEN,RHONDA
+2019-02-19 09:57:36,297 INFO  cus name for index -91 is - DES MOINES, IA
+2019-02-19 09:57:36,297 INFO  cus name for index -92 is - HAN,KYUNG
+2019-02-19 09:57:36,298 INFO  cus name for index -93 is - GOMEZ RUDOLPH
+2019-02-19 09:57:36,299 INFO  cus name for index -94 is - THOMAS RYBSKI
+2019-02-19 09:57:36,299 INFO  cus name for index -95 is - ATLANTA, GA
+2019-02-19 09:57:36,300 INFO  cus name for index -96 is - GANDY MICHAEL
+2019-02-19 09:57:36,301 INFO  cus name for index -97 is - ATLANTA, GA
+2019-02-19 09:57:36,302 INFO  cus name for index -98 is - ALISHA CHAPMAN
+2019-02-19 09:57:36,303 INFO  cus name for index -99 is - HERRIN LEIGH
+2019-02-19 09:57:36,304 INFO  Referring object number - 8 - from the list of 20
+2019-02-19 09:57:36,305 INFO  Inside case OK!
+2019-02-19 09:57:36,305 INFO  Response here status code is - OK
+2019-02-19 09:57:36,307 INFO  Count of call data list is - 100
+2019-02-19 09:57:36,307 INFO  Getting in the loop to get the call data at each indexes.
+2019-02-19 09:57:36,308 INFO  cus name for index -0 is - DOSS NEWTON
+2019-02-19 09:57:36,309 INFO  cus name for index -1 is - ATLANTA, GA
+2019-02-19 09:57:36,310 INFO  cus name for index -2 is - DES MOINES, IA
+2019-02-19 09:57:36,311 INFO  cus name for index -3 is - DES MOINES, IA
+2019-02-19 09:57:36,311 INFO  cus name for index -4 is - JIMMIE BROWN BI
+2019-02-19 09:57:36,312 INFO  cus name for index -5 is - PARADISE BAPTIS
+2019-02-19 09:57:36,313 INFO  cus name for index -6 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,314 INFO  cus name for index -7 is - BELINDA BROWNIN
+2019-02-19 09:57:36,315 INFO  cus name for index -8 is - COCA COLA USA
+2019-02-19 09:57:36,316 INFO  cus name for index -9 is - ATLANTA, GA
+2019-02-19 09:57:36,317 INFO  cus name for index -10 is - ATLANTA, GA
+2019-02-19 09:57:36,318 INFO  cus name for index -11 is - DES MOINES, IA
+2019-02-19 09:57:36,319 INFO  cus name for index -12 is - ATLANTA, GA
+2019-02-19 09:57:36,320 INFO  cus name for index -13 is - TWYLA ROBERSON
+2019-02-19 09:57:36,320 INFO  cus name for index -14 is - SAN CARLOS-, CA
+2019-02-19 09:57:36,321 INFO  cus name for index -15 is - CINDY COOMBS
+2019-02-19 09:57:36,322 INFO  cus name for index -16 is - CINDY COOMBS
+2019-02-19 09:57:36,324 INFO  cus name for index -17 is - CINDY COOMBS
+2019-02-19 09:57:36,325 INFO  cus name for index -18 is - GRIMALDI TOM
+2019-02-19 09:57:36,326 INFO  cus name for index -19 is - THOMPSON RICKY
+2019-02-19 09:57:36,328 INFO  cus name for index -20 is - RASHAD MCFARLAN
+2019-02-19 09:57:36,329 INFO  cus name for index -21 is - OLSON TRACY
+2019-02-19 09:57:36,331 INFO  cus name for index -22 is - MACON, GA
+2019-02-19 09:57:36,332 INFO  cus name for index -23 is - MACON, GA
+2019-02-19 09:57:36,333 INFO  cus name for index -24 is - MACON, GA
+2019-02-19 09:57:36,336 INFO  cus name for index -25 is - ATLANTA, GA
+2019-02-19 09:57:36,337 INFO  cus name for index -26 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,338 INFO  cus name for index -27 is - VAN DO
+2019-02-19 09:57:36,340 INFO  cus name for index -28 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,342 INFO  cus name for index -29 is - MULLINAX TRUSS
+2019-02-19 09:57:36,343 INFO  cus name for index -30 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,344 INFO  cus name for index -31 is - MULLINAX TRUSS
+2019-02-19 09:57:36,345 INFO  cus name for index -32 is - ATLANTA, GA
+2019-02-19 09:57:36,346 INFO  cus name for index -33 is - NABIL FATTAL
+2019-02-19 09:57:36,346 INFO  cus name for index -34 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,347 INFO  cus name for index -35 is - AJWANG ELIZABET
+2019-02-19 09:57:36,348 INFO  cus name for index -36 is - DR TIFF
+2019-02-19 09:57:36,349 INFO  cus name for index -37 is - SAMLER HARRY
+2019-02-19 09:57:36,352 INFO  cus name for index -38 is - DON SHUMAKER
+2019-02-19 09:57:36,353 INFO  cus name for index -39 is - LATE KOMLANVI
+2019-02-19 09:57:36,355 INFO  cus name for index -40 is - WILES & WILES
+2019-02-19 09:57:36,356 INFO  cus name for index -41 is - MOORE HUBERT
+2019-02-19 09:57:36,356 INFO  cus name for index -42 is - ATLANTA, GA
+2019-02-19 09:57:36,357 INFO  cus name for index -43 is - WILL BYRD
+2019-02-19 09:57:36,358 INFO  cus name for index -44 is - DES MOINES, IA
+2019-02-19 09:57:36,359 INFO  cus name for index -45 is - KARA
+2019-02-19 09:57:36,360 INFO  cus name for index -46 is - MCNAIR REVAPLE
+2019-02-19 09:57:36,361 INFO  cus name for index -47 is - DARIUS GRIMES
+2019-02-19 09:57:36,362 INFO  cus name for index -48 is - J P MORGAN
+2019-02-19 09:57:36,363 INFO  cus name for index -49 is - RAY JOHN
+2019-02-19 09:57:36,363 INFO  cus name for index -50 is - DUNNING KAREN
+2019-02-19 09:57:36,364 INFO  cus name for index -51 is - ELEVATE
+2019-02-19 09:57:36,365 INFO  cus name for index -52 is - WINTERSET, IA
+2019-02-19 09:57:36,366 INFO  cus name for index -53 is - TORRES DEBRA
+2019-02-19 09:57:36,366 INFO  cus name for index -54 is - TORRES DEBRA
+2019-02-19 09:57:36,368 INFO  cus name for index -55 is - TORRES DEBRA
+2019-02-19 09:57:36,368 INFO  cus name for index -56 is - DAY JOHN
+2019-02-19 09:57:36,369 INFO  cus name for index -57 is - ADAIRSVILLE, GA
+2019-02-19 09:57:36,370 INFO  cus name for index -58 is - STU JONAS
+2019-02-19 09:57:36,372 INFO  cus name for index -59 is - STU JONAS
+2019-02-19 09:57:36,373 INFO  cus name for index -60 is - F JOHNSON
+2019-02-19 09:57:36,374 INFO  cus name for index -61 is - BILL HOLT CHEVR
+2019-02-19 09:57:36,375 INFO  cus name for index -62 is - JESSUP HANNAH
+2019-02-19 09:57:36,376 INFO  cus name for index -63 is - AHN SIMON
+2019-02-19 09:57:36,377 INFO  cus name for index -64 is - ROSS PLUMBER
+2019-02-19 09:57:36,377 INFO  cus name for index -65 is - ROSS PLUMBER
+2019-02-19 09:57:36,378 INFO  cus name for index -66 is - WATERLOO, IA
+2019-02-19 09:57:36,379 INFO  cus name for index -67 is - DES MOINES, IA
+2019-02-19 09:57:36,380 INFO  cus name for index -68 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,382 INFO  cus name for index -69 is - AARON S RENTS
+2019-02-19 09:57:36,383 INFO  cus name for index -70 is - ROSS PLUMBER
+2019-02-19 09:57:36,384 INFO  cus name for index -71 is - DES MOINES, IA
+2019-02-19 09:57:36,385 INFO  cus name for index -72 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,386 INFO  cus name for index -73 is - FICKE,WILLIAM
+2019-02-19 09:57:36,387 INFO  cus name for index -74 is - FICKE,WILLIAM
+2019-02-19 09:57:36,388 INFO  cus name for index -75 is - MATTHEW FISHMAN
+2019-02-19 09:57:36,388 INFO  cus name for index -76 is - MULTI PLASTICS
+2019-02-19 09:57:36,389 INFO  cus name for index -77 is - MULTI PLASTICS
+2019-02-19 09:57:36,390 INFO  cus name for index -78 is - MULTI PLASTICS
+2019-02-19 09:57:36,392 INFO  cus name for index -79 is - DES MOINES, IA
+2019-02-19 09:57:36,392 INFO  cus name for index -80 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,394 INFO  cus name for index -81 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,395 INFO  cus name for index -82 is - PFARR FRANCIS L
+2019-02-19 09:57:36,396 INFO  cus name for index -83 is - THOMPSON DAVID
+2019-02-19 09:57:36,397 INFO  cus name for index -84 is - FULTON SCHOOLS
+2019-02-19 09:57:36,398 INFO  cus name for index -85 is - ATLANTA, GA
+2019-02-19 09:57:36,399 INFO  cus name for index -86 is - JOHN HANSON
+2019-02-19 09:57:36,401 INFO  cus name for index -87 is - JOHN ADAMS
+2019-02-19 09:57:36,403 INFO  cus name for index -88 is - JOHN ADAMS
+2019-02-19 09:57:36,405 INFO  cus name for index -89 is - TP CORPORATE LO
+2019-02-19 09:57:36,406 INFO  cus name for index -90 is - ISAAC SOLOMON
+2019-02-19 09:57:36,406 INFO  cus name for index -91 is - ISAAC SOLOMON
+2019-02-19 09:57:36,408 INFO  cus name for index -92 is - O DELL JAMES
+2019-02-19 09:57:36,409 INFO  cus name for index -93 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,410 INFO  cus name for index -94 is - VAUGHN KEY
+2019-02-19 09:57:36,412 INFO  cus name for index -95 is - MYRIN CHRISTINA
+2019-02-19 09:57:36,414 INFO  cus name for index -96 is - ECKERT NANCY
+2019-02-19 09:57:36,415 INFO  cus name for index -97 is - J P MORGAN
+2019-02-19 09:57:36,418 INFO  cus name for index -98 is - J P MORGAN
+2019-02-19 09:57:36,420 INFO  cus name for index -99 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,421 INFO  Referring object number - 9 - from the list of 20
+2019-02-19 09:57:36,422 INFO  Inside case OK!
+2019-02-19 09:57:36,423 INFO  Response here status code is - OK
+2019-02-19 09:57:36,423 INFO  Count of call data list is - 100
+2019-02-19 09:57:36,424 INFO  Getting in the loop to get the call data at each indexes.
+2019-02-19 09:57:36,425 INFO  cus name for index -0 is - JERRY
+2019-02-19 09:57:36,426 INFO  cus name for index -1 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,427 INFO  cus name for index -2 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,427 INFO  cus name for index -3 is - J P MORGAN
+2019-02-19 09:57:36,428 INFO  cus name for index -4 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,429 INFO  cus name for index -5 is - ATLANTATECHNICA
+2019-02-19 09:57:36,430 INFO  cus name for index -6 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,431 INFO  cus name for index -7 is - PASTOR REDEEM
+2019-02-19 09:57:36,432 INFO  cus name for index -8 is - PASTOR REDEEM
+2019-02-19 09:57:36,432 INFO  cus name for index -9 is - GCI
+2019-02-19 09:57:36,434 INFO  cus name for index -10 is - GCI
+2019-02-19 09:57:36,436 INFO  cus name for index -11 is - ATLANTA, GA
+2019-02-19 09:57:36,436 INFO  cus name for index -12 is - FLYNN,RYAN
+2019-02-19 09:57:36,437 INFO  cus name for index -13 is - ATLANTA, GA
+2019-02-19 09:57:36,439 INFO  cus name for index -14 is - ATLANTA, GA
+2019-02-19 09:57:36,440 INFO  cus name for index -15 is - SHICARRI BELL
+2019-02-19 09:57:36,441 INFO  cus name for index -16 is - PLAMONDON,DENIS
+2019-02-19 09:57:36,442 INFO  cus name for index -17 is - ATLANTA, GA
+2019-02-19 09:57:36,443 INFO  cus name for index -18 is - ATLANTA, GA
+2019-02-19 09:57:36,444 INFO  cus name for index -19 is - SZLAM FLYNN JUL
+2019-02-19 09:57:36,445 INFO  cus name for index -20 is - SZLAM FLYNN JUL
+2019-02-19 09:57:36,445 INFO  cus name for index -21 is - PLAMONDON,DENIS
+2019-02-19 09:57:36,446 INFO  cus name for index -22 is - DEKALB REGIONAL
+2019-02-19 09:57:36,447 INFO  cus name for index -23 is - DOUGLAS CHALKER
+2019-02-19 09:57:36,447 INFO  cus name for index -24 is - JONES,CHARLES
+2019-02-19 09:57:36,449 INFO  cus name for index -25 is - PLAMONDON,DENIS
+2019-02-19 09:57:36,451 INFO  cus name for index -26 is - PLAMONDON,DENIS
+2019-02-19 09:57:36,452 INFO  cus name for index -27 is - ADAMS DARLENE
+2019-02-19 09:57:36,453 INFO  cus name for index -28 is - ATLANTA, GA
+2019-02-19 09:57:36,453 INFO  cus name for index -29 is - BRIGANCE LINDA
+2019-02-19 09:57:36,454 INFO  cus name for index -30 is - COSMOS
+2019-02-19 09:57:36,454 INFO  cus name for index -31 is - WINTERSET, IA
+2019-02-19 09:57:36,455 INFO  cus name for index -32 is - KEN
+2019-02-19 09:57:36,456 INFO  cus name for index -33 is - DES MOINES, IA
+2019-02-19 09:57:36,456 INFO  cus name for index -34 is - ANDRADE,ANDREA
+2019-02-19 09:57:36,457 INFO  cus name for index -35 is - WOODS JULIAN
+2019-02-19 09:57:36,458 INFO  cus name for index -36 is - ATLANTA, GA
+2019-02-19 09:57:36,460 INFO  cus name for index -37 is - STROBHERT JOSEP
+2019-02-19 09:57:36,460 INFO  cus name for index -38 is - STROBHERT JOSEP
+2019-02-19 09:57:36,461 INFO  cus name for index -39 is - STROBHERT JOSEP
+2019-02-19 09:57:36,462 INFO  cus name for index -40 is - DES MOINES, IA
+2019-02-19 09:57:36,463 INFO  cus name for index -41 is - POTTS JAMES
+2019-02-19 09:57:36,464 INFO  cus name for index -42 is - DES MOINES, IA
+2019-02-19 09:57:36,465 INFO  cus name for index -43 is - SAP AMERICA INC
+2019-02-19 09:57:36,466 INFO  cus name for index -44 is - BROWN THOMAS
+2019-02-19 09:57:36,467 INFO  cus name for index -45 is - HARTFORD, CT
+2019-02-19 09:57:36,468 INFO  cus name for index -46 is - DAVID KING - LO
+2019-02-19 09:57:36,469 INFO  cus name for index -47 is - CENTRICS IT N C
+2019-02-19 09:57:36,470 INFO  cus name for index -48 is - RON
+2019-02-19 09:57:36,471 INFO  cus name for index -49 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,472 INFO  cus name for index -50 is - JUST RITE CARRI
+2019-02-19 09:57:36,472 INFO  cus name for index -51 is - RON
+2019-02-19 09:57:36,473 INFO  cus name for index -52 is - RON
+2019-02-19 09:57:36,474 INFO  cus name for index -53 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,475 INFO  cus name for index -54 is - MICHAEL MOORE
+2019-02-19 09:57:36,476 INFO  cus name for index -55 is - HUTCHINS,SHARON
+2019-02-19 09:57:36,477 INFO  cus name for index -56 is - MICHAEL MOORE
+2019-02-19 09:57:36,477 INFO  cus name for index -57 is - HAN,KYUNG
+2019-02-19 09:57:36,478 INFO  cus name for index -58 is - DES MOINES, IA
+2019-02-19 09:57:36,479 INFO  cus name for index -59 is - DOMERMUTH CHUCK
+2019-02-19 09:57:36,480 INFO  cus name for index -60 is - CERNY DAVID E
+2019-02-19 09:57:36,481 INFO  cus name for index -61 is - HAN,KYUNG
+2019-02-19 09:57:36,481 INFO  cus name for index -62 is - ATLANTA, GA
+2019-02-19 09:57:36,482 INFO  cus name for index -63 is - DOMERMUTH CHUCK
+2019-02-19 09:57:36,483 INFO  cus name for index -64 is - BIGGS SHIRLEY
+2019-02-19 09:57:36,484 INFO  cus name for index -65 is - JANICE GROTON
+2019-02-19 09:57:36,485 INFO  cus name for index -66 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,485 INFO  cus name for index -67 is - NE,E
+2019-02-19 09:57:36,486 INFO  cus name for index -68 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,487 INFO  cus name for index -69 is - VICKIE MASON
+2019-02-19 09:57:36,487 INFO  cus name for index -70 is - MIKE MARTIN
+2019-02-19 09:57:36,488 INFO  cus name for index -71 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,489 INFO  cus name for index -72 is - HAN,KYUNG
+2019-02-19 09:57:36,490 INFO  cus name for index -73 is - ATLANTA, GA
+2019-02-19 09:57:36,491 INFO  cus name for index -74 is - BUTTONOW A
+2019-02-19 09:57:36,492 INFO  cus name for index -75 is - GAINESVILLE, GA
+2019-02-19 09:57:36,493 INFO  cus name for index -76 is - CARR CYNTHIA D
+2019-02-19 09:57:36,493 INFO  cus name for index -77 is - MARSHALLTOW, IA
+2019-02-19 09:57:36,494 INFO  cus name for index -78 is - EDWARDS JOYCE
+2019-02-19 09:57:36,495 INFO  cus name for index -79 is - HOME FASHION CT
+2019-02-19 09:57:36,496 INFO  cus name for index -80 is - RONNIE MARTINEZ
+2019-02-19 09:57:36,496 INFO  cus name for index -81 is - INFOTRAC INC
+2019-02-19 09:57:36,497 INFO  cus name for index -82 is - INFOTRAC INC
+2019-02-19 09:57:36,498 INFO  cus name for index -83 is - INFOTRAC INC
+2019-02-19 09:57:36,499 INFO  cus name for index -84 is - REYSHONDA BAILE
+2019-02-19 09:57:36,500 INFO  cus name for index -85 is - LOWRY LARRY
+2019-02-19 09:57:36,501 INFO  cus name for index -86 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,502 INFO  cus name for index -87 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,502 INFO  cus name for index -88 is - AGNES SCOTT COL
+2019-02-19 09:57:36,503 INFO  cus name for index -89 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,504 INFO  cus name for index -90 is - DEMYANEK CATHY
+2019-02-19 09:57:36,504 INFO  cus name for index -91 is - RICK HARRIS
+2019-02-19 09:57:36,505 INFO  cus name for index -92 is - BOUSHKA MICHELL
+2019-02-19 09:57:36,506 INFO  cus name for index -93 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,507 INFO  cus name for index -94 is - JANICE GROTON
+2019-02-19 09:57:36,508 INFO  cus name for index -95 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,510 INFO  cus name for index -96 is - RHONDA BISHOP
+2019-02-19 09:57:36,511 INFO  cus name for index -97 is - DOC CHEYS NOODL
+2019-02-19 09:57:36,512 INFO  cus name for index -98 is - ATLANTA, GA
+2019-02-19 09:57:36,513 INFO  cus name for index -99 is - ATLANTA, GA
+2019-02-19 09:57:36,514 INFO  Referring object number - 10 - from the list of 20
+2019-02-19 09:57:36,515 INFO  Inside case OK!
+2019-02-19 09:57:36,516 INFO  Response here status code is - OK
+2019-02-19 09:57:36,517 INFO  Count of call data list is - 100
+2019-02-19 09:57:36,518 INFO  Getting in the loop to get the call data at each indexes.
+2019-02-19 09:57:36,519 INFO  cus name for index -0 is - BODNAR,DONALD
+2019-02-19 09:57:36,520 INFO  cus name for index -1 is - ATLANTA, GA
+2019-02-19 09:57:36,520 INFO  cus name for index -2 is - ATLANTA, GA
+2019-02-19 09:57:36,521 INFO  cus name for index -3 is - ATLANTA, GA
+2019-02-19 09:57:36,522 INFO  cus name for index -4 is - SKIRNICK AMY
+2019-02-19 09:57:36,523 INFO  cus name for index -5 is - ADAIRSVILLE, GA
+2019-02-19 09:57:36,524 INFO  cus name for index -6 is - LISA JERN ATL
+2019-02-19 09:57:36,524 INFO  cus name for index -7 is - ADAIRSVILLE, GA
+2019-02-19 09:57:36,525 INFO  cus name for index -8 is - HARRIS DIVERSIF
+2019-02-19 09:57:36,526 INFO  cus name for index -9 is - RICK HARRIS
+2019-02-19 09:57:36,527 INFO  cus name for index -10 is - RICK HARRIS
+2019-02-19 09:57:36,527 INFO  cus name for index -11 is - TONY D VA
+2019-02-19 09:57:36,528 INFO  cus name for index -12 is - TONY D VA
+2019-02-19 09:57:36,529 INFO  cus name for index -13 is - BONITO EVELYN
+2019-02-19 09:57:36,530 INFO  cus name for index -14 is - KRICHKO BEN
+2019-02-19 09:57:36,531 INFO  cus name for index -15 is - BUTLER SANDRA
+2019-02-19 09:57:36,532 INFO  cus name for index -16 is - LENDZION MARY
+2019-02-19 09:57:36,532 INFO  cus name for index -17 is - NORTHCUT ROBERT
+2019-02-19 09:57:36,533 INFO  cus name for index -18 is - BROOKS,MELODY
+2019-02-19 09:57:36,534 INFO  cus name for index -19 is - DES MOINES, IA
+2019-02-19 09:57:36,535 INFO  cus name for index -20 is - FRIDAY KENRIC
+2019-02-19 09:57:36,536 INFO  cus name for index -21 is - CHASE,LARRY
+2019-02-19 09:57:36,536 INFO  cus name for index -22 is - ROME, GA
+2019-02-19 09:57:36,537 INFO  cus name for index -23 is - YATES DEBORAH
+2019-02-19 09:57:36,538 INFO  cus name for index -24 is - ERICA UVERSE
+2019-02-19 09:57:36,540 INFO  cus name for index -25 is - VISIE SIMS
+2019-02-19 09:57:36,540 INFO  cus name for index -26 is - VISIE SIMS
+2019-02-19 09:57:36,541 INFO  cus name for index -27 is - VISIE SIMS
+2019-02-19 09:57:36,542 INFO  cus name for index -28 is - BAKER JOHN
+2019-02-19 09:57:36,542 INFO  cus name for index -29 is - ERICA UVERSE
+2019-02-19 09:57:36,543 INFO  cus name for index -30 is - JERRY BAKER
+2019-02-19 09:57:36,544 INFO  cus name for index -31 is - ATLANTA, GA
+2019-02-19 09:57:36,545 INFO  cus name for index -32 is - PENMETSA GAYATR
+2019-02-19 09:57:36,545 INFO  cus name for index -33 is - LISA JERN ATL
+2019-02-19 09:57:36,546 INFO  cus name for index -34 is - ROLLINS INC EMP
+2019-02-19 09:57:36,547 INFO  cus name for index -35 is - ATLANTA, GA
+2019-02-19 09:57:36,547 INFO  cus name for index -36 is - LISA JERN ATL
+2019-02-19 09:57:36,548 INFO  cus name for index -37 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,550 INFO  cus name for index -38 is - ATLANTA, GA
+2019-02-19 09:57:36,551 INFO  cus name for index -39 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,552 INFO  cus name for index -40 is - ATLANTA, GA
+2019-02-19 09:57:36,552 INFO  cus name for index -41 is - ATLANTA, GA
+2019-02-19 09:57:36,553 INFO  cus name for index -42 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,554 INFO  cus name for index -43 is - ATLANTA, GA
+2019-02-19 09:57:36,554 INFO  cus name for index -44 is - PARKER,JOANNE
+2019-02-19 09:57:36,555 INFO  cus name for index -45 is - ATLANTA, GA
+2019-02-19 09:57:36,555 INFO  cus name for index -46 is - ATLANTA, GA
+2019-02-19 09:57:36,556 INFO  cus name for index -47 is - STRATEGIC SECUR
+2019-02-19 09:57:36,557 INFO  cus name for index -48 is - KINNAN WILLIAM
+2019-02-19 09:57:36,557 INFO  cus name for index -49 is - EUGENE, OR
+2019-02-19 09:57:36,558 INFO  cus name for index -50 is - ZAZZI PATRICK
+2019-02-19 09:57:36,560 INFO  cus name for index -51 is - DANIELS,RODERIC
+2019-02-19 09:57:36,561 INFO  cus name for index -52 is - BAKER JOHN
+2019-02-19 09:57:36,561 INFO  cus name for index -53 is - ATLANTA, GA
+2019-02-19 09:57:36,562 INFO  cus name for index -54 is - PETER ZEMANSKY
+2019-02-19 09:57:36,563 INFO  cus name for index -55 is - SATCHER,JUAN
+2019-02-19 09:57:36,564 INFO  cus name for index -56 is - HAWKINS,JACOREY
+2019-02-19 09:57:36,565 INFO  cus name for index -57 is - S LIKER
+2019-02-19 09:57:36,566 INFO  cus name for index -58 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,568 INFO  cus name for index -59 is - ATLANTA, GA
+2019-02-19 09:57:36,569 INFO  cus name for index -60 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,570 INFO  cus name for index -61 is - LEE DANIEL
+2019-02-19 09:57:36,571 INFO  cus name for index -62 is - DAVID KING - LO
+2019-02-19 09:57:36,571 INFO  cus name for index -63 is - MANHATTAN, NY
+2019-02-19 09:57:36,572 INFO  cus name for index -64 is - LEE DANIEL
+2019-02-19 09:57:36,573 INFO  cus name for index -65 is - ATLANTA, GA
+2019-02-19 09:57:36,574 INFO  cus name for index -66 is - BOUSHKA MICHELL
+2019-02-19 09:57:36,574 INFO  cus name for index -67 is - ATLANTA, GA
+2019-02-19 09:57:36,575 INFO  cus name for index -68 is - ATLANTA, GA
+2019-02-19 09:57:36,576 INFO  cus name for index -69 is - NIKKIE MITCHUM
+2019-02-19 09:57:36,576 INFO  cus name for index -70 is - BRYAN HOLT
+2019-02-19 09:57:36,577 INFO  cus name for index -71 is - DAVID KING - LO
+2019-02-19 09:57:36,578 INFO  cus name for index -72 is - COMPTON, CA
+2019-02-19 09:57:36,579 INFO  cus name for index -73 is - ATLANTA, GA
+2019-02-19 09:57:36,580 INFO  cus name for index -74 is - ATLANTA SOU, GA
+2019-02-19 09:57:36,581 INFO  cus name for index -75 is - KELLY CASSICK
+2019-02-19 09:57:36,581 INFO  cus name for index -76 is - DEANS,LEWIS
+2019-02-19 09:57:36,582 INFO  cus name for index -77 is - MICHAEL BALDWIN
+2019-02-19 09:57:36,583 INFO  cus name for index -78 is - JAHMEL MAJOR
+2019-02-19 09:57:36,583 INFO  cus name for index -79 is - ATLANTA, GA
+2019-02-19 09:57:36,584 INFO  cus name for index -80 is - SHROPSHIRE GREG
+2019-02-19 09:57:36,585 INFO  cus name for index -81 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,586 INFO  cus name for index -82 is - KENYATA MONICA
+2019-02-19 09:57:36,586 INFO  cus name for index -83 is - JOSEPHSEN DAN
+2019-02-19 09:57:36,587 INFO  cus name for index -84 is - ATLANTA, GA
+2019-02-19 09:57:36,588 INFO  cus name for index -85 is - WALTER GRASSMAN
+2019-02-19 09:57:36,590 INFO  cus name for index -86 is - BECKY HOLT
+2019-02-19 09:57:36,590 INFO  cus name for index -87 is - BECKY HOLT
+2019-02-19 09:57:36,592 INFO  cus name for index -88 is - ATLANTA, GA
+2019-02-19 09:57:36,592 INFO  cus name for index -89 is - ATLANTA, GA
+2019-02-19 09:57:36,593 INFO  cus name for index -90 is - ATLANTA, GA
+2019-02-19 09:57:36,594 INFO  cus name for index -91 is - MATALA KAREN L
+2019-02-19 09:57:36,595 INFO  cus name for index -92 is - MORIE ANDREA
+2019-02-19 09:57:36,596 INFO  cus name for index -93 is - MATALA KAREN L
+2019-02-19 09:57:36,597 INFO  cus name for index -94 is - DAUGHERTY EDWAR
+2019-02-19 09:57:36,599 INFO  cus name for index -95 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,601 INFO  cus name for index -96 is - RABIAH LEWIS
+2019-02-19 09:57:36,602 INFO  cus name for index -97 is - ATLANTA, GA
+2019-02-19 09:57:36,603 INFO  cus name for index -98 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,604 INFO  cus name for index -99 is - GLEIM ANDREW
+2019-02-19 09:57:36,605 INFO  Referring object number - 11 - from the list of 20
+2019-02-19 09:57:36,606 INFO  Inside case OK!
+2019-02-19 09:57:36,606 INFO  Response here status code is - OK
+2019-02-19 09:57:36,607 INFO  Count of call data list is - 100
+2019-02-19 09:57:36,608 INFO  Getting in the loop to get the call data at each indexes.
+2019-02-19 09:57:36,610 INFO  cus name for index -0 is - WILLIAMS RAYMON
+2019-02-19 09:57:36,611 INFO  cus name for index -1 is - WALTER GRASSMAN
+2019-02-19 09:57:36,612 INFO  cus name for index -2 is - ROGER EGBERT
+2019-02-19 09:57:36,613 INFO  cus name for index -3 is - ROGER EGBERT
+2019-02-19 09:57:36,613 INFO  cus name for index -4 is - WORTHINGTON, OH
+2019-02-19 09:57:36,614 INFO  cus name for index -5 is - KERI TASMAN
+2019-02-19 09:57:36,615 INFO  cus name for index -6 is - JOHN ADAMS
+2019-02-19 09:57:36,615 INFO  cus name for index -7 is - JOHN ADAMS
+2019-02-19 09:57:36,616 INFO  cus name for index -8 is - ATLANTA, GA
+2019-02-19 09:57:36,621 INFO  cus name for index -9 is - BRYAN HOLT
+2019-02-19 09:57:36,622 INFO  cus name for index -10 is - SHANNON
+2019-02-19 09:57:36,623 INFO  cus name for index -11 is - BONFANTE DAVID
+2019-02-19 09:57:36,624 INFO  cus name for index -12 is - SATCHER,JUAN
+2019-02-19 09:57:36,625 INFO  cus name for index -13 is - HARRY ROBACK
+2019-02-19 09:57:36,627 INFO  cus name for index -14 is - SMITH TINA
+2019-02-19 09:57:36,628 INFO  cus name for index -15 is - FRIDAY KENRIC
+2019-02-19 09:57:36,629 INFO  cus name for index -16 is - RICH MURPHY
+2019-02-19 09:57:36,630 INFO  cus name for index -17 is - PARKINSON TOM
+2019-02-19 09:57:36,631 INFO  cus name for index -18 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,633 INFO  cus name for index -19 is - CAUSEY SANDRA
+2019-02-19 09:57:36,634 INFO  cus name for index -20 is - SMITH BARBARA
+2019-02-19 09:57:36,635 INFO  cus name for index -21 is - MAPLESVILLE, AL
+2019-02-19 09:57:36,636 INFO  cus name for index -22 is - GREEN BERNARD
+2019-02-19 09:57:36,637 INFO  cus name for index -23 is - GREEN BERNARD
+2019-02-19 09:57:36,638 INFO  cus name for index -24 is - MARIE CORRIGAN
+2019-02-19 09:57:36,639 INFO  cus name for index -25 is - MARIE CORRIGAN
+2019-02-19 09:57:36,639 INFO  cus name for index -26 is - HIGHTOWER,STEVE
+2019-02-19 09:57:36,640 INFO  cus name for index -27 is - HIGHTOWER,STEVE
+2019-02-19 09:57:36,641 INFO  cus name for index -28 is - WEAVER JAMES
+2019-02-19 09:57:36,641 INFO  cus name for index -29 is - WEAVER JAMES
+2019-02-19 09:57:36,642 INFO  cus name for index -30 is - GRINAGE,TONIA
+2019-02-19 09:57:36,643 INFO  cus name for index -31 is - TINSLEY DERRICK
+2019-02-19 09:57:36,644 INFO  cus name for index -32 is - TINSLEY DERRICK
+2019-02-19 09:57:36,644 INFO  cus name for index -33 is - WARHOLAK HARRY
+2019-02-19 09:57:36,645 INFO  cus name for index -34 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,646 INFO  cus name for index -35 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,646 INFO  cus name for index -36 is - ATLANTA, GA
+2019-02-19 09:57:36,648 INFO  cus name for index -37 is - KATHERINE
+2019-02-19 09:57:36,649 INFO  cus name for index -38 is - JUSTIN EL PROJE
+2019-02-19 09:57:36,650 INFO  cus name for index -39 is - JUSTIN EL PROJE
+2019-02-19 09:57:36,651 INFO  cus name for index -40 is - CUMULUS MEDIA
+2019-02-19 09:57:36,652 INFO  cus name for index -41 is - EMORY UNIVERSIT
+2019-02-19 09:57:36,653 INFO  cus name for index -42 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,654 INFO  cus name for index -43 is - STEVE JACOBS
+2019-02-19 09:57:36,654 INFO  cus name for index -44 is - HOLT GEORGE C
+2019-02-19 09:57:36,655 INFO  cus name for index -45 is - HOLT GEORGE C
+2019-02-19 09:57:36,656 INFO  cus name for index -46 is - PROGRESSIVE FOU
+2019-02-19 09:57:36,656 INFO  cus name for index -47 is - TUNNEL HILL, GA
+2019-02-19 09:57:36,657 INFO  cus name for index -48 is - FAIRFIELD, IA
+2019-02-19 09:57:36,658 INFO  cus name for index -49 is - REID MICHAEL
+2019-02-19 09:57:36,659 INFO  cus name for index -50 is - PREMIER TREE SH
+2019-02-19 09:57:36,660 INFO  cus name for index -51 is - INFOR
+2019-02-19 09:57:36,661 INFO  cus name for index -52 is - LEGGETT C
+2019-02-19 09:57:36,662 INFO  cus name for index -53 is - REDMOND JUDITH
+2019-02-19 09:57:36,662 INFO  cus name for index -54 is - MARLEY EUGENE
+2019-02-19 09:57:36,663 INFO  cus name for index -55 is - LISA JERN ATL
+2019-02-19 09:57:36,664 INFO  cus name for index -56 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,664 INFO  cus name for index -57 is - BRAD LONG
+2019-02-19 09:57:36,665 INFO  cus name for index -58 is - ATLANTA, GA
+2019-02-19 09:57:36,666 INFO  cus name for index -59 is - GREEN BERNARD
+2019-02-19 09:57:36,666 INFO  cus name for index -60 is - CATHERINE KEYSE
+2019-02-19 09:57:36,669 INFO  cus name for index -61 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,669 INFO  cus name for index -62 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,670 INFO  cus name for index -63 is - TARTT CHAVONNA
+2019-02-19 09:57:36,671 INFO  cus name for index -64 is - ATLANTA, GA
+2019-02-19 09:57:36,671 INFO  cus name for index -65 is - MARIE CORRIGAN
+2019-02-19 09:57:36,672 INFO  cus name for index -66 is - TINSLEY DERRICK
+2019-02-19 09:57:36,673 INFO  cus name for index -67 is - DENNIS,DAIJA
+2019-02-19 09:57:36,674 INFO  cus name for index -68 is - DENNIS,DAIJA
+2019-02-19 09:57:36,675 INFO  cus name for index -69 is - BRYAN HOLT
+2019-02-19 09:57:36,676 INFO  cus name for index -70 is - M INDIRA
+2019-02-19 09:57:36,677 INFO  cus name for index -71 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,679 INFO  cus name for index -72 is - REID MICHAEL
+2019-02-19 09:57:36,679 INFO  cus name for index -73 is - ENVIRONS RESIDE
+2019-02-19 09:57:36,680 INFO  cus name for index -74 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,681 INFO  cus name for index -75 is - NARVAEZ ALBIN
+2019-02-19 09:57:36,681 INFO  cus name for index -76 is - HORACE REAVES
+2019-02-19 09:57:36,682 INFO  cus name for index -77 is - BRYAN HOLT
+2019-02-19 09:57:36,683 INFO  cus name for index -78 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,684 INFO  cus name for index -79 is - JENNIFER ROWSON
+2019-02-19 09:57:36,685 INFO  cus name for index -80 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,685 INFO  cus name for index -81 is - TERRY SYLVESTER
+2019-02-19 09:57:36,686 INFO  cus name for index -82 is - BILL JURY
+2019-02-19 09:57:36,687 INFO  cus name for index -83 is - BILL JURY
+2019-02-19 09:57:36,688 INFO  cus name for index -84 is - STAN GRIFFIN JR
+2019-02-19 09:57:36,689 INFO  cus name for index -85 is - BILL JURY
+2019-02-19 09:57:36,690 INFO  cus name for index -86 is - MARSHALL ODOM
+2019-02-19 09:57:36,691 INFO  cus name for index -87 is - MARSHALL ODOM
+2019-02-19 09:57:36,691 INFO  cus name for index -88 is - COBB ELECTRIC M
+2019-02-19 09:57:36,692 INFO  cus name for index -89 is - KAREN SIMMONS
+2019-02-19 09:57:36,693 INFO  cus name for index -90 is - TOLEDO, OH
+2019-02-19 09:57:36,694 INFO  cus name for index -91 is - ROGERS,BOB MR
+2019-02-19 09:57:36,695 INFO  cus name for index -92 is - NORTHCUT ROBERT
+2019-02-19 09:57:36,696 INFO  cus name for index -93 is - NORTHCUT ROBERT
+2019-02-19 09:57:36,696 INFO  cus name for index -94 is - ROVER HENNESSY
+2019-02-19 09:57:36,697 INFO  cus name for index -95 is - DULUTH, GA
+2019-02-19 09:57:36,698 INFO  cus name for index -96 is - DOSS NEWTON
+2019-02-19 09:57:36,699 INFO  cus name for index -97 is - LEVVERETTE JERR
+2019-02-19 09:57:36,700 INFO  cus name for index -98 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,701 INFO  cus name for index -99 is - GLEN PERDEW
+2019-02-19 09:57:36,702 INFO  Referring object number - 12 - from the list of 20
+2019-02-19 09:57:36,702 INFO  Inside case OK!
+2019-02-19 09:57:36,703 INFO  Response here status code is - OK
+2019-02-19 09:57:36,704 INFO  Count of call data list is - 100
+2019-02-19 09:57:36,704 INFO  Getting in the loop to get the call data at each indexes.
+2019-02-19 09:57:36,705 INFO  cus name for index -0 is - GLEN PERDEW
+2019-02-19 09:57:36,706 INFO  cus name for index -1 is - GLEN PERDEW
+2019-02-19 09:57:36,706 INFO  cus name for index -2 is - ROME, GA
+2019-02-19 09:57:36,707 INFO  cus name for index -3 is - ROME, GA
+2019-02-19 09:57:36,708 INFO  cus name for index -4 is - DAVID DUCHEMIN
+2019-02-19 09:57:36,710 INFO  cus name for index -5 is - PCE
+2019-02-19 09:57:36,711 INFO  cus name for index -6 is - DAVID DUCHEMIN
+2019-02-19 09:57:36,712 INFO  cus name for index -7 is - NEWNAN, GA
+2019-02-19 09:57:36,712 INFO  cus name for index -8 is - EVANS CARL E
+2019-02-19 09:57:36,713 INFO  cus name for index -9 is - CHEMENCE - TECH
+2019-02-19 09:57:36,714 INFO  cus name for index -10 is - RUTHRAUFF KIMBE
+2019-02-19 09:57:36,714 INFO  cus name for index -11 is - PCE
+2019-02-19 09:57:36,715 INFO  cus name for index -12 is - JEFFRIES,BEVERL
+2019-02-19 09:57:36,716 INFO  cus name for index -13 is - RUTHRAUFF KIMBE
+2019-02-19 09:57:36,716 INFO  cus name for index -14 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,718 INFO  cus name for index -15 is - BROADWAY DINER
+2019-02-19 09:57:36,719 INFO  cus name for index -16 is - JUSTIN EL PROJE
+2019-02-19 09:57:36,720 INFO  cus name for index -17 is - GRAND PRAIR, TX
+2019-02-19 09:57:36,720 INFO  cus name for index -18 is - JEFFRIES,BEVERL
+2019-02-19 09:57:36,721 INFO  cus name for index -19 is - JEFFRIES,BEVERL
+2019-02-19 09:57:36,722 INFO  cus name for index -20 is - MCDANIEL DYLAN
+2019-02-19 09:57:36,722 INFO  cus name for index -21 is - TERRY SYLVESTER
+2019-02-19 09:57:36,723 INFO  cus name for index -22 is - WORTHINGTON, OH
+2019-02-19 09:57:36,724 INFO  cus name for index -23 is - WORTHINGTON, OH
+2019-02-19 09:57:36,725 INFO  cus name for index -24 is - WORTHINGTON, OH
+2019-02-19 09:57:36,726 INFO  cus name for index -25 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,727 INFO  cus name for index -26 is - COCA COLA USA
+2019-02-19 09:57:36,729 INFO  cus name for index -27 is - SUSAN B BOZEMAN
+2019-02-19 09:57:36,730 INFO  cus name for index -28 is - MARK LYONS
+2019-02-19 09:57:36,730 INFO  cus name for index -29 is - MARK LYONS
+2019-02-19 09:57:36,732 INFO  cus name for index -30 is - JOHNSON AHREN
+2019-02-19 09:57:36,732 INFO  cus name for index -31 is - BARRON,MORGAN
+2019-02-19 09:57:36,733 INFO  cus name for index -32 is - SIMS,LINDA H
+2019-02-19 09:57:36,734 INFO  cus name for index -33 is - ALSTON BIRD LLP
+2019-02-19 09:57:36,735 INFO  cus name for index -34 is - GA MEJANE DECAT
+2019-02-19 09:57:36,736 INFO  cus name for index -35 is - STARK WILLIAM
+2019-02-19 09:57:36,736 INFO  cus name for index -36 is - SOLLENBERGER ST
+2019-02-19 09:57:36,737 INFO  cus name for index -37 is - PAUL FEUERZEIG
+2019-02-19 09:57:36,738 INFO  cus name for index -38 is - BUBBY JJ
+2019-02-19 09:57:36,739 INFO  cus name for index -39 is - BROOKS JOSHUA
+2019-02-19 09:57:36,740 INFO  cus name for index -40 is - ATLANTA, GA
+2019-02-19 09:57:36,740 INFO  cus name for index -41 is - ATLANTA, GA
+2019-02-19 09:57:36,741 INFO  cus name for index -42 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,742 INFO  cus name for index -43 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,743 INFO  cus name for index -44 is - ATLANTA, GA
+2019-02-19 09:57:36,744 INFO  cus name for index -45 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,745 INFO  cus name for index -46 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,746 INFO  cus name for index -47 is - RATCLIFFE CLARE
+2019-02-19 09:57:36,746 INFO  cus name for index -48 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,747 INFO  cus name for index -49 is - WRIGHT,T L
+2019-02-19 09:57:36,749 INFO  cus name for index -50 is - ATLANTA, GA
+2019-02-19 09:57:36,749 INFO  cus name for index -51 is - ATLANTA, GA
+2019-02-19 09:57:36,750 INFO  cus name for index -52 is - NEAL BERTHA
+2019-02-19 09:57:36,751 INFO  cus name for index -53 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,752 INFO  cus name for index -54 is - KENMAR PEDIATRI
+2019-02-19 09:57:36,753 INFO  cus name for index -55 is - BLANK REBECCA
+2019-02-19 09:57:36,753 INFO  cus name for index -56 is - CHARLES SCAVO
+2019-02-19 09:57:36,754 INFO  cus name for index -57 is - NEWPORT BEA, CA
+2019-02-19 09:57:36,755 INFO  cus name for index -58 is - JACKSON & CAMPB
+2019-02-19 09:57:36,755 INFO  cus name for index -59 is - RACHEL KRUPP
+2019-02-19 09:57:36,756 INFO  cus name for index -60 is - JONES LANG LASA
+2019-02-19 09:57:36,756 INFO  cus name for index -61 is - WYNNE PETER
+2019-02-19 09:57:36,758 INFO  cus name for index -62 is - FRED PARTUS
+2019-02-19 09:57:36,759 INFO  cus name for index -63 is - ATLANTA NEUROLO
+2019-02-19 09:57:36,760 INFO  cus name for index -64 is - CORNELIUS CAMIN
+2019-02-19 09:57:36,760 INFO  cus name for index -65 is - LEE AVERY
+2019-02-19 09:57:36,761 INFO  cus name for index -66 is - SHETTY SANDESH
+2019-02-19 09:57:36,762 INFO  cus name for index -67 is - CHANTILLY, VA
+2019-02-19 09:57:36,762 INFO  cus name for index -68 is - RATCLIFFE CLARE
+2019-02-19 09:57:36,763 INFO  cus name for index -69 is - ATLANTA, GA
+2019-02-19 09:57:36,764 INFO  cus name for index -70 is - ATLANTA, GA
+2019-02-19 09:57:36,764 INFO  cus name for index -71 is - ATLANTA, GA
+2019-02-19 09:57:36,765 INFO  cus name for index -72 is - ATLANTA, GA
+2019-02-19 09:57:36,766 INFO  cus name for index -73 is - ENTERPRISE AVIA
+2019-02-19 09:57:36,768 INFO  cus name for index -74 is - GRIFFIN
+2019-02-19 09:57:36,769 INFO  cus name for index -75 is - BURT EARL
+2019-02-19 09:57:36,769 INFO  cus name for index -76 is - DON HISCOX
+2019-02-19 09:57:36,770 INFO  cus name for index -77 is - BUTLER AN T
+2019-02-19 09:57:36,771 INFO  cus name for index -78 is - BUTLER TIRES AN
+2019-02-19 09:57:36,772 INFO  cus name for index -79 is - STEVE HUDSON
+2019-02-19 09:57:36,773 INFO  cus name for index -80 is - BILL HOLT CHEVR
+2019-02-19 09:57:36,773 INFO  cus name for index -81 is - ALIM KAMAT
+2019-02-19 09:57:36,774 INFO  cus name for index -82 is - SHERROD HARPER
+2019-02-19 09:57:36,775 INFO  cus name for index -83 is - NDEM,JOSEPH
+2019-02-19 09:57:36,776 INFO  cus name for index -84 is - MILLER ELECTRIC
+2019-02-19 09:57:36,778 INFO  cus name for index -85 is - CORKREAN KEVIN
+2019-02-19 09:57:36,779 INFO  cus name for index -86 is - ATLANTA, GA
+2019-02-19 09:57:36,779 INFO  cus name for index -87 is - ATLANTA, GA
+2019-02-19 09:57:36,780 INFO  cus name for index -88 is - ATLANTA, GA
+2019-02-19 09:57:36,781 INFO  cus name for index -89 is - NORWOOD ALFONSO
+2019-02-19 09:57:36,781 INFO  cus name for index -90 is - BUTLER TIRES AN
+2019-02-19 09:57:36,782 INFO  cus name for index -91 is - BETHONI. PROPER
+2019-02-19 09:57:36,783 INFO  cus name for index -92 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,784 INFO  cus name for index -93 is - WALSH KEVIN
+2019-02-19 09:57:36,784 INFO  cus name for index -94 is - FRED PARTUS
+2019-02-19 09:57:36,785 INFO  cus name for index -95 is - MCKESSON CDMA
+2019-02-19 09:57:36,786 INFO  cus name for index -96 is - NEY CAROL
+2019-02-19 09:57:36,788 INFO  cus name for index -97 is - MARTA
+2019-02-19 09:57:36,788 INFO  cus name for index -98 is - PRESTON MILL -
+2019-02-19 09:57:36,789 INFO  cus name for index -99 is - ALSTON BIRD LLP
+2019-02-19 09:57:36,790 INFO  Referring object number - 13 - from the list of 20
+2019-02-19 09:57:36,791 INFO  Inside case OK!
+2019-02-19 09:57:36,791 INFO  Response here status code is - OK
+2019-02-19 09:57:36,792 INFO  Count of call data list is - 100
+2019-02-19 09:57:36,793 INFO  Getting in the loop to get the call data at each indexes.
+2019-02-19 09:57:36,794 INFO  cus name for index -0 is - ALSTON BIRD LLP
+2019-02-19 09:57:36,795 INFO  cus name for index -1 is - ATLANTA, GA
+2019-02-19 09:57:36,795 INFO  cus name for index -2 is - KARL JEFFERY S
+2019-02-19 09:57:36,797 INFO  cus name for index -3 is - FLORENTINE,BRID
+2019-02-19 09:57:36,798 INFO  cus name for index -4 is - ALIM KAMAT
+2019-02-19 09:57:36,798 INFO  cus name for index -5 is - RAY BACHMAN
+2019-02-19 09:57:36,799 INFO  cus name for index -6 is - YELLIN VALERIE
+2019-02-19 09:57:36,800 INFO  cus name for index -7 is - SHAFA HALEH
+2019-02-19 09:57:36,801 INFO  cus name for index -8 is - COCA COLA USA
+2019-02-19 09:57:36,803 INFO  cus name for index -9 is - LAW OFFICES OF
+2019-02-19 09:57:36,803 INFO  cus name for index -10 is - BROWN , FORREST
+2019-02-19 09:57:36,804 INFO  cus name for index -11 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,805 INFO  cus name for index -12 is - ATLANTA, GA
+2019-02-19 09:57:36,805 INFO  cus name for index -13 is - ATLANTA, GA
+2019-02-19 09:57:36,807 INFO  cus name for index -14 is - BRYAN HOLT
+2019-02-19 09:57:36,808 INFO  cus name for index -15 is - NORTHCUT ROBERT
+2019-02-19 09:57:36,809 INFO  cus name for index -16 is - LUCY WIGGINS
+2019-02-19 09:57:36,810 INFO  cus name for index -17 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,811 INFO  cus name for index -18 is - JILL DEUTCHMAN
+2019-02-19 09:57:36,811 INFO  cus name for index -19 is - JILL DEUTCHMAN
+2019-02-19 09:57:36,812 INFO  cus name for index -20 is - JAY F. DEMOSS
+2019-02-19 09:57:36,813 INFO  cus name for index -21 is - ALIM KAMAT
+2019-02-19 09:57:36,813 INFO  cus name for index -22 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,814 INFO  cus name for index -23 is - STAR EQUIPMENT 
+2019-02-19 09:57:36,815 INFO  cus name for index -24 is - TUSCALOOSA, AL
+2019-02-19 09:57:36,816 INFO  cus name for index -25 is - DOSS NEWTON
+2019-02-19 09:57:36,818 INFO  cus name for index -26 is - PITTS KEVIN
+2019-02-19 09:57:36,819 INFO  cus name for index -27 is - DOSS NEWTON
+2019-02-19 09:57:36,820 INFO  cus name for index -28 is - DOSS NEWTON
+2019-02-19 09:57:36,821 INFO  cus name for index -29 is - RACHIDE CHARLES
+2019-02-19 09:57:36,821 INFO  cus name for index -30 is - RACHIDE CHARLES
+2019-02-19 09:57:36,822 INFO  cus name for index -31 is - BRIAN OASIS VIP
+2019-02-19 09:57:36,823 INFO  cus name for index -32 is - SONNY DAVIS
+2019-02-19 09:57:36,824 INFO  cus name for index -33 is - VAUGHN KEY
+2019-02-19 09:57:36,825 INFO  cus name for index -34 is - BILL JURY
+2019-02-19 09:57:36,827 INFO  cus name for index -35 is - BILL JURY
+2019-02-19 09:57:36,827 INFO  cus name for index -36 is - DOSS NEWTON
+2019-02-19 09:57:36,829 INFO  cus name for index -37 is - PITTS KEVIN
+2019-02-19 09:57:36,831 INFO  cus name for index -38 is - SEAN WHITWORTH
+2019-02-19 09:57:36,832 INFO  cus name for index -39 is - SEAN WHITWORTH
+2019-02-19 09:57:36,834 INFO  cus name for index -40 is - ATLANTA, GA
+2019-02-19 09:57:36,835 INFO  cus name for index -41 is - JONES GERALDINE
+2019-02-19 09:57:36,836 INFO  cus name for index -42 is - SHATTLES LARRY
+2019-02-19 09:57:36,837 INFO  cus name for index -43 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,838 INFO  cus name for index -44 is - PINK RABBIT,THO
+2019-02-19 09:57:36,838 INFO  cus name for index -45 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,839 INFO  cus name for index -46 is - US CELLUAR RECU
+2019-02-19 09:57:36,840 INFO  cus name for index -47 is - US CELLUAR RECU
+2019-02-19 09:57:36,840 INFO  cus name for index -48 is - HENRY SHARON
+2019-02-19 09:57:36,841 INFO  cus name for index -49 is - A AND Y TAX SER
+2019-02-19 09:57:36,842 INFO  cus name for index -50 is - A AND Y TAX SER
+2019-02-19 09:57:36,843 INFO  cus name for index -51 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,843 INFO  cus name for index -52 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,844 INFO  cus name for index -53 is - PINK RABBIT,THO
+2019-02-19 09:57:36,845 INFO  cus name for index -54 is - PINK RABBIT,THO
+2019-02-19 09:57:36,846 INFO  cus name for index -55 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,847 INFO  cus name for index -56 is - ATLANTA, GA
+2019-02-19 09:57:36,848 INFO  cus name for index -57 is - ATLANTA, GA
+2019-02-19 09:57:36,849 INFO  cus name for index -58 is - ATLANTA, GA
+2019-02-19 09:57:36,849 INFO  cus name for index -59 is - COLEMAN TERESA
+2019-02-19 09:57:36,852 INFO  cus name for index -60 is - ATLANTA, GA
+2019-02-19 09:57:36,854 INFO  cus name for index -61 is - SOUTHERN STATES
+2019-02-19 09:57:36,856 INFO  cus name for index -62 is - SOUTHERN STATES
+2019-02-19 09:57:36,857 INFO  cus name for index -63 is - JAMES RE WALKER
+2019-02-19 09:57:36,858 INFO  cus name for index -64 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,860 INFO  cus name for index -65 is - SHANNON GUERARD
+2019-02-19 09:57:36,861 INFO  cus name for index -66 is - HAMMER KAREN
+2019-02-19 09:57:36,862 INFO  cus name for index -67 is - WILLIAMS SHELEY
+2019-02-19 09:57:36,863 INFO  cus name for index -68 is - SHAWN KOCH
+2019-02-19 09:57:36,865 INFO  cus name for index -69 is - ASHLAND, OH
+2019-02-19 09:57:36,868 INFO  cus name for index -70 is - ATLANTA, GA
+2019-02-19 09:57:36,869 INFO  cus name for index -71 is - ATLANTA, GA
+2019-02-19 09:57:36,870 INFO  cus name for index -72 is - BUBBY JJ
+2019-02-19 09:57:36,871 INFO  cus name for index -73 is - BUBBY JJ
+2019-02-19 09:57:36,871 INFO  cus name for index -74 is - PERKERSON SHARO
+2019-02-19 09:57:36,872 INFO  cus name for index -75 is - FLAGG BRIAN
+2019-02-19 09:57:36,873 INFO  cus name for index -76 is - JERRY MATHENY
+2019-02-19 09:57:36,874 INFO  cus name for index -77 is - JERRY MATHENY
+2019-02-19 09:57:36,874 INFO  cus name for index -78 is - ATLANTA, GA
+2019-02-19 09:57:36,875 INFO  cus name for index -79 is - MICHAEL MOHR
+2019-02-19 09:57:36,877 INFO  cus name for index -80 is - BRIDGEPORT, CT
+2019-02-19 09:57:36,877 INFO  cus name for index -81 is - ANDREWS,CHRISTI
+2019-02-19 09:57:36,878 INFO  cus name for index -82 is - DES MOINES, IA
+2019-02-19 09:57:36,879 INFO  cus name for index -83 is - PANAMA CITY, FL
+2019-02-19 09:57:36,880 INFO  cus name for index -84 is - KRISTI WOODRUFF
+2019-02-19 09:57:36,880 INFO  cus name for index -85 is - ATLANTA, GA
+2019-02-19 09:57:36,882 INFO  cus name for index -86 is - VANDA CALLENDER
+2019-02-19 09:57:36,883 INFO  cus name for index -87 is - INV. SANDERS
+2019-02-19 09:57:36,884 INFO  cus name for index -88 is - INV. SANDERS
+2019-02-19 09:57:36,885 INFO  cus name for index -89 is - WINSTON GWEN
+2019-02-19 09:57:36,886 INFO  cus name for index -90 is - WINSTON GWEN
+2019-02-19 09:57:36,887 INFO  cus name for index -91 is - JACOB MCWHORTER
+2019-02-19 09:57:36,888 INFO  cus name for index -92 is - TOBIAS,JAMES
+2019-02-19 09:57:36,889 INFO  cus name for index -93 is - FLOWERS TYRONE
+2019-02-19 09:57:36,890 INFO  cus name for index -94 is - FLOWERS TYRONE
+2019-02-19 09:57:36,891 INFO  cus name for index -95 is - DAVIS MARY
+2019-02-19 09:57:36,891 INFO  cus name for index -96 is - DAVIS MARY
+2019-02-19 09:57:36,892 INFO  cus name for index -97 is - PIETZ CONSUELO
+2019-02-19 09:57:36,894 INFO  cus name for index -98 is - COTTER JAMES
+2019-02-19 09:57:36,896 INFO  cus name for index -99 is - CALLENDER,VANDA
+2019-02-19 09:57:36,897 INFO  Referring object number - 14 - from the list of 20
+2019-02-19 09:57:36,898 INFO  Inside case OK!
+2019-02-19 09:57:36,898 INFO  Response here status code is - OK
+2019-02-19 09:57:36,899 INFO  Count of call data list is - 100
+2019-02-19 09:57:36,901 INFO  Getting in the loop to get the call data at each indexes.
+2019-02-19 09:57:36,902 INFO  cus name for index -0 is - NICK
+2019-02-19 09:57:36,903 INFO  cus name for index -1 is - NINA SMITH
+2019-02-19 09:57:36,903 INFO  cus name for index -2 is - KANG SUNGHOON
+2019-02-19 09:57:36,904 INFO  cus name for index -3 is - JAMAL WILLIAMS
+2019-02-19 09:57:36,905 INFO  cus name for index -4 is - ATLANTA, GA
+2019-02-19 09:57:36,906 INFO  cus name for index -5 is - DOUG GIBBS
+2019-02-19 09:57:36,907 INFO  cus name for index -6 is - REEDY TODD
+2019-02-19 09:57:36,908 INFO  cus name for index -7 is - CALLENDER,VANDA
+2019-02-19 09:57:36,908 INFO  cus name for index -8 is - CALLENDER,VANDA
+2019-02-19 09:57:36,909 INFO  cus name for index -9 is - ROCKDALE CTY OF
+2019-02-19 09:57:36,910 INFO  cus name for index -10 is - LANCASTER DERRI
+2019-02-19 09:57:36,911 INFO  cus name for index -11 is - JOHNNY DAO
+2019-02-19 09:57:36,911 INFO  cus name for index -12 is - SILRUM KAREN
+2019-02-19 09:57:36,912 INFO  cus name for index -13 is - REEDY TODD
+2019-02-19 09:57:36,913 INFO  cus name for index -14 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,914 INFO  cus name for index -15 is - TOBIN J. MILLER
+2019-02-19 09:57:36,916 INFO  cus name for index -16 is - SILRUM KAREN
+2019-02-19 09:57:36,916 INFO  cus name for index -17 is - REEDY TODD
+2019-02-19 09:57:36,917 INFO  cus name for index -18 is - PAMELA G. GWINN
+2019-02-19 09:57:36,918 INFO  cus name for index -19 is - TOBIN J. MILLER
+2019-02-19 09:57:36,919 INFO  cus name for index -20 is - ATLANTA CTY GOV
+2019-02-19 09:57:36,919 INFO  cus name for index -21 is - DEKALB CTY GOVT
+2019-02-19 09:57:36,920 INFO  cus name for index -22 is - CRAWFORD JESSIC
+2019-02-19 09:57:36,921 INFO  cus name for index -23 is - REEDY BILL
+2019-02-19 09:57:36,921 INFO  cus name for index -24 is - DAVIS MARY
+2019-02-19 09:57:36,922 INFO  cus name for index -25 is - JACKSON & CAMPB
+2019-02-19 09:57:36,923 INFO  cus name for index -26 is - COSTNER JONNIE
+2019-02-19 09:57:36,923 INFO  cus name for index -27 is - COSTNER JONNIE
+2019-02-19 09:57:36,924 INFO  cus name for index -28 is - HENLEY,OGLETHA
+2019-02-19 09:57:36,926 INFO  cus name for index -29 is - SHATTLES LARRY
+2019-02-19 09:57:36,930 INFO  cus name for index -30 is - TODD COX
+2019-02-19 09:57:36,932 INFO  cus name for index -31 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,936 INFO  cus name for index -32 is - FLICKER SHARON
+2019-02-19 09:57:36,938 INFO  cus name for index -33 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,940 INFO  cus name for index -34 is - HILLSBORO, OH
+2019-02-19 09:57:36,942 INFO  cus name for index -35 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,944 INFO  cus name for index -36 is - BURNS TERRENCE
+2019-02-19 09:57:36,946 INFO  cus name for index -37 is - HILLSBORO, OH
+2019-02-19 09:57:36,948 INFO  cus name for index -38 is - CORBY,NANCY
+2019-02-19 09:57:36,949 INFO  cus name for index -39 is - GRACE IMPORTS
+2019-02-19 09:57:36,952 INFO  cus name for index -40 is - BAR B QUE
+2019-02-19 09:57:36,953 INFO  cus name for index -41 is - ERIC MEIER
+2019-02-19 09:57:36,954 INFO  cus name for index -42 is - ST-FLEUR FATIMA
+2019-02-19 09:57:36,955 INFO  cus name for index -43 is - LANGLEY JOSHUA
+2019-02-19 09:57:36,956 INFO  cus name for index -44 is - PILLETTE C
+2019-02-19 09:57:36,958 INFO  cus name for index -45 is - JERRY MATHENY
+2019-02-19 09:57:36,959 INFO  cus name for index -46 is - THOMAS LEWIS
+2019-02-19 09:57:36,960 INFO  cus name for index -47 is - PILLETTE C
+2019-02-19 09:57:36,961 INFO  cus name for index -48 is - KANG SUNGHOON
+2019-02-19 09:57:36,962 INFO  cus name for index -49 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,962 INFO  cus name for index -50 is - ATLANTA, GA
+2019-02-19 09:57:36,963 INFO  cus name for index -51 is - MESSMER TRUDY
+2019-02-19 09:57:36,965 INFO  cus name for index -52 is - ATLANTA, GA
+2019-02-19 09:57:36,966 INFO  cus name for index -53 is - LAURY JACK
+2019-02-19 09:57:36,968 INFO  cus name for index -54 is - ATLANTA, GA
+2019-02-19 09:57:36,969 INFO  cus name for index -55 is - GIRARD,JOHN
+2019-02-19 09:57:36,970 INFO  cus name for index -56 is - GIRARD,JOHN
+2019-02-19 09:57:36,971 INFO  cus name for index -57 is - BLACKWELL PAULA
+2019-02-19 09:57:36,972 INFO  cus name for index -58 is - GOMEZ CAMILO
+2019-02-19 09:57:36,973 INFO  cus name for index -59 is - WEIRICH C GEOFF
+2019-02-19 09:57:36,973 INFO  cus name for index -60 is - ATLANTA, GA
+2019-02-19 09:57:36,974 INFO  cus name for index -61 is - GAINESVILLE, GA
+2019-02-19 09:57:36,975 INFO  cus name for index -62 is - BUTLER TIRES AN
+2019-02-19 09:57:36,977 INFO  cus name for index -63 is - ASTOR ENTERPRIS
+2019-02-19 09:57:36,978 INFO  cus name for index -64 is - TERRANCE WILLIA
+2019-02-19 09:57:36,979 INFO  cus name for index -65 is - IRENE AGGREY
+2019-02-19 09:57:36,979 INFO  cus name for index -66 is - GIBSON MARY
+2019-02-19 09:57:36,980 INFO  cus name for index -67 is - QUINN SHERMAN
+2019-02-19 09:57:36,981 INFO  cus name for index -68 is - BOX RESELLERS
+2019-02-19 09:57:36,981 INFO  cus name for index -69 is - KANG SUNGHOON
+2019-02-19 09:57:36,982 INFO  cus name for index -70 is - RUFF RAYMOND
+2019-02-19 09:57:36,983 INFO  cus name for index -71 is - ALI ALI
+2019-02-19 09:57:36,983 INFO  cus name for index -72 is - JOHNSON SHARON
+2019-02-19 09:57:36,984 INFO  cus name for index -73 is - LISA JERN ATL
+2019-02-19 09:57:36,985 INFO  cus name for index -74 is - HOWELL PAIGE
+2019-02-19 09:57:36,986 INFO  cus name for index -75 is - LANDLORD-DENNIS
+2019-02-19 09:57:36,987 INFO  cus name for index -76 is - SHERRI BROWN
+2019-02-19 09:57:36,988 INFO  cus name for index -77 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,989 INFO  cus name for index -78 is - MANSFIELD,LECK
+2019-02-19 09:57:36,990 INFO  cus name for index -79 is - CORY PERGANDE
+2019-02-19 09:57:36,990 INFO  cus name for index -80 is - HAM,TERESA
+2019-02-19 09:57:36,991 INFO  cus name for index -81 is - CORY PERGANDE
+2019-02-19 09:57:36,992 INFO  cus name for index -82 is - PINO EUGENIA
+2019-02-19 09:57:36,993 INFO  cus name for index -83 is - ATLANTA NOR, GA
+2019-02-19 09:57:36,994 INFO  cus name for index -84 is - ATLANTA, GA
+2019-02-19 09:57:36,995 INFO  cus name for index -85 is - TWIN CITIES, MN
+2019-02-19 09:57:36,996 INFO  cus name for index -86 is - CLARK EXIELENA
+2019-02-19 09:57:36,997 INFO  cus name for index -87 is - COCA COLA USA
+2019-02-19 09:57:36,998 INFO  cus name for index -88 is - ROSWELL, GA
+2019-02-19 09:57:36,999 INFO  cus name for index -89 is - BEAVER TODD
+2019-02-19 09:57:36,999 INFO  cus name for index -90 is - DES MOINES, IA
+2019-02-19 09:57:37,000 INFO  cus name for index -91 is - QUEENS, NY
+2019-02-19 09:57:37,001 INFO  cus name for index -92 is - HELLBENDER HAR
+2019-02-19 09:57:37,002 INFO  cus name for index -93 is - TERRANCE WILLIA
+2019-02-19 09:57:37,003 INFO  cus name for index -94 is - JOHNSON SHARON
+2019-02-19 09:57:37,003 INFO  cus name for index -95 is - PARK YEON
+2019-02-19 09:57:37,004 INFO  cus name for index -96 is - ATLANTA COMMUNI
+2019-02-19 09:57:37,005 INFO  cus name for index -97 is - HEDRICK MATTHEW
+2019-02-19 09:57:37,006 INFO  cus name for index -98 is - MATT HEDRICK CO
+2019-02-19 09:57:37,007 INFO  cus name for index -99 is - MATT HEDRICK CO
+2019-02-19 09:57:37,008 INFO  Referring object number - 15 - from the list of 20
+2019-02-19 09:57:37,009 INFO  Inside case OK!
+2019-02-19 09:57:37,010 INFO  Response here status code is - OK
+2019-02-19 09:57:37,011 INFO  Count of call data list is - 100
+2019-02-19 09:57:37,011 INFO  Getting in the loop to get the call data at each indexes.
+2019-02-19 09:57:37,012 INFO  cus name for index -0 is - ANGELA MARTIN
+2019-02-19 09:57:37,013 INFO  cus name for index -1 is - WILLIAMS RICKY
+2019-02-19 09:57:37,013 INFO  cus name for index -2 is - ANDREWS,CHRISTI
+2019-02-19 09:57:37,014 INFO  cus name for index -3 is - MALISZEWSKA MAR
+2019-02-19 09:57:37,015 INFO  cus name for index -4 is - MALISZEWSKA MAR
+2019-02-19 09:57:37,015 INFO  cus name for index -5 is - MALISZEWSKA MAR
+2019-02-19 09:57:37,016 INFO  cus name for index -6 is - MALISZEWSKA MAR
+2019-02-19 09:57:37,018 INFO  cus name for index -7 is - PONDER,CLARENCE
+2019-02-19 09:57:37,019 INFO  cus name for index -8 is - PONDER,CLARENCE
+2019-02-19 09:57:37,020 INFO  cus name for index -9 is - PONDER,CLARENCE
+2019-02-19 09:57:37,021 INFO  cus name for index -10 is - HILLSBORO, OH
+2019-02-19 09:57:37,022 INFO  cus name for index -11 is - TAMMY HUINKER
+2019-02-19 09:57:37,023 INFO  cus name for index -12 is - HILLSBORO, OH
+2019-02-19 09:57:37,023 INFO  cus name for index -13 is - KENNETH MERRITT
+2019-02-19 09:57:37,024 INFO  cus name for index -14 is - CHEROKEE CNTY H
+2019-02-19 09:57:37,025 INFO  cus name for index -15 is - ROVER HENNESSY
+2019-02-19 09:57:37,025 INFO  cus name for index -16 is - KEY LARRY
+2019-02-19 09:57:37,026 INFO  cus name for index -17 is - ATLANTA, GA
+2019-02-19 09:57:37,028 INFO  cus name for index -18 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,029 INFO  cus name for index -19 is - PITCHFORD RICK
+2019-02-19 09:57:37,029 INFO  cus name for index -20 is - MALKA ELLEN
+2019-02-19 09:57:37,030 INFO  cus name for index -21 is - MALKA ELLEN
+2019-02-19 09:57:37,031 INFO  cus name for index -22 is - TOLBERT ZELDA
+2019-02-19 09:57:37,031 INFO  cus name for index -23 is - ATLANTA, GA
+2019-02-19 09:57:37,032 INFO  cus name for index -24 is - MOON MARIE
+2019-02-19 09:57:37,033 INFO  cus name for index -25 is - RON ROBINSON
+2019-02-19 09:57:37,033 INFO  cus name for index -26 is - HILLIARD ANTWAN
+2019-02-19 09:57:37,034 INFO  cus name for index -27 is - GMC WHITE TRUCK
+2019-02-19 09:57:37,035 INFO  cus name for index -28 is - GMC WHITE TRUCK
+2019-02-19 09:57:37,036 INFO  cus name for index -29 is - FLICKER SHARON
+2019-02-19 09:57:37,037 INFO  cus name for index -30 is - TOM BARRON
+2019-02-19 09:57:37,038 INFO  cus name for index -31 is - WHITE GERALD
+2019-02-19 09:57:37,039 INFO  cus name for index -32 is - DJ STEPHEN
+2019-02-19 09:57:37,039 INFO  cus name for index -33 is - ATLANTA, GA
+2019-02-19 09:57:37,040 INFO  cus name for index -34 is - CLARKESVILL, GA
+2019-02-19 09:57:37,041 INFO  cus name for index -35 is - DAVENPORT LATAS
+2019-02-19 09:57:37,042 INFO  cus name for index -36 is - JAY ROGERS
+2019-02-19 09:57:37,042 INFO  cus name for index -37 is - CAMPBELL MARY
+2019-02-19 09:57:37,044 INFO  cus name for index -38 is - JUSTIN CHEN
+2019-02-19 09:57:37,045 INFO  cus name for index -39 is - SWILLEY JIMMY
+2019-02-19 09:57:37,045 INFO  cus name for index -40 is - COHEN SUSAN
+2019-02-19 09:57:37,047 INFO  cus name for index -41 is - TWIN CITIES, MN
+2019-02-19 09:57:37,048 INFO  cus name for index -42 is - MARISSA OSBOURN
+2019-02-19 09:57:37,049 INFO  cus name for index -43 is - SPORT - MOBILE
+2019-02-19 09:57:37,050 INFO  cus name for index -44 is - GRIFFIN, GA
+2019-02-19 09:57:37,051 INFO  cus name for index -45 is - CARTER DANISHEK
+2019-02-19 09:57:37,052 INFO  cus name for index -46 is - HOLLAR JOHN
+2019-02-19 09:57:37,053 INFO  cus name for index -47 is - MATALA KAREN L
+2019-02-19 09:57:37,054 INFO  cus name for index -48 is - ATLANTA, GA
+2019-02-19 09:57:37,055 INFO  cus name for index -49 is - CARLOMAGNO STEP
+2019-02-19 09:57:37,056 INFO  cus name for index -50 is - DES MOINES, IA
+2019-02-19 09:57:37,058 INFO  cus name for index -51 is - MARISSA OSBOURN
+2019-02-19 09:57:37,058 INFO  cus name for index -52 is - MEADVILLE, PA
+2019-02-19 09:57:37,059 INFO  cus name for index -53 is - JONES,DEADERICK
+2019-02-19 09:57:37,060 INFO  cus name for index -54 is - DONE IT WHO
+2019-02-19 09:57:37,061 INFO  cus name for index -55 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,061 INFO  cus name for index -56 is - CAMPBELL MARY
+2019-02-19 09:57:37,062 INFO  cus name for index -57 is - JEAN LOUIS SHIR
+2019-02-19 09:57:37,063 INFO  cus name for index -58 is - POTTER
+2019-02-19 09:57:37,063 INFO  cus name for index -59 is - BERNETTE ROSS
+2019-02-19 09:57:37,064 INFO  cus name for index -60 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,065 INFO  cus name for index -61 is - SWILLEY JIMMY
+2019-02-19 09:57:37,065 INFO  cus name for index -62 is - CAMPBELL MARY
+2019-02-19 09:57:37,066 INFO  cus name for index -63 is - SWILLEY JIMMY
+2019-02-19 09:57:37,069 INFO  cus name for index -64 is - SWILLEY JIMMY
+2019-02-19 09:57:37,070 INFO  cus name for index -65 is - SWILLEY JIMMY
+2019-02-19 09:57:37,072 INFO  cus name for index -66 is - SWILLEY JIMMY
+2019-02-19 09:57:37,074 INFO  cus name for index -67 is - WILLIAM KENNARD
+2019-02-19 09:57:37,075 INFO  cus name for index -68 is - SWILLEY JIMMY
+2019-02-19 09:57:37,077 INFO  cus name for index -69 is - SWILLEY JIMMY
+2019-02-19 09:57:37,078 INFO  cus name for index -70 is - SHIRLEY BRENDA
+2019-02-19 09:57:37,079 INFO  cus name for index -71 is - GEORGE DARYL
+2019-02-19 09:57:37,080 INFO  cus name for index -72 is - GEORGE DARYL
+2019-02-19 09:57:37,081 INFO  cus name for index -73 is - DES MOINES, IA
+2019-02-19 09:57:37,082 INFO  cus name for index -74 is - STUART KING GRA
+2019-02-19 09:57:37,083 INFO  cus name for index -75 is - KELSON LANCE
+2019-02-19 09:57:37,084 INFO  cus name for index -76 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,085 INFO  cus name for index -77 is - HALL ADRIENNE
+2019-02-19 09:57:37,086 INFO  cus name for index -78 is - UNKNOWN
+2019-02-19 09:57:37,088 INFO  cus name for index -79 is - TONY FULD
+2019-02-19 09:57:37,088 INFO  cus name for index -80 is - ATLANTA DOPPLER
+2019-02-19 09:57:37,089 INFO  cus name for index -81 is - FLICKER SHARON
+2019-02-19 09:57:37,090 INFO  cus name for index -82 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,091 INFO  cus name for index -83 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,092 INFO  cus name for index -84 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,092 INFO  cus name for index -85 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,093 INFO  cus name for index -86 is - LI KWOK
+2019-02-19 09:57:37,094 INFO  cus name for index -87 is - SANDERS K
+2019-02-19 09:57:37,094 INFO  cus name for index -88 is - DES MOINES, IA
+2019-02-19 09:57:37,095 INFO  cus name for index -89 is - LEVVERETTE JERR
+2019-02-19 09:57:37,096 INFO  cus name for index -90 is - LISA JERN ATL
+2019-02-19 09:57:37,097 INFO  cus name for index -91 is - HALL ADRIENNE
+2019-02-19 09:57:37,098 INFO  cus name for index -92 is - HALL ADRIENNE
+2019-02-19 09:57:37,099 INFO  cus name for index -93 is - HALL ADRIENNE
+2019-02-19 09:57:37,099 INFO  cus name for index -94 is - DES MOINES, IA
+2019-02-19 09:57:37,100 INFO  cus name for index -95 is - SLOAN RAYONDA
+2019-02-19 09:57:37,102 INFO  cus name for index -96 is - DES MOINES, IA
+2019-02-19 09:57:37,102 INFO  cus name for index -97 is - ALL HOME CONNEC
+2019-02-19 09:57:37,103 INFO  cus name for index -98 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,104 INFO  cus name for index -99 is - MONTERO,MOISES
+2019-02-19 09:57:37,104 INFO  Referring object number - 16 - from the list of 20
+2019-02-19 09:57:37,105 INFO  Inside case OK!
+2019-02-19 09:57:37,106 INFO  Response here status code is - OK
+2019-02-19 09:57:37,107 INFO  Count of call data list is - 100
+2019-02-19 09:57:37,108 INFO  Getting in the loop to get the call data at each indexes.
+2019-02-19 09:57:37,109 INFO  cus name for index -0 is - ATLANTA, GA
+2019-02-19 09:57:37,110 INFO  cus name for index -1 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,111 INFO  cus name for index -2 is - DES MOINES, IA
+2019-02-19 09:57:37,111 INFO  cus name for index -3 is - ANDERSON TERRY
+2019-02-19 09:57:37,112 INFO  cus name for index -4 is - CONNECT STAFFIN
+2019-02-19 09:57:37,113 INFO  cus name for index -5 is - COUSINS PROPERT
+2019-02-19 09:57:37,113 INFO  cus name for index -6 is - DES MOINES, IA
+2019-02-19 09:57:37,114 INFO  cus name for index -7 is - BRADLEY BOPP
+2019-02-19 09:57:37,115 INFO  cus name for index -8 is - TERRANCE WILLIA
+2019-02-19 09:57:37,115 INFO  cus name for index -9 is - ATLANTA, GA
+2019-02-19 09:57:37,116 INFO  cus name for index -10 is - ATLANTA, GA
+2019-02-19 09:57:37,118 INFO  cus name for index -11 is - NORTHCUT ROBERT
+2019-02-19 09:57:37,119 INFO  cus name for index -12 is - RAMSEY, L
+2019-02-19 09:57:37,119 INFO  cus name for index -13 is - RAMSEY, L
+2019-02-19 09:57:37,120 INFO  cus name for index -14 is - FAIRFIELD, TX
+2019-02-19 09:57:37,121 INFO  cus name for index -15 is - DAVIS MARY
+2019-02-19 09:57:37,121 INFO  cus name for index -16 is - DAVIS MARY
+2019-02-19 09:57:37,121 INFO  cus name for index -17 is - JERRY MATHENY
+2019-02-19 09:57:37,122 INFO  cus name for index -18 is - BARBARA RUBIN
+2019-02-19 09:57:37,122 INFO  cus name for index -19 is - LARRY SMITH
+2019-02-19 09:57:37,123 INFO  cus name for index -20 is - ATLANTA, GA
+2019-02-19 09:57:37,124 INFO  cus name for index -21 is - MISS JODY
+2019-02-19 09:57:37,125 INFO  cus name for index -22 is - CAMPBELL MARY
+2019-02-19 09:57:37,127 INFO  cus name for index -23 is - ANDERSON TERRY
+2019-02-19 09:57:37,128 INFO  cus name for index -24 is - WARD JULIA
+2019-02-19 09:57:37,129 INFO  cus name for index -25 is - DEBBIE LINDSEY
+2019-02-19 09:57:37,130 INFO  cus name for index -26 is - DEBBIE LINDSEY
+2019-02-19 09:57:37,130 INFO  cus name for index -27 is - ARANEDA,FLOR
+2019-02-19 09:57:37,131 INFO  cus name for index -28 is - ARROWHEAD, CA
+2019-02-19 09:57:37,132 INFO  cus name for index -29 is - WIND,BARBARA
+2019-02-19 09:57:37,133 INFO  cus name for index -30 is - anonymous
+2019-02-19 09:57:37,134 INFO  cus name for index -31 is - RUTH DENHARTOG
+2019-02-19 09:57:37,135 INFO  cus name for index -32 is - RUTH DENHARTOG
+2019-02-19 09:57:37,136 INFO  cus name for index -33 is - MARISSA OSBOURN
+2019-02-19 09:57:37,137 INFO  cus name for index -34 is - CESAR,MONICA
+2019-02-19 09:57:37,137 INFO  cus name for index -35 is - VIRTUAL INSURAN
+2019-02-19 09:57:37,138 INFO  cus name for index -36 is - THE UPPER RANCH
+2019-02-19 09:57:37,139 INFO  cus name for index -37 is - RONQUILLO OLIVE
+2019-02-19 09:57:37,140 INFO  cus name for index -38 is - BEDGOOD CHARLES
+2019-02-19 09:57:37,141 INFO  cus name for index -39 is - BEDGOOD CHARLES
+2019-02-19 09:57:37,141 INFO  cus name for index -40 is - HARRIS DREMA
+2019-02-19 09:57:37,142 INFO  cus name for index -41 is - KELSON LANCE
+2019-02-19 09:57:37,143 INFO  cus name for index -42 is - SIDDIQUI MUSHIR
+2019-02-19 09:57:37,144 INFO  cus name for index -43 is - ISLAM NAZRUL
+2019-02-19 09:57:37,144 INFO  cus name for index -44 is - HYAT KHAN SAQUI
+2019-02-19 09:57:37,145 INFO  cus name for index -45 is - ADAIRSVILLE, GA
+2019-02-19 09:57:37,146 INFO  cus name for index -46 is - WASHINGTON TRAC
+2019-02-19 09:57:37,147 INFO  cus name for index -47 is - COMPTOIS CHRIS
+2019-02-19 09:57:37,148 INFO  cus name for index -48 is - CHUKIE ROBETCHU
+2019-02-19 09:57:37,149 INFO  cus name for index -49 is - CHUKIE ROBETCHU
+2019-02-19 09:57:37,149 INFO  cus name for index -50 is - BERNABE DIANNE
+2019-02-19 09:57:37,150 INFO  cus name for index -51 is - O ONWUMBIKO
+2019-02-19 09:57:37,151 INFO  cus name for index -52 is - CLEAVELAND MARY
+2019-02-19 09:57:37,152 INFO  cus name for index -53 is - WILLIE BROWN
+2019-02-19 09:57:37,152 INFO  cus name for index -54 is - RON
+2019-02-19 09:57:37,154 INFO  cus name for index -55 is - DESTA,ASHENAFI
+2019-02-19 09:57:37,154 INFO  cus name for index -56 is - HYAT KHAN SAQUI
+2019-02-19 09:57:37,155 INFO  cus name for index -57 is - CARY Q
+2019-02-19 09:57:37,157 INFO  cus name for index -58 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,157 INFO  cus name for index -59 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,158 INFO  cus name for index -60 is - RICH PIATT
+2019-02-19 09:57:37,159 INFO  cus name for index -61 is - CLAYTON STATE U
+2019-02-19 09:57:37,159 INFO  cus name for index -62 is - CLAYTON STATE U
+2019-02-19 09:57:37,160 INFO  cus name for index -63 is - PAMELA G. GWINN
+2019-02-19 09:57:37,161 INFO  cus name for index -64 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,162 INFO  cus name for index -65 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,162 INFO  cus name for index -66 is - RENAISSANCE CON
+2019-02-19 09:57:37,163 INFO  cus name for index -67 is - RENAISSANCE CON
+2019-02-19 09:57:37,164 INFO  cus name for index -68 is - BENJAMIN CLAREN
+2019-02-19 09:57:37,164 INFO  cus name for index -69 is - DES MOINES, IA
+2019-02-19 09:57:37,165 INFO  cus name for index -70 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,167 INFO  cus name for index -71 is - CONCORD, GA
+2019-02-19 09:57:37,168 INFO  cus name for index -72 is - CADENCE TECH
+2019-02-19 09:57:37,168 INFO  cus name for index -73 is - FRED T ALLEN
+2019-02-19 09:57:37,169 INFO  cus name for index -74 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,170 INFO  cus name for index -75 is - PAULDING COUNTY
+2019-02-19 09:57:37,171 INFO  cus name for index -76 is - ATLANTA, GA
+2019-02-19 09:57:37,171 INFO  cus name for index -77 is - FRED T ALLEN
+2019-02-19 09:57:37,172 INFO  cus name for index -78 is - JESSUP HANNAH
+2019-02-19 09:57:37,173 INFO  cus name for index -79 is - HOWARD ALLEN
+2019-02-19 09:57:37,173 INFO  cus name for index -80 is - FRED T ALLEN
+2019-02-19 09:57:37,174 INFO  cus name for index -81 is - BOB ROGERS
+2019-02-19 09:57:37,175 INFO  cus name for index -82 is - DEJOSEPH FRANCI
+2019-02-19 09:57:37,177 INFO  cus name for index -83 is - DEJOSEPH FRANCI
+2019-02-19 09:57:37,178 INFO  cus name for index -84 is - DEJOSEPH FRANCI
+2019-02-19 09:57:37,178 INFO  cus name for index -85 is - DEJOSEPH FRANCI
+2019-02-19 09:57:37,179 INFO  cus name for index -86 is - ATLANTA, GA
+2019-02-19 09:57:37,180 INFO  cus name for index -87 is - SIGHTS JANET
+2019-02-19 09:57:37,180 INFO  cus name for index -88 is - BRAVALDO DONALD
+2019-02-19 09:57:37,181 INFO  cus name for index -89 is - DES MOINES, IA
+2019-02-19 09:57:37,182 INFO  cus name for index -90 is - MAEROFF RACHEL
+2019-02-19 09:57:37,182 INFO  cus name for index -91 is - CHRIS & ELLEN S
+2019-02-19 09:57:37,184 INFO  cus name for index -92 is - PAULDING COUNTY
+2019-02-19 09:57:37,185 INFO  cus name for index -93 is - DEA JOE DANIELS
+2019-02-19 09:57:37,186 INFO  cus name for index -94 is - SALVATION ARMY
+2019-02-19 09:57:37,187 INFO  cus name for index -95 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,188 INFO  cus name for index -96 is - JONES MICHAEL
+2019-02-19 09:57:37,189 INFO  cus name for index -97 is - STADER JAN
+2019-02-19 09:57:37,190 INFO  cus name for index -98 is - LARS ANDREASSEN
+2019-02-19 09:57:37,190 INFO  cus name for index -99 is - ANGELA MURPHY
+2019-02-19 09:57:37,191 INFO  Referring object number - 17 - from the list of 20
+2019-02-19 09:57:37,192 INFO  Inside case OK!
+2019-02-19 09:57:37,192 INFO  Response here status code is - OK
+2019-02-19 09:57:37,193 INFO  Count of call data list is - 100
+2019-02-19 09:57:37,194 INFO  Getting in the loop to get the call data at each indexes.
+2019-02-19 09:57:37,194 INFO  cus name for index -0 is - BOOKER VANCE
+2019-02-19 09:57:37,196 INFO  cus name for index -1 is - CHAMBERSBUR, PA
+2019-02-19 09:57:37,197 INFO  cus name for index -2 is - JUPITER, FL
+2019-02-19 09:57:37,198 INFO  cus name for index -3 is - DAHLONEGA, GA
+2019-02-19 09:57:37,199 INFO  cus name for index -4 is - DAHLONEGA, GA
+2019-02-19 09:57:37,200 INFO  cus name for index -5 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,201 INFO  cus name for index -6 is - DES MOINES, IA
+2019-02-19 09:57:37,202 INFO  cus name for index -7 is - JONES MICHAEL
+2019-02-19 09:57:37,202 INFO  cus name for index -8 is - JONES MICHAEL
+2019-02-19 09:57:37,203 INFO  cus name for index -9 is - PASTOREVARISTO 
+2019-02-19 09:57:37,204 INFO  cus name for index -10 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,204 INFO  cus name for index -11 is - HUDSON,DANNY
+2019-02-19 09:57:37,205 INFO  cus name for index -12 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,206 INFO  cus name for index -13 is - ATLANTA, GA
+2019-02-19 09:57:37,208 INFO  cus name for index -14 is - HYAT KHAN SAQUI
+2019-02-19 09:57:37,209 INFO  cus name for index -15 is - HYAT KHAN SAQUI
+2019-02-19 09:57:37,209 INFO  cus name for index -16 is - WILLIAMS THEMAN
+2019-02-19 09:57:37,210 INFO  cus name for index -17 is - STIDHAM STIDHAM
+2019-02-19 09:57:37,211 INFO  cus name for index -18 is - LONNIE LETT
+2019-02-19 09:57:37,211 INFO  cus name for index -19 is - ATLANTA, GA
+2019-02-19 09:57:37,212 INFO  cus name for index -20 is - CHERYL EINSPHAR
+2019-02-19 09:57:37,213 INFO  cus name for index -21 is - MONTGOMERY, AL
+2019-02-19 09:57:37,213 INFO  cus name for index -22 is - SETON CAROLINE
+2019-02-19 09:57:37,214 INFO  cus name for index -23 is - CENTRAL ATLANTA
+2019-02-19 09:57:37,215 INFO  cus name for index -24 is - CENTRAL ATLANTA
+2019-02-19 09:57:37,217 INFO  cus name for index -25 is - LIONE DAWN
+2019-02-19 09:57:37,218 INFO  cus name for index -26 is - LIONE DAWN
+2019-02-19 09:57:37,218 INFO  cus name for index -27 is - MARION PERRYMON
+2019-02-19 09:57:37,219 INFO  cus name for index -28 is - DAVID OLCSVARY
+2019-02-19 09:57:37,220 INFO  cus name for index -29 is - ATLANTA, GA
+2019-02-19 09:57:37,220 INFO  cus name for index -30 is - RASHAD MCFARLAN
+2019-02-19 09:57:37,221 INFO  cus name for index -31 is - RASHAD MCFARLAN
+2019-02-19 09:57:37,222 INFO  cus name for index -32 is - ATLANTA, GA
+2019-02-19 09:57:37,222 INFO  cus name for index -33 is - ATLANTA, GA
+2019-02-19 09:57:37,223 INFO  cus name for index -34 is - DEJOSEPH FRANCI
+2019-02-19 09:57:37,224 INFO  cus name for index -35 is - EILEEN & KEN SC
+2019-02-19 09:57:37,225 INFO  cus name for index -36 is - EILEEN & KEN SC
+2019-02-19 09:57:37,228 INFO  cus name for index -37 is - BYRD MARLON
+2019-02-19 09:57:37,229 INFO  cus name for index -38 is - BENJAMIN CLAREN
+2019-02-19 09:57:37,229 INFO  cus name for index -39 is - GILBERT POLO
+2019-02-19 09:57:37,230 INFO  cus name for index -40 is - ADELPHI, DC
+2019-02-19 09:57:37,231 INFO  cus name for index -41 is - LANGSTON JACKIE
+2019-02-19 09:57:37,231 INFO  cus name for index -42 is - LEIKER KELLY
+2019-02-19 09:57:37,232 INFO  cus name for index -43 is - AGNES SCOTT COL
+2019-02-19 09:57:37,233 INFO  cus name for index -44 is - AGNES SCOTT COL
+2019-02-19 09:57:37,234 INFO  cus name for index -45 is - DES MOINES, IA
+2019-02-19 09:57:37,234 INFO  cus name for index -46 is - FORREST ROBINSO
+2019-02-19 09:57:37,236 INFO  cus name for index -47 is - ATLANTA SOU, GA
+2019-02-19 09:57:37,237 INFO  cus name for index -48 is - DES MOINES, IA
+2019-02-19 09:57:37,237 INFO  cus name for index -49 is - QUINTUS CORPORA
+2019-02-19 09:57:37,238 INFO  cus name for index -50 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,239 INFO  cus name for index -51 is - COURTLAND S
+2019-02-19 09:57:37,239 INFO  cus name for index -52 is - TOM WOODALL
+2019-02-19 09:57:37,240 INFO  cus name for index -53 is - TOM WOODALL
+2019-02-19 09:57:37,241 INFO  cus name for index -54 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,242 INFO  cus name for index -55 is - LESNEAK DAVID
+2019-02-19 09:57:37,243 INFO  cus name for index -56 is - COHS
+2019-02-19 09:57:37,243 INFO  cus name for index -57 is - COMPTOIS CHRIS
+2019-02-19 09:57:37,245 INFO  cus name for index -58 is - TOTO USA INC
+2019-02-19 09:57:37,246 INFO  cus name for index -59 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,247 INFO  cus name for index -60 is - MATTAPPALLY,JOB
+2019-02-19 09:57:37,247 INFO  cus name for index -61 is - WORTHINGTON, OH
+2019-02-19 09:57:37,248 INFO  cus name for index -62 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,249 INFO  cus name for index -63 is - LIONE DAWN
+2019-02-19 09:57:37,249 INFO  cus name for index -64 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,250 INFO  cus name for index -65 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,251 INFO  cus name for index -66 is - DULUTH, GA
+2019-02-19 09:57:37,252 INFO  cus name for index -67 is - WORTHINGTON, OH
+2019-02-19 09:57:37,252 INFO  cus name for index -68 is - WORTHINGTON, OH
+2019-02-19 09:57:37,254 INFO  cus name for index -69 is - WORTHINGTON, OH
+2019-02-19 09:57:37,255 INFO  cus name for index -70 is - PITER ILE
+2019-02-19 09:57:37,256 INFO  cus name for index -71 is - RASHAD MCFARLAN
+2019-02-19 09:57:37,257 INFO  cus name for index -72 is - JOHN BECKER
+2019-02-19 09:57:37,258 INFO  cus name for index -73 is - JOHN BECKER
+2019-02-19 09:57:37,259 INFO  cus name for index -74 is - JOHN BECKER
+2019-02-19 09:57:37,260 INFO  cus name for index -75 is - KEVIN MADRID SA
+2019-02-19 09:57:37,260 INFO  cus name for index -76 is - KEVIN MADRID SA
+2019-02-19 09:57:37,261 INFO  cus name for index -77 is - JOE MURPHY
+2019-02-19 09:57:37,262 INFO  cus name for index -78 is - KEVIN MADRID SA
+2019-02-19 09:57:37,263 INFO  cus name for index -79 is - KEVIN MADRID SA
+2019-02-19 09:57:37,265 INFO  cus name for index -80 is - BOOKER VANCE
+2019-02-19 09:57:37,265 INFO  cus name for index -81 is - ATLANTA, GA
+2019-02-19 09:57:37,267 INFO  cus name for index -82 is - ATLANTA, GA
+2019-02-19 09:57:37,268 INFO  cus name for index -83 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,269 INFO  cus name for index -84 is - ATLANTA, GA
+2019-02-19 09:57:37,270 INFO  cus name for index -85 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,271 INFO  cus name for index -86 is - ATLANTA, GA
+2019-02-19 09:57:37,272 INFO  cus name for index -87 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,273 INFO  cus name for index -88 is - BENJAMIN CARTER
+2019-02-19 09:57:37,274 INFO  cus name for index -89 is - BEARDEN ARNOLD
+2019-02-19 09:57:37,275 INFO  cus name for index -90 is - BUSH DIANNE
+2019-02-19 09:57:37,275 INFO  cus name for index -91 is - GUILLERMO CENTR
+2019-02-19 09:57:37,276 INFO  cus name for index -92 is - SETON CAROLINE
+2019-02-19 09:57:37,277 INFO  cus name for index -93 is - KRISTIN JUSTICE
+2019-02-19 09:57:37,278 INFO  cus name for index -94 is - ATLANTA, GA
+2019-02-19 09:57:37,279 INFO  cus name for index -95 is - CORNELIUS WRIGH
+2019-02-19 09:57:37,280 INFO  cus name for index -96 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,281 INFO  cus name for index -97 is - MEGHAN SCHRODER
+2019-02-19 09:57:37,282 INFO  cus name for index -98 is - MCMULLEN RALPH
+2019-02-19 09:57:37,284 INFO  cus name for index -99 is - HOWARD,DANIEL
+2019-02-19 09:57:37,285 INFO  Referring object number - 18 - from the list of 20
+2019-02-19 09:57:37,286 INFO  Inside case OK!
+2019-02-19 09:57:37,286 INFO  Response here status code is - OK
+2019-02-19 09:57:37,287 INFO  Count of call data list is - 100
+2019-02-19 09:57:37,288 INFO  Getting in the loop to get the call data at each indexes.
+2019-02-19 09:57:37,288 INFO  cus name for index -0 is - AKANA WALTER
+2019-02-19 09:57:37,289 INFO  cus name for index -1 is - ROSS DAVID
+2019-02-19 09:57:37,290 INFO  cus name for index -2 is - YANCEY,JOHN
+2019-02-19 09:57:37,290 INFO  cus name for index -3 is - HYAT KHAN SAQUI
+2019-02-19 09:57:37,291 INFO  cus name for index -4 is - DUNN LORENZO
+2019-02-19 09:57:37,292 INFO  cus name for index -5 is - JENNIS JAMES
+2019-02-19 09:57:37,295 INFO  cus name for index -6 is - OSIS
+2019-02-19 09:57:37,296 INFO  cus name for index -7 is - RICHARD CURBELO
+2019-02-19 09:57:37,297 INFO  cus name for index -8 is - LEWIS,JAMES
+2019-02-19 09:57:37,298 INFO  cus name for index -9 is - MALIK PODWIKA L
+2019-02-19 09:57:37,299 INFO  cus name for index -10 is - DUONG,MINH
+2019-02-19 09:57:37,300 INFO  cus name for index -11 is - MULTI PLASTICS
+2019-02-19 09:57:37,302 INFO  cus name for index -12 is - MULTI PLASTICS
+2019-02-19 09:57:37,303 INFO  cus name for index -13 is - ATLANTA, GA
+2019-02-19 09:57:37,304 INFO  cus name for index -14 is - NEWNAN, GA
+2019-02-19 09:57:37,305 INFO  cus name for index -15 is - MONTGOMERY, AL
+2019-02-19 09:57:37,307 INFO  cus name for index -16 is - MONTGOMERY, AL
+2019-02-19 09:57:37,308 INFO  cus name for index -17 is - UNKNOWN
+2019-02-19 09:57:37,309 INFO  cus name for index -18 is - UNKNOW UNKNOW
+2019-02-19 09:57:37,309 INFO  cus name for index -19 is - STRUVE DAVID
+2019-02-19 09:57:37,310 INFO  cus name for index -20 is - ATLANTA, GA
+2019-02-19 09:57:37,311 INFO  cus name for index -21 is - DES MOINES, IA
+2019-02-19 09:57:37,311 INFO  cus name for index -22 is - THOMAS GARY
+2019-02-19 09:57:37,312 INFO  cus name for index -23 is - THOMAS GARY
+2019-02-19 09:57:37,313 INFO  cus name for index -24 is - PAREKH, B
+2019-02-19 09:57:37,314 INFO  cus name for index -25 is - anonymous
+2019-02-19 09:57:37,315 INFO  cus name for index -26 is - ERNST,DOUGLAS
+2019-02-19 09:57:37,316 INFO  cus name for index -27 is - WILLIAM FRECH
+2019-02-19 09:57:37,316 INFO  cus name for index -28 is - BYRD MARLON
+2019-02-19 09:57:37,319 INFO  cus name for index -29 is - THOMAS GARY
+2019-02-19 09:57:37,319 INFO  cus name for index -30 is - THOMAS,MICHAEL
+2019-02-19 09:57:37,320 INFO  cus name for index -31 is - THOMAS,MICHAEL
+2019-02-19 09:57:37,321 INFO  cus name for index -32 is - ROBERT B
+2019-02-19 09:57:37,321 INFO  cus name for index -33 is - ROBERT B
+2019-02-19 09:57:37,323 INFO  cus name for index -34 is - DANIEL CATO
+2019-02-19 09:57:37,324 INFO  cus name for index -35 is - DANIEL CATO
+2019-02-19 09:57:37,324 INFO  cus name for index -36 is - RASHAD MCFARLAN
+2019-02-19 09:57:37,326 INFO  cus name for index -37 is - RASHAD MCFARLAN
+2019-02-19 09:57:37,326 INFO  cus name for index -38 is - DAVIES JOSEPH
+2019-02-19 09:57:37,327 INFO  cus name for index -39 is - AUSTIN FYELLIS
+2019-02-19 09:57:37,328 INFO  cus name for index -40 is - AUSTIN FYELLIS
+2019-02-19 09:57:37,329 INFO  cus name for index -41 is - BARBARY ,CHARLI
+2019-02-19 09:57:37,330 INFO  cus name for index -42 is - CONSTANCE BARBA
+2019-02-19 09:57:37,330 INFO  cus name for index -43 is - IRA RICHTER
+2019-02-19 09:57:37,331 INFO  cus name for index -44 is - IRA RICHTER
+2019-02-19 09:57:37,331 INFO  cus name for index -45 is - JAMES HUNT
+2019-02-19 09:57:37,334 INFO  cus name for index -46 is - ATLANTA, GA
+2019-02-19 09:57:37,335 INFO  cus name for index -47 is - ATLANTA, GA
+2019-02-19 09:57:37,335 INFO  cus name for index -48 is - LEIKER KELLY
+2019-02-19 09:57:37,336 INFO  cus name for index -49 is - DILLARD MOU, GA
+2019-02-19 09:57:37,337 INFO  cus name for index -50 is - ASHLEY RIDDLE
+2019-02-19 09:57:37,338 INFO  cus name for index -51 is - ATLANTA, GA
+2019-02-19 09:57:37,339 INFO  cus name for index -52 is - BRADLEY BOPP
+2019-02-19 09:57:37,340 INFO  cus name for index -53 is - DOUGLAS, GA
+2019-02-19 09:57:37,341 INFO  cus name for index -54 is - DOUGLAS, GA
+2019-02-19 09:57:37,342 INFO  cus name for index -55 is - DOUGLAS, GA
+2019-02-19 09:57:37,343 INFO  cus name for index -56 is - BAGBY SHAUN
+2019-02-19 09:57:37,345 INFO  cus name for index -57 is - SMITH SAMUEL
+2019-02-19 09:57:37,346 INFO  cus name for index -58 is - ATLANTA, GA
+2019-02-19 09:57:37,346 INFO  cus name for index -59 is - ATLANTA, GA
+2019-02-19 09:57:37,347 INFO  cus name for index -60 is - ATLANTA, GA
+2019-02-19 09:57:37,348 INFO  cus name for index -61 is - EDDIE GREENE
+2019-02-19 09:57:37,349 INFO  cus name for index -62 is - LILLY BRIDGES B
+2019-02-19 09:57:37,349 INFO  cus name for index -63 is - LILLY BRIDGES B
+2019-02-19 09:57:37,351 INFO  cus name for index -64 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,352 INFO  cus name for index -65 is - BURNETT CHRIS
+2019-02-19 09:57:37,353 INFO  cus name for index -66 is - LEIKER KELLY
+2019-02-19 09:57:37,353 INFO  cus name for index -67 is - CHRIS BLACKMORE
+2019-02-19 09:57:37,354 INFO  cus name for index -68 is - ATLANTA, GA
+2019-02-19 09:57:37,355 INFO  cus name for index -69 is - PAWLICKI KATHER
+2019-02-19 09:57:37,355 INFO  cus name for index -70 is - ATLANTA, GA
+2019-02-19 09:57:37,356 INFO  cus name for index -71 is - J EDWARDS BRYSO
+2019-02-19 09:57:37,357 INFO  cus name for index -72 is - JENKINS ROBERT
+2019-02-19 09:57:37,357 INFO  cus name for index -73 is - BRYAN EUBANKS
+2019-02-19 09:57:37,358 INFO  cus name for index -74 is - J EDWARDS BRYSO
+2019-02-19 09:57:37,359 INFO  cus name for index -75 is - RON HANEY
+2019-02-19 09:57:37,359 INFO  cus name for index -76 is - ATLANTA, GA
+2019-02-19 09:57:37,360 INFO  cus name for index -77 is - BURNETT CHRIS
+2019-02-19 09:57:37,362 INFO  cus name for index -78 is - BURNETT CHRIS
+2019-02-19 09:57:37,363 INFO  cus name for index -79 is - GOODMAN MCGUFFE
+2019-02-19 09:57:37,363 INFO  cus name for index -80 is - SHIRLEY BRENDA
+2019-02-19 09:57:37,364 INFO  cus name for index -81 is - GOODMAN MCGUFFE
+2019-02-19 09:57:37,365 INFO  cus name for index -82 is - LAUTURE NIVARD
+2019-02-19 09:57:37,365 INFO  cus name for index -83 is - GOODMAN MCGUFFE
+2019-02-19 09:57:37,366 INFO  cus name for index -84 is - STAN GRIFFIN JR
+2019-02-19 09:57:37,367 INFO  cus name for index -85 is - STAN GRIFFIN JR
+2019-02-19 09:57:37,368 INFO  cus name for index -86 is - BURNETT CHRIS
+2019-02-19 09:57:37,369 INFO  cus name for index -87 is - KRISTIN HULL
+2019-02-19 09:57:37,369 INFO  cus name for index -88 is - GRAYSON ESD
+2019-02-19 09:57:37,370 INFO  cus name for index -89 is - SCOTT,LEN
+2019-02-19 09:57:37,372 INFO  cus name for index -90 is - HARLESTON,PERCY
+2019-02-19 09:57:37,373 INFO  cus name for index -91 is - UCB INC
+2019-02-19 09:57:37,373 INFO  cus name for index -92 is - UCB INC
+2019-02-19 09:57:37,374 INFO  cus name for index -93 is - PERRY WADDIE
+2019-02-19 09:57:37,375 INFO  cus name for index -94 is - R BRIDGES
+2019-02-19 09:57:37,375 INFO  cus name for index -95 is - R BRIDGES
+2019-02-19 09:57:37,376 INFO  cus name for index -96 is - QTG
+2019-02-19 09:57:37,377 INFO  cus name for index -97 is - TISHA BAKER
+2019-02-19 09:57:37,378 INFO  cus name for index -98 is - SCOTT,LEN
+2019-02-19 09:57:37,378 INFO  cus name for index -99 is - SCOTT,LEN
+2019-02-19 09:57:37,379 INFO  Referring object number - 19 - from the list of 20
+2019-02-19 09:57:37,380 INFO  Inside case OK!
+2019-02-19 09:57:37,381 INFO  Response here status code is - OK
+2019-02-19 09:57:37,383 INFO  Count of call data list is - 64
+2019-02-19 09:57:37,383 INFO  Getting in the loop to get the call data at each indexes.
+2019-02-19 09:57:37,384 INFO  cus name for index -0 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,385 INFO  cus name for index -1 is - TISHA BAKER
+2019-02-19 09:57:37,386 INFO  cus name for index -2 is - DIANNA CLARKSON
+2019-02-19 09:57:37,387 INFO  cus name for index -3 is - DUONG,MINH
+2019-02-19 09:57:37,388 INFO  cus name for index -4 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,389 INFO  cus name for index -5 is - MILTON BAKER
+2019-02-19 09:57:37,389 INFO  cus name for index -6 is - DUONG,MINH
+2019-02-19 09:57:37,391 INFO  cus name for index -7 is - DUONG,MINH
+2019-02-19 09:57:37,393 INFO  cus name for index -8 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,394 INFO  cus name for index -9 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,395 INFO  cus name for index -10 is - RICHARD ALLISON
+2019-02-19 09:57:37,395 INFO  cus name for index -11 is - RICHARD ALLISON
+2019-02-19 09:57:37,396 INFO  cus name for index -12 is - ATLANTA, GA
+2019-02-19 09:57:37,397 INFO  cus name for index -13 is - ATLANTA, GA
+2019-02-19 09:57:37,397 INFO  cus name for index -14 is - ATLANTA, GA
+2019-02-19 09:57:37,398 INFO  cus name for index -15 is - TERRI SELBERG
+2019-02-19 09:57:37,399 INFO  cus name for index -16 is - TERRI SELBERG
+2019-02-19 09:57:37,399 INFO  cus name for index -17 is - PATEL
+2019-02-19 09:57:37,400 INFO  cus name for index -18 is - BARNES HEALTH
+2019-02-19 09:57:37,402 INFO  cus name for index -19 is - REID CLIFTON
+2019-02-19 09:57:37,404 INFO  cus name for index -20 is - REID CLIFTON
+2019-02-19 09:57:37,404 INFO  cus name for index -21 is - NEWTON WILLIAM
+2019-02-19 09:57:37,405 INFO  cus name for index -22 is - TOM WOODALL
+2019-02-19 09:57:37,406 INFO  cus name for index -23 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,407 INFO  cus name for index -24 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,408 INFO  cus name for index -25 is - PIERCE BEN
+2019-02-19 09:57:37,408 INFO  cus name for index -26 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,410 INFO  cus name for index -27 is - BROWNING KAYE
+2019-02-19 09:57:37,411 INFO  cus name for index -28 is - REINFORCED EART
+2019-02-19 09:57:37,412 INFO  cus name for index -29 is - CONNER
+2019-02-19 09:57:37,413 INFO  cus name for index -30 is - GOTTLICH TODD S
+2019-02-19 09:57:37,414 INFO  cus name for index -31 is - DEWITT MYERS
+2019-02-19 09:57:37,414 INFO  cus name for index -32 is - DES MOINES, IA
+2019-02-19 09:57:37,415 INFO  cus name for index -33 is - ATLANTA, GA
+2019-02-19 09:57:37,416 INFO  cus name for index -34 is - DALLIE GASKIN
+2019-02-19 09:57:37,416 INFO  cus name for index -35 is - DES MOINES, IA
+2019-02-19 09:57:37,417 INFO  cus name for index -36 is - ATLANTA, GA
+2019-02-19 09:57:37,418 INFO  cus name for index -37 is - ATLANTA, GA
+2019-02-19 09:57:37,419 INFO  cus name for index -38 is - SWAN COACH HOUS
+2019-02-19 09:57:37,420 INFO  cus name for index -39 is - FRIDGE MANDY
+2019-02-19 09:57:37,422 INFO  cus name for index -40 is - PREMIER ELEVATO
+2019-02-19 09:57:37,422 INFO  cus name for index -41 is - JOHNSON GREGORY
+2019-02-19 09:57:37,423 INFO  cus name for index -42 is - BELTSVILLE, VA
+2019-02-19 09:57:37,424 INFO  cus name for index -43 is - STROUD SHUNDRA
+2019-02-19 09:57:37,425 INFO  cus name for index -44 is - ATLANTA NOR, GA
+2019-02-19 09:57:37,426 INFO  cus name for index -45 is - CONNER
+2019-02-19 09:57:37,427 INFO  cus name for index -46 is - DANA VASEY
+2019-02-19 09:57:37,427 INFO  cus name for index -47 is - FORT DODGE, IA
+2019-02-19 09:57:37,429 INFO  cus name for index -48 is - STROUD SHUNDRA
+2019-02-19 09:57:37,429 INFO  cus name for index -49 is - BERMAN COMMONS
+2019-02-19 09:57:37,431 INFO  cus name for index -50 is - ATLANTA CTY GOV
+2019-02-19 09:57:37,432 INFO  cus name for index -51 is - RICHARDSON NOEL
+2019-02-19 09:57:37,433 INFO  cus name for index -52 is - INSPECTION SUNN
+2019-02-19 09:57:37,434 INFO  cus name for index -53 is - WHITE,KELLY
+2019-02-19 09:57:37,435 INFO  cus name for index -54 is - CARL STUMP
+2019-02-19 09:57:37,435 INFO  cus name for index -55 is - ATLANTA, GA
+2019-02-19 09:57:37,436 INFO  cus name for index -56 is - DES MOINES, IA
+2019-02-19 09:57:37,437 INFO  cus name for index -57 is - HOLTON,CATHERIN
+2019-02-19 09:57:37,438 INFO  cus name for index -58 is - ATLANTA, GA
+2019-02-19 09:57:37,438 INFO  cus name for index -59 is - ATLANTA, GA
+2019-02-19 09:57:37,439 INFO  cus name for index -60 is - MASEKA MATIA
+2019-02-19 09:57:37,440 INFO  cus name for index -61 is - SINCLAIR CLAUDI
+2019-02-19 09:57:37,442 INFO  cus name for index -62 is - WETTER PAUL ALI
+2019-02-19 09:57:37,442 INFO  cus name for index -63 is - NEWNAN, GA
+2019-02-19 09:57:37,445 INFO  Data fetched successfully from Call Rail
+2019-02-19 09:57:37,462 DEBUG Inside updateBaanTable function.
+2019-02-19 09:57:37,463 DEBUG Count of objectList is - 20
+2019-02-19 09:57:37,463 INFO  Referring object from the list - 0 - out of 20
+2019-02-19 09:57:37,464 INFO  Count of call data list is - 100 - at index - 0
+2019-02-19 09:57:37,465 DEBUG Inside else of null call list.
+2019-02-19 09:57:37,481 INFO  Creating Connection to the string - Data Source=fort;Initial Catalog=baandb;Integrated Security=True
+2019-02-19 09:57:37,524 DEBUG Opened Connection.
+2019-02-19 09:57:37,525 DEBUG Command to check for duplicate baan data and ignore them.
+2019-02-19 09:57:37,526 DEBUG I am here 1.
+2019-02-19 09:57:37,527 DEBUG I am here 2.
+2019-02-19 09:57:37,527 DEBUG I am here 3.
+2019-02-19 09:57:37,528 DEBUG I am here 4.
+2019-02-19 09:57:37,529 DEBUG I am here 5.
+2019-02-19 09:57:37,531 DEBUG callDuration for index - 0 is - 211 - which is  greater than 60 secs , for the response index - 0
+2019-02-19 09:57:37,532 DEBUG Inside formatContact function.
+2019-02-19 09:57:37,534 INFO  Contact cust. String is -+14047059522
+2019-02-19 09:57:37,535 INFO  Length of the Contact cust. string is -12
+2019-02-19 09:57:37,536 DEBUG Inside removeSpecialCharacters function.
+2019-02-19 09:57:37,536 INFO  Length of the string is -12
+2019-02-19 09:57:37,537 INFO  String is -+14047059522
+2019-02-19 09:57:37,538 DEBUG Inside formatContactLength function.
+2019-02-19 09:57:37,539 INFO  Length of the contact string is -11
+2019-02-19 09:57:37,539 INFO  String is -14047059522
+2019-02-19 09:57:37,541 DEBUG Inside getCallDate function.
+2019-02-19 09:57:37,541 DEBUG I am here 17.2.
+2019-02-19 09:57:37,543 INFO  my date is -2019-02-19T10:43:18.113-05:00
+2019-02-19 09:57:37,544 INFO  Length of the company name is -29
+2019-02-19 09:57:37,545 INFO  date is -2019-02-19T10:43:18.113-05:00 - contains T.
+2019-02-19 09:57:37,546 INFO  Position of underscore is -10
+2019-02-19 09:57:37,546 INFO  Date extracted is - 2019-02-19
+2019-02-19 09:57:37,547 DEBUG I am here 18.2.
+2019-02-19 09:57:37,549 DEBUG calldate set for index - 0 is - 2/19/2019 , for the response index - 0
+2019-02-19 09:57:37,550 DEBUG I am here 14.
+2019-02-19 09:57:37,552 DEBUG Setting default for match status for index - 0 , for the response index - 0
+2019-02-19 09:57:37,553 DEBUG Setting default for order date for index - 0 , for the response index - 0
+2019-02-19 09:57:37,555 DEBUG Setting default for match date for index - 0 , for the response index - 0
+2019-02-19 09:57:37,556 DEBUG Setting default for order# for index - 0 , for the response index - 0
+2019-02-19 09:57:37,557 DEBUG I am here 15.
+2019-02-19 09:57:37,558 DEBUG Inside getCompanyNumberFromName function.
+2019-02-19 09:57:37,559 INFO  Company Name for extraction is - Residential/Branded Call Only Ads_266
+2019-02-19 09:57:37,560 DEBUG I am here 17.
+2019-02-19 09:57:37,561 INFO  Length of the company name is -37
+2019-02-19 09:57:37,561 INFO  company name is -Residential/Branded Call Only Ads_266 - contains underscore
+2019-02-19 09:57:37,562 INFO  Position of underscore is -33
+2019-02-19 09:57:37,563 INFO  Company Number extracted is - 266
+2019-02-19 09:57:37,565 DEBUG I am here 18.
+2019-02-19 09:57:37,565 DEBUG Company # for index - 0 is set to - 266 , for the response index - 0
+2019-02-19 09:57:37,567 DEBUG Inside getmediaSourceFromName function.
+2019-02-19 09:57:37,568 DEBUG I am here 17.3.
+2019-02-19 09:57:37,569 INFO  company name is -Residential/Branded Call Only Ads_266
+2019-02-19 09:57:37,569 INFO  Length of the company name is -37
+2019-02-19 09:57:37,570 INFO  company name is -Residential/Branded Call Only Ads_266 - contains underscore
+2019-02-19 09:57:37,571 INFO  Position of underscore is -33
+2019-02-19 09:57:37,572 INFO  media Source name extracted is - Residential/Branded Call Only Ads
+2019-02-19 09:57:37,573 DEBUG I am here 18.3.
+2019-02-19 09:57:37,574 DEBUG mediaSource for index - 0 is set to - Residential/Branded Call Only Ads , for the response index - 0
+2019-02-19 09:57:37,576 DEBUG Inside getlocRegFromName function.
+2019-02-19 09:57:37,576 DEBUG I am here 17.1.
+2019-02-19 09:57:37,577 INFO  company name is -Residential/Branded Call Only Ads_266
+2019-02-19 09:57:37,578 INFO  Length of the company name is -37
+2019-02-19 09:57:37,578 INFO  Position of underscore is -33
+2019-02-19 09:57:37,579 INFO  location region extracted is - 
+2019-02-19 09:57:37,580 DEBUG I am here 18.1.
+2019-02-19 09:57:37,581 DEBUG Inside formatKeyword function.
+2019-02-19 09:57:37,581 INFO  unformatted keyword is null.
+2019-02-19 09:57:37,582 DEBUG keyword for index - 0 is null. Setting to blank for the response index - 0
+2019-02-19 09:57:37,584 DEBUG I am here 8.
+2019-02-19 09:57:37,585 DEBUG Setting default for order amnt for index - 0
+2019-02-19 09:57:37,586 DEBUG Setting default for Cust Number for index - 0
+2019-02-19 09:57:37,587 DEBUG Setting default for invoice Date for index - 0
+2019-02-19 09:57:37,587 DEBUG Setting default for transactionOrigin for index - 0
+2019-02-19 09:57:37,606 DEBUG I am here 9.
+2019-02-19 09:57:37,607 INFO  INSERT INTO ttccom906260  (t_cname, t_recid, t_cnum, t_ccity, t_cstate, t_ccoun, t_calldt, t_mstat, t_ordat, t_mtdat, t_orno, t_comp, t_oramnt, t_cuno, t_indat, t_tror, t_czip, t_dept, t_keywrd, t_mdsrc, t_source, t_region, t_Refcntd, t_Refcntu) VALUES (HAYNIE ALEXANDR,710255189,4047059522,Atlanta,GA,US,2/19/2019 12:00:00 AM, 0,,,0,266,, , ,,  , ,,Residential/Branded Call Only Ads,CallRail,, 0, 0)
+2019-02-19 09:57:37,611 DEBUG I am here 11.
+2019-02-19 09:57:37,612 INFO  1 - Record written to Baan table CallRailDataFormatching, Table # ttccom906260
+2019-02-19 09:57:37,613 INFO  Value of callTagIndex is -0
+2019-02-19 09:57:37,614 DEBUG callDuration for index - 1 is - 224 - which is  greater than 60 secs , for the response index - 0
+2019-02-19 09:57:37,615 DEBUG Inside formatContact function.
+2019-02-19 09:57:37,616 INFO  Contact cust. String is -+14043107362
+2019-02-19 09:57:37,617 INFO  Length of the Contact cust. string is -12
+2019-02-19 09:57:37,618 DEBUG Inside removeSpecialCharacters function.
+2019-02-19 09:57:37,619 INFO  Length of the string is -12
+2019-02-19 09:57:37,620 INFO  String is -+14043107362
+2019-02-19 09:57:37,620 DEBUG Inside formatContactLength function.
+2019-02-19 09:57:37,621 INFO  Length of the contact string is -11
+2019-02-19 09:57:37,622 INFO  String is -14043107362
+2019-02-19 09:57:37,622 DEBUG Inside getCallDate function.
+2019-02-19 09:57:37,623 DEBUG I am here 17.2.
+2019-02-19 09:57:37,624 INFO  my date is -2019-02-19T10:35:19.339-05:00
+2019-02-19 09:57:37,625 INFO  Length of the company name is -29
+2019-02-19 09:57:37,627 INFO  date is -2019-02-19T10:35:19.339-05:00 - contains T.
+2019-02-19 09:57:37,628 INFO  Position of underscore is -10
+2019-02-19 09:57:37,628 INFO  Date extracted is - 2019-02-19
+2019-02-19 09:57:37,630 DEBUG I am here 18.2.
+2019-02-19 09:57:37,630 DEBUG calldate set for index - 1 is - 2/19/2019 , for the response index - 0
+2019-02-19 09:57:37,631 DEBUG I am here 14.
+2019-02-19 09:57:37,632 DEBUG Setting default for match status for index - 1 , for the response index - 0
+2019-02-19 09:57:37,633 DEBUG Setting default for order date for index - 1 , for the response index - 0
+2019-02-19 09:57:37,634 DEBUG Setting default for match date for index - 1 , for the response index - 0
+2019-02-19 09:57:37,636 DEBUG Setting default for order# for index - 1 , for the response index - 0
+2019-02-19 09:57:37,638 DEBUG I am here 15.
+2019-02-19 09:57:37,639 DEBUG Inside getCompanyNumberFromName function.
+2019-02-19 09:57:37,639 INFO  Company Name for extraction is - Digital Paid Media Pool_266
+2019-02-19 09:57:37,640 DEBUG I am here 17.
+2019-02-19 09:57:37,641 INFO  Length of the company name is -27
+2019-02-19 09:57:37,642 INFO  company name is -Digital Paid Media Pool_266 - contains underscore
+2019-02-19 09:57:37,643 INFO  Position of underscore is -23
+2019-02-19 09:57:37,643 INFO  Company Number extracted is - 266
+2019-02-19 09:57:37,644 DEBUG I am here 18.
+2019-02-19 09:57:37,645 DEBUG Company # for index - 1 is set to - 266 , for the response index - 0
+2019-02-19 09:57:37,647 DEBUG Inside getmediaSourceFromName function.
+2019-02-19 09:57:37,647 DEBUG I am here 17.3.
+2019-02-19 09:57:37,648 INFO  company name is -Digital Paid Media Pool_266
+2019-02-19 09:57:37,649 INFO  Length of the company name is -27
+2019-02-19 09:57:37,650 INFO  company name is -Digital Paid Media Pool_266 - contains underscore
+2019-02-19 09:57:37,651 INFO  Position of underscore is -23
+2019-02-19 09:57:37,652 INFO  media Source name extracted is - Digital Paid Media Pool
+2019-02-19 09:57:37,652 DEBUG I am here 18.3.
+2019-02-19 09:57:37,653 DEBUG mediaSource for index - 1 is set to - Digital Paid Media Pool , for the response index - 0
+2019-02-19 09:57:37,654 DEBUG Inside getlocRegFromName function.
+2019-02-19 09:57:37,655 DEBUG I am here 17.1.
+2019-02-19 09:57:37,656 INFO  company name is -Digital Paid Media Pool_266
+2019-02-19 09:57:37,657 INFO  Length of the company name is -27
+2019-02-19 09:57:37,658 INFO  Position of underscore is -23
+2019-02-19 09:57:37,659 INFO  location region extracted is - 
+2019-02-19 09:57:37,659 DEBUG I am here 18.1.
+2019-02-19 09:57:37,660 DEBUG Inside formatKeyword function.
+2019-02-19 09:57:37,661 INFO  unformatted keyword is -electric gates
+2019-02-19 09:57:37,661 INFO  Length of the unformattedkeyword is -14
+2019-02-19 09:57:37,662 INFO  unformatted keyword is -electric gates - does not contain plus sign.
+2019-02-19 09:57:37,663 DEBUG keyword for index - 1 is null. Setting to blank for the response index - 0
+2019-02-19 09:57:37,664 DEBUG I am here 8.
+2019-02-19 09:57:37,665 DEBUG Setting default for order amnt for index - 1
+2019-02-19 09:57:37,666 DEBUG Setting default for Cust Number for index - 1
+2019-02-19 09:57:37,667 DEBUG Setting default for invoice Date for index - 1
+2019-02-19 09:57:37,668 DEBUG Setting default for transactionOrigin for index - 1
+2019-02-19 09:57:37,672 DEBUG I am here 9.
+2019-02-19 09:57:37,672 INFO  INSERT INTO ttccom906260  (t_cname, t_recid, t_cnum, t_ccity, t_cstate, t_ccoun, t_calldt, t_mstat, t_ordat, t_mtdat, t_orno, t_comp, t_oramnt, t_cuno, t_indat, t_tror, t_czip, t_dept, t_keywrd, t_mdsrc, t_source, t_region, t_Refcntd, t_Refcntu) VALUES (NEAL CHRISTOPHE,417520886,4043107362,Atlanta,GA,US,2/19/2019 12:00:00 AM, 0,,,0,266,, , ,,  , ,,Digital Paid Media Pool,CallRail,, 0, 0)
+2019-02-19 09:57:37,677 DEBUG I am here 11.
+2019-02-19 09:57:37,678 INFO  1 - Record written to Baan table CallRailDataFormatching, Table # ttccom906260
+2019-02-19 09:57:37,679 INFO  Value of callTagIndex is -1
+2019-02-19 09:57:37,680 DEBUG callDuration for index - 2 is - 152 - which is  greater than 60 secs , for the response index - 0
+2019-02-19 09:57:37,681 DEBUG Inside formatContact function.
+2019-02-19 09:57:37,682 INFO  Contact cust. String is -+15152492844
+2019-02-19 09:57:37,683 INFO  Length of the Contact cust. string is -12
+2019-02-19 09:57:37,685 DEBUG Inside removeSpecialCharacters function.
+2019-02-19 09:57:37,686 INFO  Length of the string is -12
+2019-02-19 09:57:37,687 INFO  String is -+15152492844
+2019-02-19 09:57:37,688 DEBUG Inside formatContactLength function.
+2019-02-19 09:57:37,689 INFO  Length of the contact string is -11
+2019-02-19 09:57:37,689 INFO  String is -15152492844
+2019-02-19 09:57:37,690 DEBUG Inside getCallDate function.
+2019-02-19 09:57:37,691 DEBUG I am here 17.2.
+2019-02-19 09:57:37,691 INFO  my date is -2019-02-19T10:27:03.744-05:00
+2019-02-19 09:57:37,693 INFO  Length of the company name is -29
+2019-02-19 09:57:37,694 INFO  date is -2019-02-19T10:27:03.744-05:00 - contains T.
+2019-02-19 09:57:37,695 INFO  Position of underscore is -10
+2019-02-19 09:57:37,696 INFO  Date extracted is - 2019-02-19
+2019-02-19 09:57:37,697 DEBUG I am here 18.2.
+2019-02-19 09:57:37,697 DEBUG calldate set for index - 2 is - 2/19/2019 , for the response index - 0
+2019-02-19 09:57:37,698 DEBUG I am here 14.
+2019-02-19 09:57:37,699 DEBUG Setting default for match status for index - 2 , for the response index - 0
+2019-02-19 09:57:37,701 DEBUG Setting default for order date for index - 2 , for the response index - 0
+2019-02-19 09:57:37,702 DEBUG Setting default for match date for index - 2 , for the response index - 0
+2019-02-19 09:57:37,703 DEBUG Setting default for order# for index - 2 , for the response index - 0
+2019-02-19 09:57:37,704 DEBUG I am here 15.
+2019-02-19 09:57:37,706 DEBUG Inside getCompanyNumberFromName function.
+2019-02-19 09:57:37,706 INFO  Company Name for extraction is - Google - Residential Call Extensions_271898
+2019-02-19 09:57:37,708 DEBUG I am here 17.
+2019-02-19 09:57:37,708 INFO  Length of the company name is -43
+2019-02-19 09:57:37,709 INFO  company name is -Google - Residential Call Extensions_271898 - contains underscore
+2019-02-19 09:57:37,711 INFO  Position of underscore is -36
+2019-02-19 09:57:37,712 INFO  Company Number extracted is - 271
+2019-02-19 09:57:37,713 DEBUG I am here 18.
+2019-02-19 09:57:37,714 DEBUG Company # for index - 2 is set to - 271 , for the response index - 0
+2019-02-19 09:57:37,716 DEBUG Inside getmediaSourceFromName function.
+2019-02-19 09:57:37,717 DEBUG I am here 17.3.
+2019-02-19 09:57:37,718 INFO  company name is -Google - Residential Call Extensions_271898
+2019-02-19 09:57:37,720 INFO  Length of the company name is -43
+2019-02-19 09:57:37,720 INFO  company name is -Google - Residential Call Extensions_271898 - contains underscore
+2019-02-19 09:57:37,721 INFO  Position of underscore is -36
+2019-02-19 09:57:37,722 INFO  media Source name extracted is - Google - Residential Call Extensions
+2019-02-19 09:57:37,724 DEBUG I am here 18.3.
+2019-02-19 09:57:37,727 DEBUG mediaSource for index - 2 is set to - Google - Residential Call Extensions , for the response index - 0
+2019-02-19 09:57:37,728 DEBUG Inside getlocRegFromName function.
+2019-02-19 09:57:37,730 DEBUG I am here 17.1.
+2019-02-19 09:57:37,731 INFO  company name is -Google - Residential Call Extensions_271898
+2019-02-19 09:57:37,732 INFO  Length of the company name is -43
+2019-02-19 09:57:37,735 INFO  Position of underscore is -36
+2019-02-19 09:57:37,736 INFO  location region extracted is - 898
+2019-02-19 09:57:37,738 DEBUG I am here 18.1.
+2019-02-19 09:57:37,740 DEBUG location/Region for index - 2 is set to - 898 , for the response index - 0
+2019-02-19 09:57:37,742 DEBUG Inside formatKeyword function.
+2019-02-19 09:57:37,743 INFO  unformatted keyword is -garage doors
+2019-02-19 09:57:37,745 INFO  Length of the unformattedkeyword is -12
+2019-02-19 09:57:37,746 INFO  unformatted keyword is -garage doors - does not contain plus sign.
+2019-02-19 09:57:37,747 DEBUG keyword for index - 2 is null. Setting to blank for the response index - 0
+2019-02-19 09:57:37,748 DEBUG I am here 8.
+2019-02-19 09:57:37,749 DEBUG Setting default for order amnt for index - 2
+2019-02-19 09:57:37,751 DEBUG Setting default for Cust Number for index - 2
+2019-02-19 09:57:37,752 DEBUG Setting default for invoice Date for index - 2
+2019-02-19 09:57:37,754 DEBUG Setting default for transactionOrigin for index - 2
+2019-02-19 09:57:37,759 DEBUG I am here 9.
+2019-02-19 09:57:37,760 INFO  INSERT INTO ttccom906260  (t_cname, t_recid, t_cnum, t_ccity, t_cstate, t_ccoun, t_calldt, t_mstat, t_ordat, t_mtdat, t_orno, t_comp, t_oramnt, t_cuno, t_indat, t_tror, t_czip, t_dept, t_keywrd, t_mdsrc, t_source, t_region, t_Refcntd, t_Refcntu) VALUES (GARY MARLA GROV,933598092,5152492844,Des Moines,IA,US,2/19/2019 12:00:00 AM, 0,,,0,271,, , ,,  , ,,Google - Residential Call Extensions,CallRail,898, 0, 0)
+2019-02-19 09:57:37,764 DEBUG I am here 11.
+2019-02-19 09:57:37,765 INFO  1 - Record written to Baan table CallRailDataFormatching, Table # ttccom906260
+2019-02-19 09:57:37,766 INFO  Value of callTagIndex is -2
+2019-02-19 09:57:37,767 DEBUG callDuration for index - 3 is - 4 - which is less than 60 secs , for the response index - 0
+2019-02-19 09:58:03,188 DEBUG I am here 12.
+2019-02-19 09:58:10,446 DEBUG Committing the transaction.

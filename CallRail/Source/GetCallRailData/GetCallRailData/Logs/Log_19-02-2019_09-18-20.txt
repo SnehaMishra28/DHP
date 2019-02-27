@@ -1,0 +1,2 @@
+2019-02-19 09:18:21,227 DEBUG Inside Main function - Start of GetCallRailData Application
+2019-02-19 09:18:21,247 DEBUG Inside getDataFromCallrail function.

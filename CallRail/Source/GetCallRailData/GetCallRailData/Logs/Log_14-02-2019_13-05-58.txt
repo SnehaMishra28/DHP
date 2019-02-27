@@ -1,0 +1,8 @@
+2019-02-14 13:05:58,532 DEBUG Inside Main function - Start of GetCallRailData Application
+2019-02-14 13:06:06,000 DEBUG I am here 17.1.
+2019-02-14 13:06:11,051 INFO  company name is -Digital Paid Media Pool_266260
+2019-02-14 13:06:13,198 INFO  Length of the company name is -30
+2019-02-14 13:06:16,662 INFO  Position of underscore is -23
+2019-02-14 13:06:25,802 INFO  location region extracted is - 260
+2019-02-14 13:06:33,751 DEBUG I am here 18.1.
+2019-02-14 13:06:37,432 INFO  locReg converted to -260

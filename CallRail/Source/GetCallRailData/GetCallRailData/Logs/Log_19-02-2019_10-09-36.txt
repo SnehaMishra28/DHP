@@ -1,0 +1,32 @@
+2019-02-19 10:09:36,208 DEBUG Inside Main function - Start of GetCallRailData Application
+2019-02-19 10:09:36,223 DEBUG Inside getDataFromCallrail function.
+2019-02-19 10:09:39,567 DEBUG Inside response okay for page 1.
+2019-02-19 10:09:39,569 INFO  Adding response to the response list for page number -1
+2019-02-19 10:09:39,571 DEBUG Inside for loop for all pages.
+2019-02-19 10:09:42,517 DEBUG Inside response okay for page - 2
+2019-02-19 10:09:42,519 INFO  Adding response to the response list for page number -2
+2019-02-19 10:09:42,521 DEBUG Inside for loop for all pages.
+2019-02-19 10:09:45,215 DEBUG Inside response okay for page - 3
+2019-02-19 10:09:45,217 INFO  Adding response to the response list for page number -3
+2019-02-19 10:09:45,218 DEBUG Inside for loop for all pages.
+2019-02-19 10:09:48,582 DEBUG Inside response okay for page - 4
+2019-02-19 10:09:48,584 INFO  Adding response to the response list for page number -4
+2019-02-19 10:09:48,585 DEBUG Inside for loop for all pages.
+2019-02-19 10:09:52,130 DEBUG Inside response okay for page - 5
+2019-02-19 10:09:52,132 INFO  Adding response to the response list for page number -5
+2019-02-19 10:09:52,133 DEBUG Inside for loop for all pages.
+2019-02-19 10:09:55,248 DEBUG Inside response okay for page - 6
+2019-02-19 10:09:55,250 INFO  Adding response to the response list for page number -6
+2019-02-19 10:09:55,251 DEBUG Inside for loop for all pages.
+2019-02-19 10:10:00,175 DEBUG Inside response okay for page - 7
+2019-02-19 10:10:00,176 INFO  Adding response to the response list for page number -7
+2019-02-19 10:10:00,178 DEBUG Inside for loop for all pages.
+2019-02-19 10:10:11,665 DEBUG Inside response okay for page - 8
+2019-02-19 10:10:11,667 INFO  Adding response to the response list for page number -8
+2019-02-19 10:10:11,668 DEBUG Inside for loop for all pages.
+2019-02-19 10:10:25,904 DEBUG Inside response okay for page - 9
+2019-02-19 10:10:25,909 INFO  Adding response to the response list for page number -9
+2019-02-19 10:10:25,913 DEBUG Inside for loop for all pages.
+2019-02-19 10:10:35,908 DEBUG Inside response okay for page - 10
+2019-02-19 10:10:35,909 INFO  Adding response to the response list for page number -10
+2019-02-19 10:10:35,910 DEBUG Inside for loop for all pages.

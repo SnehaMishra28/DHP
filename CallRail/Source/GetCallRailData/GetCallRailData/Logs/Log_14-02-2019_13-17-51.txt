@@ -1,0 +1,5 @@
+2019-02-14 13:17:51,783 DEBUG Inside Main function - Start of GetCallRailData Application
+2019-02-14 13:17:51,801 DEBUG Inside getDataFromCallrail function.
+2019-02-14 13:17:53,935 DEBUG Inside response okay for page 1.
+2019-02-14 13:17:53,938 INFO  Adding response to the response list for page number -1
+2019-02-14 13:17:53,940 DEBUG Inside for loop for all pages.
