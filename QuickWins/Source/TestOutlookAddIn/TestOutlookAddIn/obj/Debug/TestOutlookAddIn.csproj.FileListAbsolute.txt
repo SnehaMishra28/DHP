@@ -1,0 +1,15 @@
+C:\Users\13519\source\repos\TestOutlookAddIn\TestOutlookAddIn\bin\Debug\TestOutlookAddIn.dll
+C:\Users\13519\source\repos\TestOutlookAddIn\TestOutlookAddIn\bin\Debug\TestOutlookAddIn.pdb
+C:\Users\13519\source\repos\TestOutlookAddIn\TestOutlookAddIn\bin\Debug\TestOutlookAddIn.dll.manifest
+C:\Users\13519\source\repos\TestOutlookAddIn\TestOutlookAddIn\bin\Debug\TestOutlookAddIn.vsto
+C:\Users\13519\source\repos\TestOutlookAddIn\TestOutlookAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\13519\source\repos\TestOutlookAddIn\TestOutlookAddIn\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Users\13519\source\repos\TestOutlookAddIn\TestOutlookAddIn\obj\Debug\TestOutlookAddIn.Form1.resources
+C:\Users\13519\source\repos\TestOutlookAddIn\TestOutlookAddIn\obj\Debug\TestOutlookAddIn.ManageTaskPaneRibbon.resources
+C:\Users\13519\source\repos\TestOutlookAddIn\TestOutlookAddIn\obj\Debug\TestOutlookAddIn.Properties.Resources.resources
+C:\Users\13519\source\repos\TestOutlookAddIn\TestOutlookAddIn\obj\Debug\TestOutlookAddIn.TaskPaneControl.resources
+C:\Users\13519\source\repos\TestOutlookAddIn\TestOutlookAddIn\obj\Debug\TestOutlookAddIn.csproj.GenerateResource.cache
+C:\Users\13519\source\repos\TestOutlookAddIn\TestOutlookAddIn\obj\Debug\TestOutlookAddIn.csproj.CoreCompileInputs.cache
+C:\Users\13519\source\repos\TestOutlookAddIn\TestOutlookAddIn\obj\Debug\TestOutlookAddIn.csproj.CopyComplete
+C:\Users\13519\source\repos\TestOutlookAddIn\TestOutlookAddIn\obj\Debug\TestOutlookAddIn.dll
+C:\Users\13519\source\repos\TestOutlookAddIn\TestOutlookAddIn\obj\Debug\TestOutlookAddIn.pdb
