@@ -1,0 +1,127 @@
+2019-03-15 08:05:29,411 INFO  Response after SP list items retrieval is not Null!
+2019-03-15 08:05:29,426 INFO  Count of Response after SP list items retrieval is - 3
+2019-03-15 08:05:29,427 INFO  Index of Response after SP list items retrieval - 0
+2019-03-15 08:05:29,428 INFO  Status of Response after SP list items retrieval at index - 0 , is - True
+2019-03-15 08:05:29,429 INFO  System of Response after SP list items retrieval at index - 0 , is - Baan
+2019-03-15 08:05:29,430 INFO  problem of Response after SP list items retrieval at index - 0 , is - Can't Log In
+2019-03-15 08:05:29,432 INFO  resolution of Response after SP list items retrieval at index - 0 , is - Reset Password
+2019-03-15 08:05:29,436 INFO  Index of Response after SP list items retrieval - 1
+2019-03-15 08:05:29,437 INFO  Status of Response after SP list items retrieval at index - 1 , is - True
+2019-03-15 08:05:29,438 INFO  System of Response after SP list items retrieval at index - 1 , is - Baan
+2019-03-15 08:05:29,439 INFO  problem of Response after SP list items retrieval at index - 1 , is - No Access
+2019-03-15 08:05:29,439 INFO  resolution of Response after SP list items retrieval at index - 1 , is - Grant Security
+2019-03-15 08:05:29,442 INFO  Index of Response after SP list items retrieval - 2
+2019-03-15 08:05:29,443 INFO  Status of Response after SP list items retrieval at index - 2 , is - True
+2019-03-15 08:05:29,445 INFO  System of Response after SP list items retrieval at index - 2 , is - Baan
+2019-03-15 08:05:29,445 INFO  problem of Response after SP list items retrieval at index - 2 , is - No Access
+2019-03-15 08:05:29,447 INFO  resolution of Response after SP list items retrieval at index - 2 , is - Referred to ISR
+2019-03-15 08:05:32,344 INFO  Response after SP list items retrieval is not Null!
+2019-03-15 08:05:32,345 INFO  Count of Response after SP list items retrieval is - 3
+2019-03-15 08:05:32,346 INFO  Index of Response after SP list items retrieval - 0
+2019-03-15 08:05:32,347 INFO  Status of Response after SP list items retrieval at index - 0 , is - True
+2019-03-15 08:05:32,348 INFO  System of Response after SP list items retrieval at index - 0 , is - Baan
+2019-03-15 08:05:32,357 INFO  problem of Response after SP list items retrieval at index - 0 , is - Can't Log In
+2019-03-15 08:05:32,358 INFO  resolution of Response after SP list items retrieval at index - 0 , is - Reset Password
+2019-03-15 08:05:32,359 INFO  Index of Response after SP list items retrieval - 1
+2019-03-15 08:05:32,360 INFO  Status of Response after SP list items retrieval at index - 1 , is - True
+2019-03-15 08:05:32,361 INFO  System of Response after SP list items retrieval at index - 1 , is - Baan
+2019-03-15 08:05:32,362 INFO  problem of Response after SP list items retrieval at index - 1 , is - No Access
+2019-03-15 08:05:32,363 INFO  resolution of Response after SP list items retrieval at index - 1 , is - Grant Security
+2019-03-15 08:05:32,373 INFO  Index of Response after SP list items retrieval - 2
+2019-03-15 08:05:32,376 INFO  Status of Response after SP list items retrieval at index - 2 , is - True
+2019-03-15 08:05:32,376 INFO  System of Response after SP list items retrieval at index - 2 , is - Baan
+2019-03-15 08:05:32,378 INFO  problem of Response after SP list items retrieval at index - 2 , is - No Access
+2019-03-15 08:05:32,379 INFO  resolution of Response after SP list items retrieval at index - 2 , is - Referred to ISR
+2019-03-15 08:05:56,737 INFO  Inside btnForm_Click - to open form!
+2019-03-15 08:06:06,299 INFO  Inside QuickWinForm - InitializeVariables func!
+2019-03-15 08:06:10,723 INFO  RequestedBy value changed to - M
+2019-03-15 08:06:10,923 INFO  RequestedBy value changed to - Mi
+2019-03-15 08:06:11,104 INFO  RequestedBy value changed to - Mil
+2019-03-15 08:06:11,224 INFO  RequestedBy value changed to - Mile
+2019-03-15 08:06:11,431 INFO  RequestedBy value changed to - Miles
+2019-03-15 08:06:11,657 INFO  RequestedBy value changed to - Miles 
+2019-03-15 08:06:11,960 INFO  RequestedBy value changed to - Miles R
+2019-03-15 08:06:12,231 INFO  RequestedBy value changed to - Miles Ru
+2019-03-15 08:06:12,447 INFO  RequestedBy value changed to - Miles Rus
+2019-03-15 08:06:12,665 INFO  RequestedBy value changed to - Miles Rush
+2019-03-15 08:06:14,818 INFO  source value changed to - Phone
+2019-03-15 08:06:15,463 INFO  source value changed to - Email
+2019-03-15 08:06:16,137 INFO  source value changed to - Desk Visit
+2019-03-15 08:06:16,640 INFO  source value changed to - Skype
+2019-03-15 08:06:17,200 INFO  source value changed to - Desk Visit
+2019-03-15 08:06:18,186 INFO  system value changed to - Baan
+2019-03-15 08:06:18,969 INFO  system value changed to - IFS
+2019-03-15 08:06:19,673 INFO  system value changed to - Cerp
+2019-03-15 08:06:20,673 INFO  system value changed to - IFS
+2019-03-15 08:06:22,065 INFO  Problem/Issue selected is other, so showing text box
+2019-03-15 08:06:22,092 INFO  issue value changed to - Other
+2019-03-15 08:06:24,633 INFO  issue value changed to - Can't Login
+2019-03-15 08:06:25,776 INFO  Problem/Issue selected is other, so showing text box
+2019-03-15 08:06:25,788 INFO  issue value changed to - Other
+2019-03-15 08:06:26,552 INFO  issue value changed to - Can't Login
+2019-03-15 08:06:26,992 INFO  Problem/Issue selected is other, so showing text box
+2019-03-15 08:06:27,012 INFO  issue value changed to - Other
+2019-03-15 08:06:28,215 INFO  issue value changed to - Can't Login
+2019-03-15 08:06:29,193 INFO  Problem/Issue selected is other, so showing text box
+2019-03-15 08:06:29,206 INFO  issue value changed to - Other
+2019-03-15 08:06:30,566 INFO  issue value changed to - Can't Login
+2019-03-15 08:06:31,191 INFO  Problem/Issue selected is other, so showing text box
+2019-03-15 08:06:31,205 INFO  issue value changed to - Other
+2019-03-15 08:06:33,642 INFO  otherIssue value changed to - H
+2019-03-15 08:06:33,824 INFO  otherIssue value changed to - Hi
+2019-03-15 08:06:34,603 INFO  otherIssue value changed to - Hi 
+2019-03-15 08:06:35,354 INFO  otherIssue value changed to - Hi t
+2019-03-15 08:06:35,442 INFO  otherIssue value changed to - Hi th
+2019-03-15 08:06:35,673 INFO  otherIssue value changed to - Hi thi
+2019-03-15 08:06:35,845 INFO  otherIssue value changed to - Hi this
+2019-03-15 08:06:36,066 INFO  otherIssue value changed to - Hi this
+
+2019-03-15 08:06:36,423 INFO  otherIssue value changed to - Hi this
+i
+2019-03-15 08:06:36,601 INFO  otherIssue value changed to - Hi this
+is
+2019-03-15 08:06:36,818 INFO  otherIssue value changed to - Hi this
+is 
+2019-03-15 08:06:42,864 INFO  otherIssue value changed to - Hi this
+is t
+2019-03-15 08:06:42,956 INFO  otherIssue value changed to - Hi this
+is te
+2019-03-15 08:06:43,154 INFO  otherIssue value changed to - Hi this
+is tes
+2019-03-15 08:06:43,305 INFO  otherIssue value changed to - Hi this
+is test
+2019-03-15 08:06:43,710 INFO  otherIssue value changed to - Hi this
+is test 
+2019-03-15 08:06:44,338 INFO  otherIssue value changed to - Hi this
+is test 
+
+2019-03-15 08:06:46,192 INFO  otherIssue value changed to - Hi this
+is test 
+m
+2019-03-15 08:06:46,314 INFO  otherIssue value changed to - Hi this
+is test 
+me
+2019-03-15 08:06:46,537 INFO  otherIssue value changed to - Hi this
+is test 
+mes
+2019-03-15 08:06:46,690 INFO  otherIssue value changed to - Hi this
+is test 
+mess
+2019-03-15 08:06:46,896 INFO  otherIssue value changed to - Hi this
+is test 
+messa
+2019-03-15 08:06:47,330 INFO  otherIssue value changed to - Hi this
+is test 
+messag
+2019-03-15 08:06:47,456 INFO  otherIssue value changed to - Hi this
+is test 
+message
+2019-03-15 08:06:48,961 INFO  resolution value changed to - Reset Password
+2019-03-15 08:06:49,689 INFO  resolution value changed to - Activate user
+2019-03-15 08:06:52,406 INFO  Inside QuickWinForm - submit Form to SP button Click!
+2019-03-15 08:06:52,409 INFO  Inside QuickWinForm - submitFormToSP func!
+2019-03-15 08:06:52,411 INFO  Inside QuickWinForm - SP client is not null!
+2019-03-15 08:06:52,415 INFO  Inside QuickWinForm - setItemFields func!
+2019-03-15 08:06:52,420 INFO  Inside QuickWinForm - SP item object is not null!
+2019-03-15 08:07:03,280 DEBUG creating SP list item!
+2019-03-15 08:07:54,374 INFO  Inside QuickWinForm - cancel button is clicked!

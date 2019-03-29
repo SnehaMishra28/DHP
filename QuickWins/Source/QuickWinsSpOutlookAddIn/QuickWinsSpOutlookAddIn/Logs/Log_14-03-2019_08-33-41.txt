@@ -1,0 +1,6 @@
+2019-03-14 08:33:55,565 INFO  Inside btnForm_Click - to open form!
+2019-03-14 08:33:56,430 INFO  Inside QuickWinForm - InitializeVariables func!
+2019-03-14 08:34:02,779 INFO  Problem/Issue selected is other, so showing text box
+2019-03-14 08:34:02,781 INFO  issue value changed to - Other
+2019-03-14 08:34:04,454 INFO  issue value changed to - Can't Login
+2019-03-14 08:34:07,723 INFO  Inside QuickWinForm - cancel button is clicked!

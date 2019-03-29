@@ -1,0 +1,40 @@
+2019-03-14 17:28:39,767 INFO  Response after SP list items retrieval is not Null!
+2019-03-14 17:28:39,785 INFO  Count of Response after SP list items retrieval is - 3
+2019-03-14 17:28:39,785 INFO  Index of Response after SP list items retrieval - 0
+2019-03-14 17:28:39,786 INFO  Status of Response after SP list items retrieval at index - 0 , is - True
+2019-03-14 17:28:39,788 INFO  System of Response after SP list items retrieval at index - 0 , is - Baan
+2019-03-14 17:28:39,790 INFO  problem of Response after SP list items retrieval at index - 0 , is - Can't Log In
+2019-03-14 17:28:39,794 INFO  resolution of Response after SP list items retrieval at index - 0 , is - Reset Password
+2019-03-14 17:28:39,804 INFO  Index of Response after SP list items retrieval - 1
+2019-03-14 17:28:39,805 INFO  Status of Response after SP list items retrieval at index - 1 , is - True
+2019-03-14 17:28:39,806 INFO  System of Response after SP list items retrieval at index - 1 , is - Baan
+2019-03-14 17:28:39,807 INFO  problem of Response after SP list items retrieval at index - 1 , is - No Access
+2019-03-14 17:28:39,807 INFO  resolution of Response after SP list items retrieval at index - 1 , is - Grant Security
+2019-03-14 17:28:39,808 INFO  Index of Response after SP list items retrieval - 2
+2019-03-14 17:28:39,809 INFO  Status of Response after SP list items retrieval at index - 2 , is - True
+2019-03-14 17:28:39,810 INFO  System of Response after SP list items retrieval at index - 2 , is - Baan
+2019-03-14 17:28:39,811 INFO  problem of Response after SP list items retrieval at index - 2 , is - No Access
+2019-03-14 17:28:39,811 INFO  resolution of Response after SP list items retrieval at index - 2 , is - Referred to ISR
+2019-03-14 17:29:17,322 INFO  Response after SP list items retrieval is not Null!
+2019-03-14 17:29:17,322 INFO  Count of Response after SP list items retrieval is - 3
+2019-03-14 17:29:17,323 INFO  Index of Response after SP list items retrieval - 0
+2019-03-14 17:29:17,328 INFO  Status of Response after SP list items retrieval at index - 0 , is - True
+2019-03-14 17:29:17,328 INFO  System of Response after SP list items retrieval at index - 0 , is - Baan
+2019-03-14 17:29:17,329 INFO  problem of Response after SP list items retrieval at index - 0 , is - Can't Log In
+2019-03-14 17:29:17,334 INFO  resolution of Response after SP list items retrieval at index - 0 , is - Reset Password
+2019-03-14 17:29:17,335 INFO  Index of Response after SP list items retrieval - 1
+2019-03-14 17:29:17,336 INFO  Status of Response after SP list items retrieval at index - 1 , is - True
+2019-03-14 17:29:17,337 INFO  System of Response after SP list items retrieval at index - 1 , is - Baan
+2019-03-14 17:29:17,339 INFO  problem of Response after SP list items retrieval at index - 1 , is - No Access
+2019-03-14 17:29:17,339 INFO  resolution of Response after SP list items retrieval at index - 1 , is - Grant Security
+2019-03-14 17:29:17,340 INFO  Index of Response after SP list items retrieval - 2
+2019-03-14 17:29:17,344 INFO  Status of Response after SP list items retrieval at index - 2 , is - True
+2019-03-14 17:29:17,346 INFO  System of Response after SP list items retrieval at index - 2 , is - Baan
+2019-03-14 17:29:17,347 INFO  problem of Response after SP list items retrieval at index - 2 , is - No Access
+2019-03-14 17:29:17,347 INFO  resolution of Response after SP list items retrieval at index - 2 , is - Referred to ISR
+2019-03-14 17:29:30,172 INFO  Inside btnForm_Click - to open form!
+2019-03-14 17:29:36,537 INFO  Inside QuickWinForm - InitializeVariables func!
+2019-03-14 17:29:43,260 INFO  Problem/Issue selected is other, so showing text box
+2019-03-14 17:29:43,293 INFO  issue value changed to - Other
+2019-03-14 17:29:50,286 INFO  issue value changed to - Can't Login
+2019-03-14 17:29:52,226 INFO  Inside QuickWinForm - cancel button is clicked!

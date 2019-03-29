@@ -1,0 +1,801 @@
+2019-03-28 09:55:12,035 INFO  Inside CreateSpListItem constructor to create Client!
+2019-03-28 09:55:12,084 INFO  Inside RetrieveQWOptionItems to retrieve QW Option List Items!
+2019-03-28 09:55:12,085 INFO  Inside GetDigestValue to Get the DigestValue!
+2019-03-28 09:55:12,226 INFO  Inside HasError func!
+2019-03-28 09:55:12,425 INFO  Response after SP list items retrieval is not Null!
+2019-03-28 09:55:12,426 INFO  Count of Response after SP list items retrieval is - 61
+2019-03-28 09:55:12,427 INFO  Index of Response after SP list items retrieval - 0
+2019-03-28 09:55:12,428 INFO  Status of Response after SP list items retrieval at index - 0 , is - True
+2019-03-28 09:55:12,431 INFO  System of Response after SP list items retrieval at index - 0 , is - Baan
+2019-03-28 09:55:12,431 INFO  problem of Response after SP list items retrieval at index - 0 , is - General Baan Access
+2019-03-28 09:55:12,432 INFO  resolution of Response after SP list items retrieval at index - 0 , is - Raise ISR
+2019-03-28 09:55:12,432 INFO  Index of Response after SP list items retrieval - 1
+2019-03-28 09:55:12,433 INFO  Status of Response after SP list items retrieval at index - 1 , is - True
+2019-03-28 09:55:12,433 INFO  System of Response after SP list items retrieval at index - 1 , is - Baan
+2019-03-28 09:55:12,434 INFO  problem of Response after SP list items retrieval at index - 1 , is - General Baan Error
+2019-03-28 09:55:12,435 INFO  resolution of Response after SP list items retrieval at index - 1 , is - Raise IT Ticket
+2019-03-28 09:55:12,435 INFO  Index of Response after SP list items retrieval - 2
+2019-03-28 09:55:12,436 INFO  Status of Response after SP list items retrieval at index - 2 , is - True
+2019-03-28 09:55:12,436 INFO  System of Response after SP list items retrieval at index - 2 , is - Baan
+2019-03-28 09:55:12,437 INFO  problem of Response after SP list items retrieval at index - 2 , is - Baan lockout
+2019-03-28 09:55:12,437 INFO  resolution of Response after SP list items retrieval at index - 2 , is - Unlock through Active Directory
+2019-03-28 09:55:12,438 INFO  Index of Response after SP list items retrieval - 3
+2019-03-28 09:55:12,438 INFO  Status of Response after SP list items retrieval at index - 3 , is - True
+2019-03-28 09:55:12,439 INFO  System of Response after SP list items retrieval at index - 3 , is - Baan
+2019-03-28 09:55:12,440 INFO  problem of Response after SP list items retrieval at index - 3 , is - General Baan Access
+2019-03-28 09:55:12,441 INFO  resolution of Response after SP list items retrieval at index - 3 , is - Raise IT Ticket
+2019-03-28 09:55:12,442 INFO  Index of Response after SP list items retrieval - 4
+2019-03-28 09:55:12,443 INFO  Status of Response after SP list items retrieval at index - 4 , is - True
+2019-03-28 09:55:12,444 INFO  System of Response after SP list items retrieval at index - 4 , is - Baan
+2019-03-28 09:55:12,445 INFO  problem of Response after SP list items retrieval at index - 4 , is - Baan Account Issue
+2019-03-28 09:55:12,445 INFO  resolution of Response after SP list items retrieval at index - 4 , is - Raise IT Ticket
+2019-03-28 09:55:12,447 INFO  Index of Response after SP list items retrieval - 5
+2019-03-28 09:55:12,448 INFO  Status of Response after SP list items retrieval at index - 5 , is - True
+2019-03-28 09:55:12,448 INFO  System of Response after SP list items retrieval at index - 5 , is - PC
+2019-03-28 09:55:12,449 INFO  problem of Response after SP list items retrieval at index - 5 , is - Locked Out
+2019-03-28 09:55:12,450 INFO  resolution of Response after SP list items retrieval at index - 5 , is - Unlock through Active Directory
+2019-03-28 09:55:12,450 INFO  Index of Response after SP list items retrieval - 6
+2019-03-28 09:55:12,451 INFO  Status of Response after SP list items retrieval at index - 6 , is - True
+2019-03-28 09:55:12,451 INFO  System of Response after SP list items retrieval at index - 6 , is - PC
+2019-03-28 09:55:12,452 INFO  problem of Response after SP list items retrieval at index - 6 , is - Locked Out
+2019-03-28 09:55:12,453 INFO  resolution of Response after SP list items retrieval at index - 6 , is - Raise IT Ticket
+2019-03-28 09:55:12,454 INFO  Index of Response after SP list items retrieval - 7
+2019-03-28 09:55:12,457 INFO  Status of Response after SP list items retrieval at index - 7 , is - True
+2019-03-28 09:55:12,459 INFO  System of Response after SP list items retrieval at index - 7 , is - PC
+2019-03-28 09:55:12,459 INFO  problem of Response after SP list items retrieval at index - 7 , is - System Issues
+2019-03-28 09:55:12,460 INFO  resolution of Response after SP list items retrieval at index - 7 , is - Raise IT Ticket
+2019-03-28 09:55:12,460 INFO  Index of Response after SP list items retrieval - 8
+2019-03-28 09:55:12,461 INFO  Status of Response after SP list items retrieval at index - 8 , is - True
+2019-03-28 09:55:12,462 INFO  System of Response after SP list items retrieval at index - 8 , is - PC
+2019-03-28 09:55:12,462 INFO  problem of Response after SP list items retrieval at index - 8 , is - Error Message prompt
+2019-03-28 09:55:12,463 INFO  resolution of Response after SP list items retrieval at index - 8 , is - Raise IT Ticket
+2019-03-28 09:55:12,463 INFO  Index of Response after SP list items retrieval - 9
+2019-03-28 09:55:12,464 INFO  Status of Response after SP list items retrieval at index - 9 , is - True
+2019-03-28 09:55:12,465 INFO  System of Response after SP list items retrieval at index - 9 , is - Pace tracker
+2019-03-28 09:55:12,466 INFO  problem of Response after SP list items retrieval at index - 9 , is - Error for 100 Code
+2019-03-28 09:55:12,466 INFO  resolution of Response after SP list items retrieval at index - 9 , is - Clear Data/ Cache
+2019-03-28 09:55:12,467 INFO  Index of Response after SP list items retrieval - 10
+2019-03-28 09:55:12,468 INFO  Status of Response after SP list items retrieval at index - 10 , is - True
+2019-03-28 09:55:12,469 INFO  System of Response after SP list items retrieval at index - 10 , is - Pace tracker
+2019-03-28 09:55:12,469 INFO  problem of Response after SP list items retrieval at index - 10 , is - Nothing populates under Timesheet
+2019-03-28 09:55:12,470 INFO  resolution of Response after SP list items retrieval at index - 10 , is - Clear Data/ Cache
+2019-03-28 09:55:12,470 INFO  Index of Response after SP list items retrieval - 11
+2019-03-28 09:55:12,471 INFO  Status of Response after SP list items retrieval at index - 11 , is - True
+2019-03-28 09:55:12,472 INFO  System of Response after SP list items retrieval at index - 11 , is - Pace tracker
+2019-03-28 09:55:12,472 INFO  problem of Response after SP list items retrieval at index - 11 , is - Not able to register
+2019-03-28 09:55:12,473 INFO  resolution of Response after SP list items retrieval at index - 11 , is - Check Employee Records
+2019-03-28 09:55:12,474 INFO  Index of Response after SP list items retrieval - 12
+2019-03-28 09:55:12,475 INFO  Status of Response after SP list items retrieval at index - 12 , is - True
+2019-03-28 09:55:12,476 INFO  System of Response after SP list items retrieval at index - 12 , is - Pace tracker
+2019-03-28 09:55:12,476 INFO  problem of Response after SP list items retrieval at index - 12 , is - Not able to register
+2019-03-28 09:55:12,477 INFO  resolution of Response after SP list items retrieval at index - 12 , is - Reset Password
+2019-03-28 09:55:12,477 INFO  Index of Response after SP list items retrieval - 13
+2019-03-28 09:55:12,478 INFO  Status of Response after SP list items retrieval at index - 13 , is - True
+2019-03-28 09:55:12,479 INFO  System of Response after SP list items retrieval at index - 13 , is - Email
+2019-03-28 09:55:12,479 INFO  problem of Response after SP list items retrieval at index - 13 , is - Unable to log in
+2019-03-28 09:55:12,480 INFO  resolution of Response after SP list items retrieval at index - 13 , is - Unlock through Active Directory
+2019-03-28 09:55:12,481 INFO  Index of Response after SP list items retrieval - 14
+2019-03-28 09:55:12,481 INFO  Status of Response after SP list items retrieval at index - 14 , is - True
+2019-03-28 09:55:12,482 INFO  System of Response after SP list items retrieval at index - 14 , is - Email
+2019-03-28 09:55:12,483 INFO  problem of Response after SP list items retrieval at index - 14 , is - Email not populating
+2019-03-28 09:55:12,483 INFO  resolution of Response after SP list items retrieval at index - 14 , is - Check Knox
+2019-03-28 09:55:12,484 INFO  Index of Response after SP list items retrieval - 15
+2019-03-28 09:55:12,485 INFO  Status of Response after SP list items retrieval at index - 15 , is - True
+2019-03-28 09:55:12,486 INFO  System of Response after SP list items retrieval at index - 15 , is - Email
+2019-03-28 09:55:12,486 INFO  problem of Response after SP list items retrieval at index - 15 , is - Cannot send email
+2019-03-28 09:55:12,487 INFO  resolution of Response after SP list items retrieval at index - 15 , is - Check Knox
+2019-03-28 09:55:12,488 INFO  Index of Response after SP list items retrieval - 16
+2019-03-28 09:55:12,488 INFO  Status of Response after SP list items retrieval at index - 16 , is - True
+2019-03-28 09:55:12,489 INFO  System of Response after SP list items retrieval at index - 16 , is - Email
+2019-03-28 09:55:12,489 INFO  problem of Response after SP list items retrieval at index - 16 , is - Need an Add-On
+2019-03-28 09:55:12,490 INFO  resolution of Response after SP list items retrieval at index - 16 , is - Raise IT Ticket
+2019-03-28 09:55:12,491 INFO  Index of Response after SP list items retrieval - 17
+2019-03-28 09:55:12,491 INFO  Status of Response after SP list items retrieval at index - 17 , is - True
+2019-03-28 09:55:12,492 INFO  System of Response after SP list items retrieval at index - 17 , is - Email
+2019-03-28 09:55:12,493 INFO  problem of Response after SP list items retrieval at index - 17 , is - Unable to log in
+2019-03-28 09:55:12,493 INFO  resolution of Response after SP list items retrieval at index - 17 , is - Raise IT Ticket
+2019-03-28 09:55:12,494 INFO  Index of Response after SP list items retrieval - 18
+2019-03-28 09:55:12,494 INFO  Status of Response after SP list items retrieval at index - 18 , is - True
+2019-03-28 09:55:12,495 INFO  System of Response after SP list items retrieval at index - 18 , is - Email
+2019-03-28 09:55:12,496 INFO  problem of Response after SP list items retrieval at index - 18 , is - Email not populating
+2019-03-28 09:55:12,496 INFO  resolution of Response after SP list items retrieval at index - 18 , is - Check Duo
+2019-03-28 09:55:12,497 INFO  Index of Response after SP list items retrieval - 19
+2019-03-28 09:55:12,498 INFO  Status of Response after SP list items retrieval at index - 19 , is - True
+2019-03-28 09:55:12,499 INFO  System of Response after SP list items retrieval at index - 19 , is - Email
+2019-03-28 09:55:12,499 INFO  problem of Response after SP list items retrieval at index - 19 , is - Cannot send email
+2019-03-28 09:55:12,500 INFO  resolution of Response after SP list items retrieval at index - 19 , is - Check Duo
+2019-03-28 09:55:12,500 INFO  Index of Response after SP list items retrieval - 20
+2019-03-28 09:55:12,501 INFO  Status of Response after SP list items retrieval at index - 20 , is - True
+2019-03-28 09:55:12,502 INFO  System of Response after SP list items retrieval at index - 20 , is - Software
+2019-03-28 09:55:12,502 INFO  problem of Response after SP list items retrieval at index - 20 , is - Download additional Software
+2019-03-28 09:55:12,503 INFO  resolution of Response after SP list items retrieval at index - 20 , is - Raise IT Ticket
+2019-03-28 09:55:12,503 INFO  Index of Response after SP list items retrieval - 21
+2019-03-28 09:55:12,504 INFO  Status of Response after SP list items retrieval at index - 21 , is - True
+2019-03-28 09:55:12,504 INFO  System of Response after SP list items retrieval at index - 21 , is - Software
+2019-03-28 09:55:12,505 INFO  problem of Response after SP list items retrieval at index - 21 , is - Software Error
+2019-03-28 09:55:12,505 INFO  resolution of Response after SP list items retrieval at index - 21 , is - Raise IT Ticket
+2019-03-28 09:55:12,506 INFO  Index of Response after SP list items retrieval - 22
+2019-03-28 09:55:12,507 INFO  Status of Response after SP list items retrieval at index - 22 , is - True
+2019-03-28 09:55:12,508 INFO  System of Response after SP list items retrieval at index - 22 , is - cERP
+2019-03-28 09:55:12,508 INFO  problem of Response after SP list items retrieval at index - 22 , is - Add Permission
+2019-03-28 09:55:12,509 INFO  resolution of Response after SP list items retrieval at index - 22 , is - Raise IT Ticket
+2019-03-28 09:55:12,510 INFO  Index of Response after SP list items retrieval - 23
+2019-03-28 09:55:12,510 INFO  Status of Response after SP list items retrieval at index - 23 , is - True
+2019-03-28 09:55:12,511 INFO  System of Response after SP list items retrieval at index - 23 , is - cERP
+2019-03-28 09:55:12,511 INFO  problem of Response after SP list items retrieval at index - 23 , is - Permission Error
+2019-03-28 09:55:12,512 INFO  resolution of Response after SP list items retrieval at index - 23 , is - Raise IT Ticket
+2019-03-28 09:55:12,513 INFO  Index of Response after SP list items retrieval - 24
+2019-03-28 09:55:12,514 INFO  Status of Response after SP list items retrieval at index - 24 , is - True
+2019-03-28 09:55:12,514 INFO  System of Response after SP list items retrieval at index - 24 , is - cERP
+2019-03-28 09:55:12,515 INFO  problem of Response after SP list items retrieval at index - 24 , is - cERP down
+2019-03-28 09:55:12,515 INFO  resolution of Response after SP list items retrieval at index - 24 , is - Forward issue to Miles/ Julia
+2019-03-28 09:55:12,516 INFO  Index of Response after SP list items retrieval - 25
+2019-03-28 09:55:12,516 INFO  Status of Response after SP list items retrieval at index - 25 , is - True
+2019-03-28 09:55:12,517 INFO  System of Response after SP list items retrieval at index - 25 , is - SAM
+2019-03-28 09:55:12,517 INFO  problem of Response after SP list items retrieval at index - 25 , is - Access Issue
+2019-03-28 09:55:12,518 INFO  resolution of Response after SP list items retrieval at index - 25 , is - Raise IT Ticket
+2019-03-28 09:55:12,519 INFO  Index of Response after SP list items retrieval - 26
+2019-03-28 09:55:12,519 INFO  Status of Response after SP list items retrieval at index - 26 , is - True
+2019-03-28 09:55:12,520 INFO  System of Response after SP list items retrieval at index - 26 , is - SAM
+2019-03-28 09:55:12,520 INFO  problem of Response after SP list items retrieval at index - 26 , is - Getting Errors
+2019-03-28 09:55:12,521 INFO  resolution of Response after SP list items retrieval at index - 26 , is - Raise IT Ticket
+2019-03-28 09:55:12,521 INFO  Index of Response after SP list items retrieval - 27
+2019-03-28 09:55:12,522 INFO  Status of Response after SP list items retrieval at index - 27 , is - True
+2019-03-28 09:55:12,522 INFO  System of Response after SP list items retrieval at index - 27 , is - Shoretel/ Phone System
+2019-03-28 09:55:12,523 INFO  problem of Response after SP list items retrieval at index - 27 , is - Calls not Transfering
+2019-03-28 09:55:12,524 INFO  resolution of Response after SP list items retrieval at index - 27 , is - Raise IT Ticket
+2019-03-28 09:55:12,525 INFO  Index of Response after SP list items retrieval - 28
+2019-03-28 09:55:12,525 INFO  Status of Response after SP list items retrieval at index - 28 , is - True
+2019-03-28 09:55:12,526 INFO  System of Response after SP list items retrieval at index - 28 , is - Shoretel/ Phone System
+2019-03-28 09:55:12,527 INFO  problem of Response after SP list items retrieval at index - 28 , is - Connection Issue
+2019-03-28 09:55:12,528 INFO  resolution of Response after SP list items retrieval at index - 28 , is - Raise IT Ticket
+2019-03-28 09:55:12,528 INFO  Index of Response after SP list items retrieval - 29
+2019-03-28 09:55:12,529 INFO  Status of Response after SP list items retrieval at index - 29 , is - True
+2019-03-28 09:55:12,530 INFO  System of Response after SP list items retrieval at index - 29 , is - Shoretel/ Phone System
+2019-03-28 09:55:12,530 INFO  problem of Response after SP list items retrieval at index - 29 , is - Shoretel Button not working
+2019-03-28 09:55:12,531 INFO  resolution of Response after SP list items retrieval at index - 29 , is - Raise IT Ticket
+2019-03-28 09:55:12,531 INFO  Index of Response after SP list items retrieval - 30
+2019-03-28 09:55:12,532 INFO  Status of Response after SP list items retrieval at index - 30 , is - True
+2019-03-28 09:55:12,532 INFO  System of Response after SP list items retrieval at index - 30 , is - Shoretel/ Phone System
+2019-03-28 09:55:12,533 INFO  problem of Response after SP list items retrieval at index - 30 , is - Unable to log in
+2019-03-28 09:55:12,533 INFO  resolution of Response after SP list items retrieval at index - 30 , is - Raise IT Ticket
+2019-03-28 09:55:12,534 INFO  Index of Response after SP list items retrieval - 31
+2019-03-28 09:55:12,534 INFO  Status of Response after SP list items retrieval at index - 31 , is - True
+2019-03-28 09:55:12,535 INFO  System of Response after SP list items retrieval at index - 31 , is - SharePoint
+2019-03-28 09:55:12,535 INFO  problem of Response after SP list items retrieval at index - 31 , is - Workflow Error
+2019-03-28 09:55:12,536 INFO  resolution of Response after SP list items retrieval at index - 31 , is - Forward issue to Julie Batista/ Kevin Dunn
+2019-03-28 09:55:12,536 INFO  Index of Response after SP list items retrieval - 32
+2019-03-28 09:55:12,536 INFO  Status of Response after SP list items retrieval at index - 32 , is - True
+2019-03-28 09:55:12,537 INFO  System of Response after SP list items retrieval at index - 32 , is - SharePoint
+2019-03-28 09:55:12,537 INFO  problem of Response after SP list items retrieval at index - 32 , is - SharePoint is down
+2019-03-28 09:55:12,538 INFO  resolution of Response after SP list items retrieval at index - 32 , is - Forward issue to Julie Batista/ Kevin Dunn
+2019-03-28 09:55:12,538 INFO  Index of Response after SP list items retrieval - 33
+2019-03-28 09:55:12,539 INFO  Status of Response after SP list items retrieval at index - 33 , is - True
+2019-03-28 09:55:12,540 INFO  System of Response after SP list items retrieval at index - 33 , is - SharePoint
+2019-03-28 09:55:12,541 INFO  problem of Response after SP list items retrieval at index - 33 , is - Access Request
+2019-03-28 09:55:12,542 INFO  resolution of Response after SP list items retrieval at index - 33 , is - Raise IT Ticket
+2019-03-28 09:55:12,542 INFO  Index of Response after SP list items retrieval - 34
+2019-03-28 09:55:12,543 INFO  Status of Response after SP list items retrieval at index - 34 , is - True
+2019-03-28 09:55:12,543 INFO  System of Response after SP list items retrieval at index - 34 , is - SharePoint
+2019-03-28 09:55:12,544 INFO  problem of Response after SP list items retrieval at index - 34 , is - Workflow Error
+2019-03-28 09:55:12,545 INFO  resolution of Response after SP list items retrieval at index - 34 , is - Raise IT Ticket
+2019-03-28 09:55:12,545 INFO  Index of Response after SP list items retrieval - 35
+2019-03-28 09:55:12,546 INFO  Status of Response after SP list items retrieval at index - 35 , is - True
+2019-03-28 09:55:12,546 INFO  System of Response after SP list items retrieval at index - 35 , is - Hardware
+2019-03-28 09:55:12,547 INFO  problem of Response after SP list items retrieval at index - 35 , is - Hardware Replacement
+2019-03-28 09:55:12,548 INFO  resolution of Response after SP list items retrieval at index - 35 , is - Raise IT Ticket
+2019-03-28 09:55:12,548 INFO  Index of Response after SP list items retrieval - 36
+2019-03-28 09:55:12,549 INFO  Status of Response after SP list items retrieval at index - 36 , is - True
+2019-03-28 09:55:12,549 INFO  System of Response after SP list items retrieval at index - 36 , is - Hardware
+2019-03-28 09:55:12,550 INFO  problem of Response after SP list items retrieval at index - 36 , is - Hardware Issues
+2019-03-28 09:55:12,550 INFO  resolution of Response after SP list items retrieval at index - 36 , is - Raise IT Ticket
+2019-03-28 09:55:12,551 INFO  Index of Response after SP list items retrieval - 37
+2019-03-28 09:55:12,551 INFO  Status of Response after SP list items retrieval at index - 37 , is - True
+2019-03-28 09:55:12,552 INFO  System of Response after SP list items retrieval at index - 37 , is - Admin
+2019-03-28 09:55:12,552 INFO  problem of Response after SP list items retrieval at index - 37 , is - Baan Configuration Setup
+2019-03-28 09:55:12,553 INFO  resolution of Response after SP list items retrieval at index - 37 , is - Remotely setup Config page
+2019-03-28 09:55:12,553 INFO  Index of Response after SP list items retrieval - 38
+2019-03-28 09:55:12,554 INFO  Status of Response after SP list items retrieval at index - 38 , is - True
+2019-03-28 09:55:12,554 INFO  System of Response after SP list items retrieval at index - 38 , is - Admin
+2019-03-28 09:55:12,555 INFO  problem of Response after SP list items retrieval at index - 38 , is - Baan Configuration Setup
+2019-03-28 09:55:12,555 INFO  resolution of Response after SP list items retrieval at index - 38 , is - Raise IT Ticket
+2019-03-28 09:55:12,556 INFO  Index of Response after SP list items retrieval - 39
+2019-03-28 09:55:12,556 INFO  Status of Response after SP list items retrieval at index - 39 , is - True
+2019-03-28 09:55:12,557 INFO  System of Response after SP list items retrieval at index - 39 , is - Admin
+2019-03-28 09:55:12,558 INFO  problem of Response after SP list items retrieval at index - 39 , is - Configuration password reset
+2019-03-28 09:55:12,559 INFO  resolution of Response after SP list items retrieval at index - 39 , is - Un-save password from saved Configuration
+2019-03-28 09:55:12,559 INFO  Index of Response after SP list items retrieval - 40
+2019-03-28 09:55:12,560 INFO  Status of Response after SP list items retrieval at index - 40 , is - True
+2019-03-28 09:55:12,560 INFO  System of Response after SP list items retrieval at index - 40 , is - Admin
+2019-03-28 09:55:12,561 INFO  problem of Response after SP list items retrieval at index - 40 , is - Configuration password reset
+2019-03-28 09:55:12,562 INFO  resolution of Response after SP list items retrieval at index - 40 , is - Unlock through Active Directory
+2019-03-28 09:55:12,562 INFO  Index of Response after SP list items retrieval - 41
+2019-03-28 09:55:12,563 INFO  Status of Response after SP list items retrieval at index - 41 , is - True
+2019-03-28 09:55:12,563 INFO  System of Response after SP list items retrieval at index - 41 , is - Admin
+2019-03-28 09:55:12,564 INFO  problem of Response after SP list items retrieval at index - 41 , is - Configuration password reset
+2019-03-28 09:55:12,564 INFO  resolution of Response after SP list items retrieval at index - 41 , is - Raise IT Ticket
+2019-03-28 09:55:12,565 INFO  Index of Response after SP list items retrieval - 42
+2019-03-28 09:55:12,565 INFO  Status of Response after SP list items retrieval at index - 42 , is - True
+2019-03-28 09:55:12,566 INFO  System of Response after SP list items retrieval at index - 42 , is - UltiPro
+2019-03-28 09:55:12,567 INFO  problem of Response after SP list items retrieval at index - 42 , is - Locked Out
+2019-03-28 09:55:12,567 INFO  resolution of Response after SP list items retrieval at index - 42 , is - Login to UltiPro and unlock
+2019-03-28 09:55:12,568 INFO  Index of Response after SP list items retrieval - 43
+2019-03-28 09:55:12,568 INFO  Status of Response after SP list items retrieval at index - 43 , is - True
+2019-03-28 09:55:12,569 INFO  System of Response after SP list items retrieval at index - 43 , is - UltiPro
+2019-03-28 09:55:12,569 INFO  problem of Response after SP list items retrieval at index - 43 , is - Locked Out
+2019-03-28 09:55:12,570 INFO  resolution of Response after SP list items retrieval at index - 43 , is - Login to UltiPro to reset password
+2019-03-28 09:55:12,571 INFO  Index of Response after SP list items retrieval - 44
+2019-03-28 09:55:12,571 INFO  Status of Response after SP list items retrieval at index - 44 , is - True
+2019-03-28 09:55:12,572 INFO  System of Response after SP list items retrieval at index - 44 , is - WFA
+2019-03-28 09:55:12,572 INFO  problem of Response after SP list items retrieval at index - 44 , is - Brick Hardware Issue
+2019-03-28 09:55:12,573 INFO  resolution of Response after SP list items retrieval at index - 44 , is - Swap brick
+2019-03-28 09:55:12,573 INFO  Index of Response after SP list items retrieval - 45
+2019-03-28 09:55:12,574 INFO  Status of Response after SP list items retrieval at index - 45 , is - True
+2019-03-28 09:55:12,575 INFO  System of Response after SP list items retrieval at index - 45 , is - WFA
+2019-03-28 09:55:12,575 INFO  problem of Response after SP list items retrieval at index - 45 , is - Timesheet
+2019-03-28 09:55:12,576 INFO  resolution of Response after SP list items retrieval at index - 45 , is - Forward issue to Steve Auckly/ Jake Zube
+2019-03-28 09:55:12,576 INFO  Index of Response after SP list items retrieval - 46
+2019-03-28 09:55:12,577 INFO  Status of Response after SP list items retrieval at index - 46 , is - True
+2019-03-28 09:55:12,578 INFO  System of Response after SP list items retrieval at index - 46 , is - WFA
+2019-03-28 09:55:12,578 INFO  problem of Response after SP list items retrieval at index - 46 , is - Service Ticket
+2019-03-28 09:55:12,579 INFO  resolution of Response after SP list items retrieval at index - 46 , is - Ignore Lines
+2019-03-28 09:55:12,579 INFO  Index of Response after SP list items retrieval - 47
+2019-03-28 09:55:12,580 INFO  Status of Response after SP list items retrieval at index - 47 , is - True
+2019-03-28 09:55:12,580 INFO  System of Response after SP list items retrieval at index - 47 , is - WFA
+2019-03-28 09:55:12,581 INFO  problem of Response after SP list items retrieval at index - 47 , is - Service Ticket
+2019-03-28 09:55:12,581 INFO  resolution of Response after SP list items retrieval at index - 47 , is - Raise IT Ticket
+2019-03-28 09:55:12,582 INFO  Index of Response after SP list items retrieval - 48
+2019-03-28 09:55:12,582 INFO  Status of Response after SP list items retrieval at index - 48 , is - True
+2019-03-28 09:55:12,583 INFO  System of Response after SP list items retrieval at index - 48 , is - WFA
+2019-03-28 09:55:12,584 INFO  problem of Response after SP list items retrieval at index - 48 , is - System Issue
+2019-03-28 09:55:12,585 INFO  resolution of Response after SP list items retrieval at index - 48 , is - Re-install WFA
+2019-03-28 09:55:12,585 INFO  Index of Response after SP list items retrieval - 49
+2019-03-28 09:55:12,586 INFO  Status of Response after SP list items retrieval at index - 49 , is - True
+2019-03-28 09:55:12,586 INFO  System of Response after SP list items retrieval at index - 49 , is - WFA
+2019-03-28 09:55:12,587 INFO  problem of Response after SP list items retrieval at index - 49 , is - Sync Issue
+2019-03-28 09:55:12,587 INFO  resolution of Response after SP list items retrieval at index - 49 , is - Re-run Client Installer
+2019-03-28 09:55:12,588 INFO  Index of Response after SP list items retrieval - 50
+2019-03-28 09:55:12,588 INFO  Status of Response after SP list items retrieval at index - 50 , is - True
+2019-03-28 09:55:12,589 INFO  System of Response after SP list items retrieval at index - 50 , is - Netwrok
+2019-03-28 09:55:12,589 INFO  problem of Response after SP list items retrieval at index - 50 , is - Need access to Netwrok Drive
+2019-03-28 09:55:12,591 INFO  resolution of Response after SP list items retrieval at index - 50 , is - Raise IT Ticket
+2019-03-28 09:55:12,592 INFO  Index of Response after SP list items retrieval - 51
+2019-03-28 09:55:12,593 INFO  Status of Response after SP list items retrieval at index - 51 , is - True
+2019-03-28 09:55:12,593 INFO  System of Response after SP list items retrieval at index - 51 , is - Netwrok
+2019-03-28 09:55:12,594 INFO  problem of Response after SP list items retrieval at index - 51 , is - Change Netwrok ID
+2019-03-28 09:55:12,595 INFO  resolution of Response after SP list items retrieval at index - 51 , is - Raise IT Ticket
+2019-03-28 09:55:12,596 INFO  Index of Response after SP list items retrieval - 52
+2019-03-28 09:55:12,596 INFO  Status of Response after SP list items retrieval at index - 52 , is - True
+2019-03-28 09:55:12,597 INFO  System of Response after SP list items retrieval at index - 52 , is - Netwrok
+2019-03-28 09:55:12,598 INFO  problem of Response after SP list items retrieval at index - 52 , is - General Issue
+2019-03-28 09:55:12,598 INFO  resolution of Response after SP list items retrieval at index - 52 , is - Raise IT Ticket
+2019-03-28 09:55:12,598 INFO  Index of Response after SP list items retrieval - 53
+2019-03-28 09:55:12,599 INFO  Status of Response after SP list items retrieval at index - 53 , is - True
+2019-03-28 09:55:12,599 INFO  System of Response after SP list items retrieval at index - 53 , is - Netwrok
+2019-03-28 09:55:12,600 INFO  problem of Response after SP list items retrieval at index - 53 , is - Printer
+2019-03-28 09:55:12,600 INFO  resolution of Response after SP list items retrieval at index - 53 , is - Raise IT Ticket
+2019-03-28 09:55:12,601 INFO  Index of Response after SP list items retrieval - 54
+2019-03-28 09:55:12,601 INFO  Status of Response after SP list items retrieval at index - 54 , is - True
+2019-03-28 09:55:12,602 INFO  System of Response after SP list items retrieval at index - 54 , is - Netwrok
+2019-03-28 09:55:12,603 INFO  problem of Response after SP list items retrieval at index - 54 , is - VPN
+2019-03-28 09:55:12,603 INFO  resolution of Response after SP list items retrieval at index - 54 , is - Raise IT Ticket
+2019-03-28 09:55:12,604 INFO  Index of Response after SP list items retrieval - 55
+2019-03-28 09:55:12,604 INFO  Status of Response after SP list items retrieval at index - 55 , is - True
+2019-03-28 09:55:12,605 INFO  System of Response after SP list items retrieval at index - 55 , is - Skype
+2019-03-28 09:55:12,605 INFO  problem of Response after SP list items retrieval at index - 55 , is - Login Issue
+2019-03-28 09:55:12,606 INFO  resolution of Response after SP list items retrieval at index - 55 , is - Unlock through Active Directory
+2019-03-28 09:55:12,607 INFO  Index of Response after SP list items retrieval - 56
+2019-03-28 09:55:12,607 INFO  Status of Response after SP list items retrieval at index - 56 , is - True
+2019-03-28 09:55:12,608 INFO  System of Response after SP list items retrieval at index - 56 , is - Skype
+2019-03-28 09:55:12,608 INFO  problem of Response after SP list items retrieval at index - 56 , is - Login Issue
+2019-03-28 09:55:12,609 INFO  resolution of Response after SP list items retrieval at index - 56 , is - Forward issue to Netwrok
+2019-03-28 09:55:12,609 INFO  Index of Response after SP list items retrieval - 57
+2019-03-28 09:55:12,610 INFO  Status of Response after SP list items retrieval at index - 57 , is - True
+2019-03-28 09:55:12,610 INFO  System of Response after SP list items retrieval at index - 57 , is - Duo
+2019-03-28 09:55:12,611 INFO  problem of Response after SP list items retrieval at index - 57 , is - Authentication Issue
+2019-03-28 09:55:12,611 INFO  resolution of Response after SP list items retrieval at index - 57 , is - Duo Push
+2019-03-28 09:55:12,612 INFO  Index of Response after SP list items retrieval - 58
+2019-03-28 09:55:12,612 INFO  Status of Response after SP list items retrieval at index - 58 , is - True
+2019-03-28 09:55:12,613 INFO  System of Response after SP list items retrieval at index - 58 , is - Duo
+2019-03-28 09:55:12,613 INFO  problem of Response after SP list items retrieval at index - 58 , is - Authentication Issue
+2019-03-28 09:55:12,614 INFO  resolution of Response after SP list items retrieval at index - 58 , is - Send out Enrollment Email
+2019-03-28 09:55:12,615 INFO  Index of Response after SP list items retrieval - 59
+2019-03-28 09:55:12,615 INFO  Status of Response after SP list items retrieval at index - 59 , is - True
+2019-03-28 09:55:12,616 INFO  System of Response after SP list items retrieval at index - 59 , is - Duo
+2019-03-28 09:55:12,616 INFO  problem of Response after SP list items retrieval at index - 59 , is - Need Setup
+2019-03-28 09:55:12,617 INFO  resolution of Response after SP list items retrieval at index - 59 , is - Send SOP
+2019-03-28 09:55:12,617 INFO  Index of Response after SP list items retrieval - 60
+2019-03-28 09:55:12,618 INFO  Status of Response after SP list items retrieval at index - 60 , is - True
+2019-03-28 09:55:12,618 INFO  System of Response after SP list items retrieval at index - 60 , is - Duo
+2019-03-28 09:55:12,619 INFO  problem of Response after SP list items retrieval at index - 60 , is - Need Setup
+2019-03-28 09:55:12,619 INFO  resolution of Response after SP list items retrieval at index - 60 , is - Walkthrough over Phone
+2019-03-28 09:55:12,622 INFO  Response after SP list items retrieval is not Null!
+2019-03-28 09:55:12,625 INFO  Count of Response after SP list items retrieval is - 61
+2019-03-28 09:55:12,625 INFO  Index of Response after SP list items retrieval - 0
+2019-03-28 09:55:12,626 INFO  Status of Response after SP list items retrieval at index - 0 , is - True
+2019-03-28 09:55:12,626 INFO  System of Response after SP list items retrieval at index - 0 , is - Baan
+2019-03-28 09:55:12,627 INFO  Add title - Baan ,at index - 0 to dropdownOptions.systemList.
+2019-03-28 09:55:12,627 INFO  problem of Response after SP list items retrieval at index - 0 , is - General Baan Access
+2019-03-28 09:55:12,628 INFO  Add problem - General Baan Access ,at index - 0 to dropdownOptions.problemList.
+2019-03-28 09:55:12,629 INFO  resolution of Response after SP list items retrieval at index - 0 , is - Raise ISR
+2019-03-28 09:55:12,629 INFO  Add resolution - Raise ISR ,at index - 0 to dropdownOptions.resolutionList.
+2019-03-28 09:55:12,630 INFO  Index of Response after SP list items retrieval - 1
+2019-03-28 09:55:12,631 INFO  Status of Response after SP list items retrieval at index - 1 , is - True
+2019-03-28 09:55:12,631 INFO  System of Response after SP list items retrieval at index - 1 , is - Baan
+2019-03-28 09:55:12,632 INFO  dropdownOptions.systemList Contains title - Baan ,at index - 1
+2019-03-28 09:55:12,632 INFO  problem of Response after SP list items retrieval at index - 1 , is - General Baan Error
+2019-03-28 09:55:12,633 INFO  Add problem - General Baan Error ,at index - 1 to dropdownOptions.problemList.
+2019-03-28 09:55:12,633 INFO  resolution of Response after SP list items retrieval at index - 1 , is - Raise IT Ticket
+2019-03-28 09:55:12,634 INFO  Add resolution - Raise IT Ticket ,at index - 1 to dropdownOptions.resolutionList.
+2019-03-28 09:55:12,634 INFO  Index of Response after SP list items retrieval - 2
+2019-03-28 09:55:12,635 INFO  Status of Response after SP list items retrieval at index - 2 , is - True
+2019-03-28 09:55:12,635 INFO  System of Response after SP list items retrieval at index - 2 , is - Baan
+2019-03-28 09:55:12,636 INFO  dropdownOptions.systemList Contains title - Baan ,at index - 2
+2019-03-28 09:55:12,637 INFO  problem of Response after SP list items retrieval at index - 2 , is - Baan lockout
+2019-03-28 09:55:12,637 INFO  Add problem - Baan lockout ,at index - 2 to dropdownOptions.problemList.
+2019-03-28 09:55:12,638 INFO  resolution of Response after SP list items retrieval at index - 2 , is - Unlock through Active Directory
+2019-03-28 09:55:12,638 INFO  Add resolution - Unlock through Active Directory ,at index - 2 to dropdownOptions.resolutionList.
+2019-03-28 09:55:12,639 INFO  Index of Response after SP list items retrieval - 3
+2019-03-28 09:55:12,639 INFO  Status of Response after SP list items retrieval at index - 3 , is - True
+2019-03-28 09:55:12,640 INFO  System of Response after SP list items retrieval at index - 3 , is - Baan
+2019-03-28 09:55:12,641 INFO  dropdownOptions.systemList Contains title - Baan ,at index - 3
+2019-03-28 09:55:12,641 INFO  problem of Response after SP list items retrieval at index - 3 , is - General Baan Access
+2019-03-28 09:55:12,642 INFO  dropdownOptions.problemList Contains problem - General Baan Access ,at index - 3
+2019-03-28 09:55:12,642 INFO  resolution of Response after SP list items retrieval at index - 3 , is - Raise IT Ticket
+2019-03-28 09:55:12,643 INFO  dropdownOptions.resolutionList Contains resolution - Raise IT Ticket ,at index - 3
+2019-03-28 09:55:12,644 INFO  Index of Response after SP list items retrieval - 4
+2019-03-28 09:55:12,644 INFO  Status of Response after SP list items retrieval at index - 4 , is - True
+2019-03-28 09:55:12,644 INFO  System of Response after SP list items retrieval at index - 4 , is - Baan
+2019-03-28 09:55:12,645 INFO  dropdownOptions.systemList Contains title - Baan ,at index - 4
+2019-03-28 09:55:12,645 INFO  problem of Response after SP list items retrieval at index - 4 , is - Baan Account Issue
+2019-03-28 09:55:12,646 INFO  Add problem - Baan Account Issue ,at index - 4 to dropdownOptions.problemList.
+2019-03-28 09:55:12,646 INFO  resolution of Response after SP list items retrieval at index - 4 , is - Raise IT Ticket
+2019-03-28 09:55:12,647 INFO  dropdownOptions.resolutionList Contains resolution - Raise IT Ticket ,at index - 4
+2019-03-28 09:55:12,648 INFO  Index of Response after SP list items retrieval - 5
+2019-03-28 09:55:12,648 INFO  Status of Response after SP list items retrieval at index - 5 , is - True
+2019-03-28 09:55:12,649 INFO  System of Response after SP list items retrieval at index - 5 , is - PC
+2019-03-28 09:55:12,649 INFO  Add title - PC ,at index - 5 to dropdownOptions.systemList.
+2019-03-28 09:55:12,650 INFO  problem of Response after SP list items retrieval at index - 5 , is - Locked Out
+2019-03-28 09:55:12,651 INFO  Add problem - Locked Out ,at index - 5 to dropdownOptions.problemList.
+2019-03-28 09:55:12,651 INFO  resolution of Response after SP list items retrieval at index - 5 , is - Unlock through Active Directory
+2019-03-28 09:55:12,652 INFO  dropdownOptions.resolutionList Contains resolution - Unlock through Active Directory ,at index - 5
+2019-03-28 09:55:12,653 INFO  Index of Response after SP list items retrieval - 6
+2019-03-28 09:55:12,653 INFO  Status of Response after SP list items retrieval at index - 6 , is - True
+2019-03-28 09:55:12,654 INFO  System of Response after SP list items retrieval at index - 6 , is - PC
+2019-03-28 09:55:12,654 INFO  dropdownOptions.systemList Contains title - PC ,at index - 6
+2019-03-28 09:55:12,655 INFO  problem of Response after SP list items retrieval at index - 6 , is - Locked Out
+2019-03-28 09:55:12,655 INFO  dropdownOptions.problemList Contains problem - Locked Out ,at index - 6
+2019-03-28 09:55:12,656 INFO  resolution of Response after SP list items retrieval at index - 6 , is - Raise IT Ticket
+2019-03-28 09:55:12,657 INFO  dropdownOptions.resolutionList Contains resolution - Raise IT Ticket ,at index - 6
+2019-03-28 09:55:12,657 INFO  Index of Response after SP list items retrieval - 7
+2019-03-28 09:55:12,658 INFO  Status of Response after SP list items retrieval at index - 7 , is - True
+2019-03-28 09:55:12,658 INFO  System of Response after SP list items retrieval at index - 7 , is - PC
+2019-03-28 09:55:12,659 INFO  dropdownOptions.systemList Contains title - PC ,at index - 7
+2019-03-28 09:55:12,660 INFO  problem of Response after SP list items retrieval at index - 7 , is - System Issues
+2019-03-28 09:55:12,660 INFO  Add problem - System Issues ,at index - 7 to dropdownOptions.problemList.
+2019-03-28 09:55:12,661 INFO  resolution of Response after SP list items retrieval at index - 7 , is - Raise IT Ticket
+2019-03-28 09:55:12,661 INFO  dropdownOptions.resolutionList Contains resolution - Raise IT Ticket ,at index - 7
+2019-03-28 09:55:12,662 INFO  Index of Response after SP list items retrieval - 8
+2019-03-28 09:55:12,662 INFO  Status of Response after SP list items retrieval at index - 8 , is - True
+2019-03-28 09:55:12,663 INFO  System of Response after SP list items retrieval at index - 8 , is - PC
+2019-03-28 09:55:12,664 INFO  dropdownOptions.systemList Contains title - PC ,at index - 8
+2019-03-28 09:55:12,664 INFO  problem of Response after SP list items retrieval at index - 8 , is - Error Message prompt
+2019-03-28 09:55:12,665 INFO  Add problem - Error Message prompt ,at index - 8 to dropdownOptions.problemList.
+2019-03-28 09:55:12,665 INFO  resolution of Response after SP list items retrieval at index - 8 , is - Raise IT Ticket
+2019-03-28 09:55:12,666 INFO  dropdownOptions.resolutionList Contains resolution - Raise IT Ticket ,at index - 8
+2019-03-28 09:55:12,666 INFO  Index of Response after SP list items retrieval - 9
+2019-03-28 09:55:12,666 INFO  Status of Response after SP list items retrieval at index - 9 , is - True
+2019-03-28 09:55:12,667 INFO  System of Response after SP list items retrieval at index - 9 , is - Pace tracker
+2019-03-28 09:55:12,668 INFO  Add title - Pace tracker ,at index - 9 to dropdownOptions.systemList.
+2019-03-28 09:55:12,668 INFO  problem of Response after SP list items retrieval at index - 9 , is - Error for 100 Code
+2019-03-28 09:55:12,669 INFO  Add problem - Error for 100 Code ,at index - 9 to dropdownOptions.problemList.
+2019-03-28 09:55:12,669 INFO  resolution of Response after SP list items retrieval at index - 9 , is - Clear Data/ Cache
+2019-03-28 09:55:12,670 INFO  Add resolution - Clear Data/ Cache ,at index - 9 to dropdownOptions.resolutionList.
+2019-03-28 09:55:12,670 INFO  Index of Response after SP list items retrieval - 10
+2019-03-28 09:55:12,671 INFO  Status of Response after SP list items retrieval at index - 10 , is - True
+2019-03-28 09:55:12,671 INFO  System of Response after SP list items retrieval at index - 10 , is - Pace tracker
+2019-03-28 09:55:12,672 INFO  dropdownOptions.systemList Contains title - Pace tracker ,at index - 10
+2019-03-28 09:55:12,672 INFO  problem of Response after SP list items retrieval at index - 10 , is - Nothing populates under Timesheet
+2019-03-28 09:55:12,673 INFO  Add problem - Nothing populates under Timesheet ,at index - 10 to dropdownOptions.problemList.
+2019-03-28 09:55:12,674 INFO  resolution of Response after SP list items retrieval at index - 10 , is - Clear Data/ Cache
+2019-03-28 09:55:12,674 INFO  dropdownOptions.resolutionList Contains resolution - Clear Data/ Cache ,at index - 10
+2019-03-28 09:55:12,675 INFO  Index of Response after SP list items retrieval - 11
+2019-03-28 09:55:12,675 INFO  Status of Response after SP list items retrieval at index - 11 , is - True
+2019-03-28 09:55:12,676 INFO  System of Response after SP list items retrieval at index - 11 , is - Pace tracker
+2019-03-28 09:55:12,676 INFO  dropdownOptions.systemList Contains title - Pace tracker ,at index - 11
+2019-03-28 09:55:12,677 INFO  problem of Response after SP list items retrieval at index - 11 , is - Not able to register
+2019-03-28 09:55:12,678 INFO  Add problem - Not able to register ,at index - 11 to dropdownOptions.problemList.
+2019-03-28 09:55:12,678 INFO  resolution of Response after SP list items retrieval at index - 11 , is - Check Employee Records
+2019-03-28 09:55:12,679 INFO  Add resolution - Check Employee Records ,at index - 11 to dropdownOptions.resolutionList.
+2019-03-28 09:55:12,679 INFO  Index of Response after SP list items retrieval - 12
+2019-03-28 09:55:12,680 INFO  Status of Response after SP list items retrieval at index - 12 , is - True
+2019-03-28 09:55:12,680 INFO  System of Response after SP list items retrieval at index - 12 , is - Pace tracker
+2019-03-28 09:55:12,681 INFO  dropdownOptions.systemList Contains title - Pace tracker ,at index - 12
+2019-03-28 09:55:12,682 INFO  problem of Response after SP list items retrieval at index - 12 , is - Not able to register
+2019-03-28 09:55:12,682 INFO  dropdownOptions.problemList Contains problem - Not able to register ,at index - 12
+2019-03-28 09:55:12,683 INFO  resolution of Response after SP list items retrieval at index - 12 , is - Reset Password
+2019-03-28 09:55:12,683 INFO  Add resolution - Reset Password ,at index - 12 to dropdownOptions.resolutionList.
+2019-03-28 09:55:12,684 INFO  Index of Response after SP list items retrieval - 13
+2019-03-28 09:55:12,684 INFO  Status of Response after SP list items retrieval at index - 13 , is - True
+2019-03-28 09:55:12,685 INFO  System of Response after SP list items retrieval at index - 13 , is - Email
+2019-03-28 09:55:12,685 INFO  Add title - Email ,at index - 13 to dropdownOptions.systemList.
+2019-03-28 09:55:12,686 INFO  problem of Response after SP list items retrieval at index - 13 , is - Unable to log in
+2019-03-28 09:55:12,687 INFO  Add problem - Unable to log in ,at index - 13 to dropdownOptions.problemList.
+2019-03-28 09:55:12,687 INFO  resolution of Response after SP list items retrieval at index - 13 , is - Unlock through Active Directory
+2019-03-28 09:55:12,688 INFO  dropdownOptions.resolutionList Contains resolution - Unlock through Active Directory ,at index - 13
+2019-03-28 09:55:12,688 INFO  Index of Response after SP list items retrieval - 14
+2019-03-28 09:55:12,689 INFO  Status of Response after SP list items retrieval at index - 14 , is - True
+2019-03-28 09:55:12,689 INFO  System of Response after SP list items retrieval at index - 14 , is - Email
+2019-03-28 09:55:12,690 INFO  dropdownOptions.systemList Contains title - Email ,at index - 14
+2019-03-28 09:55:12,691 INFO  problem of Response after SP list items retrieval at index - 14 , is - Email not populating
+2019-03-28 09:55:12,692 INFO  Add problem - Email not populating ,at index - 14 to dropdownOptions.problemList.
+2019-03-28 09:55:12,692 INFO  resolution of Response after SP list items retrieval at index - 14 , is - Check Knox
+2019-03-28 09:55:12,693 INFO  Add resolution - Check Knox ,at index - 14 to dropdownOptions.resolutionList.
+2019-03-28 09:55:12,693 INFO  Index of Response after SP list items retrieval - 15
+2019-03-28 09:55:12,694 INFO  Status of Response after SP list items retrieval at index - 15 , is - True
+2019-03-28 09:55:12,694 INFO  System of Response after SP list items retrieval at index - 15 , is - Email
+2019-03-28 09:55:12,695 INFO  dropdownOptions.systemList Contains title - Email ,at index - 15
+2019-03-28 09:55:12,695 INFO  problem of Response after SP list items retrieval at index - 15 , is - Cannot send email
+2019-03-28 09:55:12,696 INFO  Add problem - Cannot send email ,at index - 15 to dropdownOptions.problemList.
+2019-03-28 09:55:12,697 INFO  resolution of Response after SP list items retrieval at index - 15 , is - Check Knox
+2019-03-28 09:55:12,697 INFO  dropdownOptions.resolutionList Contains resolution - Check Knox ,at index - 15
+2019-03-28 09:55:12,698 INFO  Index of Response after SP list items retrieval - 16
+2019-03-28 09:55:12,698 INFO  Status of Response after SP list items retrieval at index - 16 , is - True
+2019-03-28 09:55:12,699 INFO  System of Response after SP list items retrieval at index - 16 , is - Email
+2019-03-28 09:55:12,699 INFO  dropdownOptions.systemList Contains title - Email ,at index - 16
+2019-03-28 09:55:12,700 INFO  problem of Response after SP list items retrieval at index - 16 , is - Need an Add-On
+2019-03-28 09:55:12,700 INFO  Add problem - Need an Add-On ,at index - 16 to dropdownOptions.problemList.
+2019-03-28 09:55:12,701 INFO  resolution of Response after SP list items retrieval at index - 16 , is - Raise IT Ticket
+2019-03-28 09:55:12,701 INFO  dropdownOptions.resolutionList Contains resolution - Raise IT Ticket ,at index - 16
+2019-03-28 09:55:12,702 INFO  Index of Response after SP list items retrieval - 17
+2019-03-28 09:55:12,703 INFO  Status of Response after SP list items retrieval at index - 17 , is - True
+2019-03-28 09:55:12,703 INFO  System of Response after SP list items retrieval at index - 17 , is - Email
+2019-03-28 09:55:12,704 INFO  dropdownOptions.systemList Contains title - Email ,at index - 17
+2019-03-28 09:55:12,705 INFO  problem of Response after SP list items retrieval at index - 17 , is - Unable to log in
+2019-03-28 09:55:12,705 INFO  dropdownOptions.problemList Contains problem - Unable to log in ,at index - 17
+2019-03-28 09:55:12,705 INFO  resolution of Response after SP list items retrieval at index - 17 , is - Raise IT Ticket
+2019-03-28 09:55:12,706 INFO  dropdownOptions.resolutionList Contains resolution - Raise IT Ticket ,at index - 17
+2019-03-28 09:55:12,707 INFO  Index of Response after SP list items retrieval - 18
+2019-03-28 09:55:12,707 INFO  Status of Response after SP list items retrieval at index - 18 , is - True
+2019-03-28 09:55:12,708 INFO  System of Response after SP list items retrieval at index - 18 , is - Email
+2019-03-28 09:55:12,708 INFO  dropdownOptions.systemList Contains title - Email ,at index - 18
+2019-03-28 09:55:12,709 INFO  problem of Response after SP list items retrieval at index - 18 , is - Email not populating
+2019-03-28 09:55:12,709 INFO  dropdownOptions.problemList Contains problem - Email not populating ,at index - 18
+2019-03-28 09:55:12,710 INFO  resolution of Response after SP list items retrieval at index - 18 , is - Check Duo
+2019-03-28 09:55:12,710 INFO  Add resolution - Check Duo ,at index - 18 to dropdownOptions.resolutionList.
+2019-03-28 09:55:12,711 INFO  Index of Response after SP list items retrieval - 19
+2019-03-28 09:55:12,712 INFO  Status of Response after SP list items retrieval at index - 19 , is - True
+2019-03-28 09:55:12,713 INFO  System of Response after SP list items retrieval at index - 19 , is - Email
+2019-03-28 09:55:12,713 INFO  dropdownOptions.systemList Contains title - Email ,at index - 19
+2019-03-28 09:55:12,714 INFO  problem of Response after SP list items retrieval at index - 19 , is - Cannot send email
+2019-03-28 09:55:12,714 INFO  dropdownOptions.problemList Contains problem - Cannot send email ,at index - 19
+2019-03-28 09:55:12,715 INFO  resolution of Response after SP list items retrieval at index - 19 , is - Check Duo
+2019-03-28 09:55:12,715 INFO  dropdownOptions.resolutionList Contains resolution - Check Duo ,at index - 19
+2019-03-28 09:55:12,716 INFO  Index of Response after SP list items retrieval - 20
+2019-03-28 09:55:12,717 INFO  Status of Response after SP list items retrieval at index - 20 , is - True
+2019-03-28 09:55:12,717 INFO  System of Response after SP list items retrieval at index - 20 , is - Software
+2019-03-28 09:55:12,718 INFO  Add title - Software ,at index - 20 to dropdownOptions.systemList.
+2019-03-28 09:55:12,718 INFO  problem of Response after SP list items retrieval at index - 20 , is - Download additional Software
+2019-03-28 09:55:12,719 INFO  Add problem - Download additional Software ,at index - 20 to dropdownOptions.problemList.
+2019-03-28 09:55:12,720 INFO  resolution of Response after SP list items retrieval at index - 20 , is - Raise IT Ticket
+2019-03-28 09:55:12,720 INFO  dropdownOptions.resolutionList Contains resolution - Raise IT Ticket ,at index - 20
+2019-03-28 09:55:12,720 INFO  Index of Response after SP list items retrieval - 21
+2019-03-28 09:55:12,721 INFO  Status of Response after SP list items retrieval at index - 21 , is - True
+2019-03-28 09:55:12,721 INFO  System of Response after SP list items retrieval at index - 21 , is - Software
+2019-03-28 09:55:12,722 INFO  dropdownOptions.systemList Contains title - Software ,at index - 21
+2019-03-28 09:55:12,722 INFO  problem of Response after SP list items retrieval at index - 21 , is - Software Error
+2019-03-28 09:55:12,723 INFO  Add problem - Software Error ,at index - 21 to dropdownOptions.problemList.
+2019-03-28 09:55:12,724 INFO  resolution of Response after SP list items retrieval at index - 21 , is - Raise IT Ticket
+2019-03-28 09:55:12,725 INFO  dropdownOptions.resolutionList Contains resolution - Raise IT Ticket ,at index - 21
+2019-03-28 09:55:12,726 INFO  Index of Response after SP list items retrieval - 22
+2019-03-28 09:55:12,726 INFO  Status of Response after SP list items retrieval at index - 22 , is - True
+2019-03-28 09:55:12,727 INFO  System of Response after SP list items retrieval at index - 22 , is - cERP
+2019-03-28 09:55:12,727 INFO  Add title - cERP ,at index - 22 to dropdownOptions.systemList.
+2019-03-28 09:55:12,728 INFO  problem of Response after SP list items retrieval at index - 22 , is - Add Permission
+2019-03-28 09:55:12,728 INFO  Add problem - Add Permission ,at index - 22 to dropdownOptions.problemList.
+2019-03-28 09:55:12,729 INFO  resolution of Response after SP list items retrieval at index - 22 , is - Raise IT Ticket
+2019-03-28 09:55:12,729 INFO  dropdownOptions.resolutionList Contains resolution - Raise IT Ticket ,at index - 22
+2019-03-28 09:55:12,730 INFO  Index of Response after SP list items retrieval - 23
+2019-03-28 09:55:12,730 INFO  Status of Response after SP list items retrieval at index - 23 , is - True
+2019-03-28 09:55:12,731 INFO  System of Response after SP list items retrieval at index - 23 , is - cERP
+2019-03-28 09:55:12,731 INFO  dropdownOptions.systemList Contains title - cERP ,at index - 23
+2019-03-28 09:55:12,732 INFO  problem of Response after SP list items retrieval at index - 23 , is - Permission Error
+2019-03-28 09:55:12,732 INFO  Add problem - Permission Error ,at index - 23 to dropdownOptions.problemList.
+2019-03-28 09:55:12,733 INFO  resolution of Response after SP list items retrieval at index - 23 , is - Raise IT Ticket
+2019-03-28 09:55:12,733 INFO  dropdownOptions.resolutionList Contains resolution - Raise IT Ticket ,at index - 23
+2019-03-28 09:55:12,734 INFO  Index of Response after SP list items retrieval - 24
+2019-03-28 09:55:12,735 INFO  Status of Response after SP list items retrieval at index - 24 , is - True
+2019-03-28 09:55:12,735 INFO  System of Response after SP list items retrieval at index - 24 , is - cERP
+2019-03-28 09:55:12,736 INFO  dropdownOptions.systemList Contains title - cERP ,at index - 24
+2019-03-28 09:55:12,736 INFO  problem of Response after SP list items retrieval at index - 24 , is - cERP down
+2019-03-28 09:55:12,737 INFO  Add problem - cERP down ,at index - 24 to dropdownOptions.problemList.
+2019-03-28 09:55:12,737 INFO  resolution of Response after SP list items retrieval at index - 24 , is - Forward issue to Miles/ Julia
+2019-03-28 09:55:12,738 INFO  Add resolution - Forward issue to Miles/ Julia ,at index - 24 to dropdownOptions.resolutionList.
+2019-03-28 09:55:12,738 INFO  Index of Response after SP list items retrieval - 25
+2019-03-28 09:55:12,739 INFO  Status of Response after SP list items retrieval at index - 25 , is - True
+2019-03-28 09:55:12,739 INFO  System of Response after SP list items retrieval at index - 25 , is - SAM
+2019-03-28 09:55:12,740 INFO  Add title - SAM ,at index - 25 to dropdownOptions.systemList.
+2019-03-28 09:55:12,741 INFO  problem of Response after SP list items retrieval at index - 25 , is - Access Issue
+2019-03-28 09:55:12,741 INFO  Add problem - Access Issue ,at index - 25 to dropdownOptions.problemList.
+2019-03-28 09:55:12,742 INFO  resolution of Response after SP list items retrieval at index - 25 , is - Raise IT Ticket
+2019-03-28 09:55:12,743 INFO  dropdownOptions.resolutionList Contains resolution - Raise IT Ticket ,at index - 25
+2019-03-28 09:55:12,743 INFO  Index of Response after SP list items retrieval - 26
+2019-03-28 09:55:12,744 INFO  Status of Response after SP list items retrieval at index - 26 , is - True
+2019-03-28 09:55:12,744 INFO  System of Response after SP list items retrieval at index - 26 , is - SAM
+2019-03-28 09:55:12,745 INFO  dropdownOptions.systemList Contains title - SAM ,at index - 26
+2019-03-28 09:55:12,745 INFO  problem of Response after SP list items retrieval at index - 26 , is - Getting Errors
+2019-03-28 09:55:12,746 INFO  Add problem - Getting Errors ,at index - 26 to dropdownOptions.problemList.
+2019-03-28 09:55:12,747 INFO  resolution of Response after SP list items retrieval at index - 26 , is - Raise IT Ticket
+2019-03-28 09:55:12,747 INFO  dropdownOptions.resolutionList Contains resolution - Raise IT Ticket ,at index - 26
+2019-03-28 09:55:12,748 INFO  Index of Response after SP list items retrieval - 27
+2019-03-28 09:55:12,748 INFO  Status of Response after SP list items retrieval at index - 27 , is - True
+2019-03-28 09:55:12,749 INFO  System of Response after SP list items retrieval at index - 27 , is - Shoretel/ Phone System
+2019-03-28 09:55:12,749 INFO  Add title - Shoretel/ Phone System ,at index - 27 to dropdownOptions.systemList.
+2019-03-28 09:55:12,750 INFO  problem of Response after SP list items retrieval at index - 27 , is - Calls not Transfering
+2019-03-28 09:55:12,750 INFO  Add problem - Calls not Transfering ,at index - 27 to dropdownOptions.problemList.
+2019-03-28 09:55:12,751 INFO  resolution of Response after SP list items retrieval at index - 27 , is - Raise IT Ticket
+2019-03-28 09:55:12,751 INFO  dropdownOptions.resolutionList Contains resolution - Raise IT Ticket ,at index - 27
+2019-03-28 09:55:12,752 INFO  Index of Response after SP list items retrieval - 28
+2019-03-28 09:55:12,752 INFO  Status of Response after SP list items retrieval at index - 28 , is - True
+2019-03-28 09:55:12,753 INFO  System of Response after SP list items retrieval at index - 28 , is - Shoretel/ Phone System
+2019-03-28 09:55:12,753 INFO  dropdownOptions.systemList Contains title - Shoretel/ Phone System ,at index - 28
+2019-03-28 09:55:12,754 INFO  problem of Response after SP list items retrieval at index - 28 , is - Connection Issue
+2019-03-28 09:55:12,755 INFO  Add problem - Connection Issue ,at index - 28 to dropdownOptions.problemList.
+2019-03-28 09:55:12,756 INFO  resolution of Response after SP list items retrieval at index - 28 , is - Raise IT Ticket
+2019-03-28 09:55:12,756 INFO  dropdownOptions.resolutionList Contains resolution - Raise IT Ticket ,at index - 28
+2019-03-28 09:55:12,757 INFO  Index of Response after SP list items retrieval - 29
+2019-03-28 09:55:12,757 INFO  Status of Response after SP list items retrieval at index - 29 , is - True
+2019-03-28 09:55:12,758 INFO  System of Response after SP list items retrieval at index - 29 , is - Shoretel/ Phone System
+2019-03-28 09:55:12,759 INFO  dropdownOptions.systemList Contains title - Shoretel/ Phone System ,at index - 29
+2019-03-28 09:55:12,759 INFO  problem of Response after SP list items retrieval at index - 29 , is - Shoretel Button not working
+2019-03-28 09:55:12,760 INFO  Add problem - Shoretel Button not working ,at index - 29 to dropdownOptions.problemList.
+2019-03-28 09:55:12,760 INFO  resolution of Response after SP list items retrieval at index - 29 , is - Raise IT Ticket
+2019-03-28 09:55:12,761 INFO  dropdownOptions.resolutionList Contains resolution - Raise IT Ticket ,at index - 29
+2019-03-28 09:55:12,762 INFO  Index of Response after SP list items retrieval - 30
+2019-03-28 09:55:12,762 INFO  Status of Response after SP list items retrieval at index - 30 , is - True
+2019-03-28 09:55:12,763 INFO  System of Response after SP list items retrieval at index - 30 , is - Shoretel/ Phone System
+2019-03-28 09:55:12,763 INFO  dropdownOptions.systemList Contains title - Shoretel/ Phone System ,at index - 30
+2019-03-28 09:55:12,764 INFO  problem of Response after SP list items retrieval at index - 30 , is - Unable to log in
+2019-03-28 09:55:12,764 INFO  dropdownOptions.problemList Contains problem - Unable to log in ,at index - 30
+2019-03-28 09:55:12,765 INFO  resolution of Response after SP list items retrieval at index - 30 , is - Raise IT Ticket
+2019-03-28 09:55:12,766 INFO  dropdownOptions.resolutionList Contains resolution - Raise IT Ticket ,at index - 30
+2019-03-28 09:55:12,766 INFO  Index of Response after SP list items retrieval - 31
+2019-03-28 09:55:12,767 INFO  Status of Response after SP list items retrieval at index - 31 , is - True
+2019-03-28 09:55:12,767 INFO  System of Response after SP list items retrieval at index - 31 , is - SharePoint
+2019-03-28 09:55:12,768 INFO  Add title - SharePoint ,at index - 31 to dropdownOptions.systemList.
+2019-03-28 09:55:12,768 INFO  problem of Response after SP list items retrieval at index - 31 , is - Workflow Error
+2019-03-28 09:55:12,769 INFO  Add problem - Workflow Error ,at index - 31 to dropdownOptions.problemList.
+2019-03-28 09:55:12,769 INFO  resolution of Response after SP list items retrieval at index - 31 , is - Forward issue to Julie Batista/ Kevin Dunn
+2019-03-28 09:55:12,770 INFO  Add resolution - Forward issue to Julie Batista/ Kevin Dunn ,at index - 31 to dropdownOptions.resolutionList.
+2019-03-28 09:55:12,770 INFO  Index of Response after SP list items retrieval - 32
+2019-03-28 09:55:12,771 INFO  Status of Response after SP list items retrieval at index - 32 , is - True
+2019-03-28 09:55:12,772 INFO  System of Response after SP list items retrieval at index - 32 , is - SharePoint
+2019-03-28 09:55:12,772 INFO  dropdownOptions.systemList Contains title - SharePoint ,at index - 32
+2019-03-28 09:55:12,773 INFO  problem of Response after SP list items retrieval at index - 32 , is - SharePoint is down
+2019-03-28 09:55:12,773 INFO  Add problem - SharePoint is down ,at index - 32 to dropdownOptions.problemList.
+2019-03-28 09:55:12,774 INFO  resolution of Response after SP list items retrieval at index - 32 , is - Forward issue to Julie Batista/ Kevin Dunn
+2019-03-28 09:55:12,774 INFO  dropdownOptions.resolutionList Contains resolution - Forward issue to Julie Batista/ Kevin Dunn ,at index - 32
+2019-03-28 09:55:12,775 INFO  Index of Response after SP list items retrieval - 33
+2019-03-28 09:55:12,776 INFO  Status of Response after SP list items retrieval at index - 33 , is - True
+2019-03-28 09:55:12,776 INFO  System of Response after SP list items retrieval at index - 33 , is - SharePoint
+2019-03-28 09:55:12,777 INFO  dropdownOptions.systemList Contains title - SharePoint ,at index - 33
+2019-03-28 09:55:12,777 INFO  problem of Response after SP list items retrieval at index - 33 , is - Access Request
+2019-03-28 09:55:12,778 INFO  Add problem - Access Request ,at index - 33 to dropdownOptions.problemList.
+2019-03-28 09:55:12,778 INFO  resolution of Response after SP list items retrieval at index - 33 , is - Raise IT Ticket
+2019-03-28 09:55:12,779 INFO  dropdownOptions.resolutionList Contains resolution - Raise IT Ticket ,at index - 33
+2019-03-28 09:55:12,780 INFO  Index of Response after SP list items retrieval - 34
+2019-03-28 09:55:12,780 INFO  Status of Response after SP list items retrieval at index - 34 , is - True
+2019-03-28 09:55:12,781 INFO  System of Response after SP list items retrieval at index - 34 , is - SharePoint
+2019-03-28 09:55:12,782 INFO  dropdownOptions.systemList Contains title - SharePoint ,at index - 34
+2019-03-28 09:55:12,782 INFO  problem of Response after SP list items retrieval at index - 34 , is - Workflow Error
+2019-03-28 09:55:12,783 INFO  dropdownOptions.problemList Contains problem - Workflow Error ,at index - 34
+2019-03-28 09:55:12,783 INFO  resolution of Response after SP list items retrieval at index - 34 , is - Raise IT Ticket
+2019-03-28 09:55:12,784 INFO  dropdownOptions.resolutionList Contains resolution - Raise IT Ticket ,at index - 34
+2019-03-28 09:55:12,784 INFO  Index of Response after SP list items retrieval - 35
+2019-03-28 09:55:12,785 INFO  Status of Response after SP list items retrieval at index - 35 , is - True
+2019-03-28 09:55:12,785 INFO  System of Response after SP list items retrieval at index - 35 , is - Hardware
+2019-03-28 09:55:12,786 INFO  Add title - Hardware ,at index - 35 to dropdownOptions.systemList.
+2019-03-28 09:55:12,786 INFO  problem of Response after SP list items retrieval at index - 35 , is - Hardware Replacement
+2019-03-28 09:55:12,787 INFO  Add problem - Hardware Replacement ,at index - 35 to dropdownOptions.problemList.
+2019-03-28 09:55:12,788 INFO  resolution of Response after SP list items retrieval at index - 35 , is - Raise IT Ticket
+2019-03-28 09:55:12,788 INFO  dropdownOptions.resolutionList Contains resolution - Raise IT Ticket ,at index - 35
+2019-03-28 09:55:12,789 INFO  Index of Response after SP list items retrieval - 36
+2019-03-28 09:55:12,789 INFO  Status of Response after SP list items retrieval at index - 36 , is - True
+2019-03-28 09:55:12,790 INFO  System of Response after SP list items retrieval at index - 36 , is - Hardware
+2019-03-28 09:55:12,790 INFO  dropdownOptions.systemList Contains title - Hardware ,at index - 36
+2019-03-28 09:55:12,791 INFO  problem of Response after SP list items retrieval at index - 36 , is - Hardware Issues
+2019-03-28 09:55:12,792 INFO  Add problem - Hardware Issues ,at index - 36 to dropdownOptions.problemList.
+2019-03-28 09:55:12,793 INFO  resolution of Response after SP list items retrieval at index - 36 , is - Raise IT Ticket
+2019-03-28 09:55:12,793 INFO  dropdownOptions.resolutionList Contains resolution - Raise IT Ticket ,at index - 36
+2019-03-28 09:55:12,794 INFO  Index of Response after SP list items retrieval - 37
+2019-03-28 09:55:12,795 INFO  Status of Response after SP list items retrieval at index - 37 , is - True
+2019-03-28 09:55:12,795 INFO  System of Response after SP list items retrieval at index - 37 , is - Admin
+2019-03-28 09:55:12,796 INFO  Add title - Admin ,at index - 37 to dropdownOptions.systemList.
+2019-03-28 09:55:12,796 INFO  problem of Response after SP list items retrieval at index - 37 , is - Baan Configuration Setup
+2019-03-28 09:55:12,800 INFO  Add problem - Baan Configuration Setup ,at index - 37 to dropdownOptions.problemList.
+2019-03-28 09:55:12,803 INFO  resolution of Response after SP list items retrieval at index - 37 , is - Remotely setup Config page
+2019-03-28 09:55:12,805 INFO  Add resolution - Remotely setup Config page ,at index - 37 to dropdownOptions.resolutionList.
+2019-03-28 09:55:12,806 INFO  Index of Response after SP list items retrieval - 38
+2019-03-28 09:55:12,808 INFO  Status of Response after SP list items retrieval at index - 38 , is - True
+2019-03-28 09:55:12,809 INFO  System of Response after SP list items retrieval at index - 38 , is - Admin
+2019-03-28 09:55:12,810 INFO  dropdownOptions.systemList Contains title - Admin ,at index - 38
+2019-03-28 09:55:12,810 INFO  problem of Response after SP list items retrieval at index - 38 , is - Baan Configuration Setup
+2019-03-28 09:55:12,811 INFO  dropdownOptions.problemList Contains problem - Baan Configuration Setup ,at index - 38
+2019-03-28 09:55:12,811 INFO  resolution of Response after SP list items retrieval at index - 38 , is - Raise IT Ticket
+2019-03-28 09:55:12,812 INFO  dropdownOptions.resolutionList Contains resolution - Raise IT Ticket ,at index - 38
+2019-03-28 09:55:12,812 INFO  Index of Response after SP list items retrieval - 39
+2019-03-28 09:55:12,813 INFO  Status of Response after SP list items retrieval at index - 39 , is - True
+2019-03-28 09:55:12,814 INFO  System of Response after SP list items retrieval at index - 39 , is - Admin
+2019-03-28 09:55:12,814 INFO  dropdownOptions.systemList Contains title - Admin ,at index - 39
+2019-03-28 09:55:12,815 INFO  problem of Response after SP list items retrieval at index - 39 , is - Configuration password reset
+2019-03-28 09:55:12,815 INFO  Add problem - Configuration password reset ,at index - 39 to dropdownOptions.problemList.
+2019-03-28 09:55:12,816 INFO  resolution of Response after SP list items retrieval at index - 39 , is - Un-save password from saved Configuration
+2019-03-28 09:55:12,817 INFO  Add resolution - Un-save password from saved Configuration ,at index - 39 to dropdownOptions.resolutionList.
+2019-03-28 09:55:12,817 INFO  Index of Response after SP list items retrieval - 40
+2019-03-28 09:55:12,818 INFO  Status of Response after SP list items retrieval at index - 40 , is - True
+2019-03-28 09:55:12,819 INFO  System of Response after SP list items retrieval at index - 40 , is - Admin
+2019-03-28 09:55:12,819 INFO  dropdownOptions.systemList Contains title - Admin ,at index - 40
+2019-03-28 09:55:12,820 INFO  problem of Response after SP list items retrieval at index - 40 , is - Configuration password reset
+2019-03-28 09:55:12,821 INFO  dropdownOptions.problemList Contains problem - Configuration password reset ,at index - 40
+2019-03-28 09:55:12,821 INFO  resolution of Response after SP list items retrieval at index - 40 , is - Unlock through Active Directory
+2019-03-28 09:55:12,822 INFO  dropdownOptions.resolutionList Contains resolution - Unlock through Active Directory ,at index - 40
+2019-03-28 09:55:12,822 INFO  Index of Response after SP list items retrieval - 41
+2019-03-28 09:55:12,823 INFO  Status of Response after SP list items retrieval at index - 41 , is - True
+2019-03-28 09:55:12,824 INFO  System of Response after SP list items retrieval at index - 41 , is - Admin
+2019-03-28 09:55:12,825 INFO  dropdownOptions.systemList Contains title - Admin ,at index - 41
+2019-03-28 09:55:12,825 INFO  problem of Response after SP list items retrieval at index - 41 , is - Configuration password reset
+2019-03-28 09:55:12,826 INFO  dropdownOptions.problemList Contains problem - Configuration password reset ,at index - 41
+2019-03-28 09:55:12,826 INFO  resolution of Response after SP list items retrieval at index - 41 , is - Raise IT Ticket
+2019-03-28 09:55:12,827 INFO  dropdownOptions.resolutionList Contains resolution - Raise IT Ticket ,at index - 41
+2019-03-28 09:55:12,827 INFO  Index of Response after SP list items retrieval - 42
+2019-03-28 09:55:12,828 INFO  Status of Response after SP list items retrieval at index - 42 , is - True
+2019-03-28 09:55:12,829 INFO  System of Response after SP list items retrieval at index - 42 , is - UltiPro
+2019-03-28 09:55:12,829 INFO  Add title - UltiPro ,at index - 42 to dropdownOptions.systemList.
+2019-03-28 09:55:12,830 INFO  problem of Response after SP list items retrieval at index - 42 , is - Locked Out
+2019-03-28 09:55:12,830 INFO  dropdownOptions.problemList Contains problem - Locked Out ,at index - 42
+2019-03-28 09:55:12,831 INFO  resolution of Response after SP list items retrieval at index - 42 , is - Login to UltiPro and unlock
+2019-03-28 09:55:12,832 INFO  Add resolution - Login to UltiPro and unlock ,at index - 42 to dropdownOptions.resolutionList.
+2019-03-28 09:55:12,832 INFO  Index of Response after SP list items retrieval - 43
+2019-03-28 09:55:12,833 INFO  Status of Response after SP list items retrieval at index - 43 , is - True
+2019-03-28 09:55:12,833 INFO  System of Response after SP list items retrieval at index - 43 , is - UltiPro
+2019-03-28 09:55:12,834 INFO  dropdownOptions.systemList Contains title - UltiPro ,at index - 43
+2019-03-28 09:55:12,835 INFO  problem of Response after SP list items retrieval at index - 43 , is - Locked Out
+2019-03-28 09:55:12,835 INFO  dropdownOptions.problemList Contains problem - Locked Out ,at index - 43
+2019-03-28 09:55:12,836 INFO  resolution of Response after SP list items retrieval at index - 43 , is - Login to UltiPro to reset password
+2019-03-28 09:55:12,836 INFO  Add resolution - Login to UltiPro to reset password ,at index - 43 to dropdownOptions.resolutionList.
+2019-03-28 09:55:12,837 INFO  Index of Response after SP list items retrieval - 44
+2019-03-28 09:55:12,838 INFO  Status of Response after SP list items retrieval at index - 44 , is - True
+2019-03-28 09:55:12,838 INFO  System of Response after SP list items retrieval at index - 44 , is - WFA
+2019-03-28 09:55:12,839 INFO  Add title - WFA ,at index - 44 to dropdownOptions.systemList.
+2019-03-28 09:55:12,839 INFO  problem of Response after SP list items retrieval at index - 44 , is - Brick Hardware Issue
+2019-03-28 09:55:12,840 INFO  Add problem - Brick Hardware Issue ,at index - 44 to dropdownOptions.problemList.
+2019-03-28 09:55:12,841 INFO  resolution of Response after SP list items retrieval at index - 44 , is - Swap brick
+2019-03-28 09:55:12,842 INFO  Add resolution - Swap brick ,at index - 44 to dropdownOptions.resolutionList.
+2019-03-28 09:55:12,842 INFO  Index of Response after SP list items retrieval - 45
+2019-03-28 09:55:12,843 INFO  Status of Response after SP list items retrieval at index - 45 , is - True
+2019-03-28 09:55:12,844 INFO  System of Response after SP list items retrieval at index - 45 , is - WFA
+2019-03-28 09:55:12,844 INFO  dropdownOptions.systemList Contains title - WFA ,at index - 45
+2019-03-28 09:55:12,845 INFO  problem of Response after SP list items retrieval at index - 45 , is - Timesheet
+2019-03-28 09:55:12,845 INFO  Add problem - Timesheet ,at index - 45 to dropdownOptions.problemList.
+2019-03-28 09:55:12,846 INFO  resolution of Response after SP list items retrieval at index - 45 , is - Forward issue to Steve Auckly/ Jake Zube
+2019-03-28 09:55:12,846 INFO  Add resolution - Forward issue to Steve Auckly/ Jake Zube ,at index - 45 to dropdownOptions.resolutionList.
+2019-03-28 09:55:12,847 INFO  Index of Response after SP list items retrieval - 46
+2019-03-28 09:55:12,847 INFO  Status of Response after SP list items retrieval at index - 46 , is - True
+2019-03-28 09:55:12,848 INFO  System of Response after SP list items retrieval at index - 46 , is - WFA
+2019-03-28 09:55:12,848 INFO  dropdownOptions.systemList Contains title - WFA ,at index - 46
+2019-03-28 09:55:12,849 INFO  problem of Response after SP list items retrieval at index - 46 , is - Service Ticket
+2019-03-28 09:55:12,849 INFO  Add problem - Service Ticket ,at index - 46 to dropdownOptions.problemList.
+2019-03-28 09:55:12,850 INFO  resolution of Response after SP list items retrieval at index - 46 , is - Ignore Lines
+2019-03-28 09:55:12,851 INFO  Add resolution - Ignore Lines ,at index - 46 to dropdownOptions.resolutionList.
+2019-03-28 09:55:12,851 INFO  Index of Response after SP list items retrieval - 47
+2019-03-28 09:55:12,852 INFO  Status of Response after SP list items retrieval at index - 47 , is - True
+2019-03-28 09:55:12,852 INFO  System of Response after SP list items retrieval at index - 47 , is - WFA
+2019-03-28 09:55:12,854 INFO  dropdownOptions.systemList Contains title - WFA ,at index - 47
+2019-03-28 09:55:12,855 INFO  problem of Response after SP list items retrieval at index - 47 , is - Service Ticket
+2019-03-28 09:55:12,855 INFO  dropdownOptions.problemList Contains problem - Service Ticket ,at index - 47
+2019-03-28 09:55:12,856 INFO  resolution of Response after SP list items retrieval at index - 47 , is - Raise IT Ticket
+2019-03-28 09:55:12,857 INFO  dropdownOptions.resolutionList Contains resolution - Raise IT Ticket ,at index - 47
+2019-03-28 09:55:12,858 INFO  Index of Response after SP list items retrieval - 48
+2019-03-28 09:55:12,858 INFO  Status of Response after SP list items retrieval at index - 48 , is - True
+2019-03-28 09:55:12,859 INFO  System of Response after SP list items retrieval at index - 48 , is - WFA
+2019-03-28 09:55:12,860 INFO  dropdownOptions.systemList Contains title - WFA ,at index - 48
+2019-03-28 09:55:12,860 INFO  problem of Response after SP list items retrieval at index - 48 , is - System Issue
+2019-03-28 09:55:12,861 INFO  Add problem - System Issue ,at index - 48 to dropdownOptions.problemList.
+2019-03-28 09:55:12,861 INFO  resolution of Response after SP list items retrieval at index - 48 , is - Re-install WFA
+2019-03-28 09:55:12,862 INFO  Add resolution - Re-install WFA ,at index - 48 to dropdownOptions.resolutionList.
+2019-03-28 09:55:12,862 INFO  Index of Response after SP list items retrieval - 49
+2019-03-28 09:55:12,863 INFO  Status of Response after SP list items retrieval at index - 49 , is - True
+2019-03-28 09:55:12,864 INFO  System of Response after SP list items retrieval at index - 49 , is - WFA
+2019-03-28 09:55:12,864 INFO  dropdownOptions.systemList Contains title - WFA ,at index - 49
+2019-03-28 09:55:12,865 INFO  problem of Response after SP list items retrieval at index - 49 , is - Sync Issue
+2019-03-28 09:55:12,865 INFO  Add problem - Sync Issue ,at index - 49 to dropdownOptions.problemList.
+2019-03-28 09:55:12,866 INFO  resolution of Response after SP list items retrieval at index - 49 , is - Re-run Client Installer
+2019-03-28 09:55:12,867 INFO  Add resolution - Re-run Client Installer ,at index - 49 to dropdownOptions.resolutionList.
+2019-03-28 09:55:12,867 INFO  Index of Response after SP list items retrieval - 50
+2019-03-28 09:55:12,868 INFO  Status of Response after SP list items retrieval at index - 50 , is - True
+2019-03-28 09:55:12,868 INFO  System of Response after SP list items retrieval at index - 50 , is - Netwrok
+2019-03-28 09:55:12,869 INFO  Add title - Netwrok ,at index - 50 to dropdownOptions.systemList.
+2019-03-28 09:55:12,869 INFO  problem of Response after SP list items retrieval at index - 50 , is - Need access to Netwrok Drive
+2019-03-28 09:55:12,870 INFO  Add problem - Need access to Netwrok Drive ,at index - 50 to dropdownOptions.problemList.
+2019-03-28 09:55:12,871 INFO  resolution of Response after SP list items retrieval at index - 50 , is - Raise IT Ticket
+2019-03-28 09:55:12,871 INFO  dropdownOptions.resolutionList Contains resolution - Raise IT Ticket ,at index - 50
+2019-03-28 09:55:12,872 INFO  Index of Response after SP list items retrieval - 51
+2019-03-28 09:55:12,872 INFO  Status of Response after SP list items retrieval at index - 51 , is - True
+2019-03-28 09:55:12,873 INFO  System of Response after SP list items retrieval at index - 51 , is - Netwrok
+2019-03-28 09:55:12,874 INFO  dropdownOptions.systemList Contains title - Netwrok ,at index - 51
+2019-03-28 09:55:12,875 INFO  problem of Response after SP list items retrieval at index - 51 , is - Change Netwrok ID
+2019-03-28 09:55:12,876 INFO  Add problem - Change Netwrok ID ,at index - 51 to dropdownOptions.problemList.
+2019-03-28 09:55:12,876 INFO  resolution of Response after SP list items retrieval at index - 51 , is - Raise IT Ticket
+2019-03-28 09:55:12,877 INFO  dropdownOptions.resolutionList Contains resolution - Raise IT Ticket ,at index - 51
+2019-03-28 09:55:12,877 INFO  Index of Response after SP list items retrieval - 52
+2019-03-28 09:55:12,878 INFO  Status of Response after SP list items retrieval at index - 52 , is - True
+2019-03-28 09:55:12,878 INFO  System of Response after SP list items retrieval at index - 52 , is - Netwrok
+2019-03-28 09:55:12,879 INFO  dropdownOptions.systemList Contains title - Netwrok ,at index - 52
+2019-03-28 09:55:12,880 INFO  problem of Response after SP list items retrieval at index - 52 , is - General Issue
+2019-03-28 09:55:12,880 INFO  Add problem - General Issue ,at index - 52 to dropdownOptions.problemList.
+2019-03-28 09:55:12,881 INFO  resolution of Response after SP list items retrieval at index - 52 , is - Raise IT Ticket
+2019-03-28 09:55:12,881 INFO  dropdownOptions.resolutionList Contains resolution - Raise IT Ticket ,at index - 52
+2019-03-28 09:55:12,882 INFO  Index of Response after SP list items retrieval - 53
+2019-03-28 09:55:12,882 INFO  Status of Response after SP list items retrieval at index - 53 , is - True
+2019-03-28 09:55:12,883 INFO  System of Response after SP list items retrieval at index - 53 , is - Netwrok
+2019-03-28 09:55:12,884 INFO  dropdownOptions.systemList Contains title - Netwrok ,at index - 53
+2019-03-28 09:55:12,884 INFO  problem of Response after SP list items retrieval at index - 53 , is - Printer
+2019-03-28 09:55:12,885 INFO  Add problem - Printer ,at index - 53 to dropdownOptions.problemList.
+2019-03-28 09:55:12,885 INFO  resolution of Response after SP list items retrieval at index - 53 , is - Raise IT Ticket
+2019-03-28 09:55:12,886 INFO  dropdownOptions.resolutionList Contains resolution - Raise IT Ticket ,at index - 53
+2019-03-28 09:55:12,886 INFO  Index of Response after SP list items retrieval - 54
+2019-03-28 09:55:12,887 INFO  Status of Response after SP list items retrieval at index - 54 , is - True
+2019-03-28 09:55:12,887 INFO  System of Response after SP list items retrieval at index - 54 , is - Netwrok
+2019-03-28 09:55:12,888 INFO  dropdownOptions.systemList Contains title - Netwrok ,at index - 54
+2019-03-28 09:55:12,889 INFO  problem of Response after SP list items retrieval at index - 54 , is - VPN
+2019-03-28 09:55:12,889 INFO  Add problem - VPN ,at index - 54 to dropdownOptions.problemList.
+2019-03-28 09:55:12,890 INFO  resolution of Response after SP list items retrieval at index - 54 , is - Raise IT Ticket
+2019-03-28 09:55:12,890 INFO  dropdownOptions.resolutionList Contains resolution - Raise IT Ticket ,at index - 54
+2019-03-28 09:55:12,891 INFO  Index of Response after SP list items retrieval - 55
+2019-03-28 09:55:12,892 INFO  Status of Response after SP list items retrieval at index - 55 , is - True
+2019-03-28 09:55:12,893 INFO  System of Response after SP list items retrieval at index - 55 , is - Skype
+2019-03-28 09:55:12,893 INFO  Add title - Skype ,at index - 55 to dropdownOptions.systemList.
+2019-03-28 09:55:12,894 INFO  problem of Response after SP list items retrieval at index - 55 , is - Login Issue
+2019-03-28 09:55:12,894 INFO  Add problem - Login Issue ,at index - 55 to dropdownOptions.problemList.
+2019-03-28 09:55:12,895 INFO  resolution of Response after SP list items retrieval at index - 55 , is - Unlock through Active Directory
+2019-03-28 09:55:12,896 INFO  dropdownOptions.resolutionList Contains resolution - Unlock through Active Directory ,at index - 55
+2019-03-28 09:55:12,896 INFO  Index of Response after SP list items retrieval - 56
+2019-03-28 09:55:12,897 INFO  Status of Response after SP list items retrieval at index - 56 , is - True
+2019-03-28 09:55:12,897 INFO  System of Response after SP list items retrieval at index - 56 , is - Skype
+2019-03-28 09:55:12,898 INFO  dropdownOptions.systemList Contains title - Skype ,at index - 56
+2019-03-28 09:55:12,899 INFO  problem of Response after SP list items retrieval at index - 56 , is - Login Issue
+2019-03-28 09:55:12,899 INFO  dropdownOptions.problemList Contains problem - Login Issue ,at index - 56
+2019-03-28 09:55:12,900 INFO  resolution of Response after SP list items retrieval at index - 56 , is - Forward issue to Netwrok
+2019-03-28 09:55:12,900 INFO  Add resolution - Forward issue to Netwrok ,at index - 56 to dropdownOptions.resolutionList.
+2019-03-28 09:55:12,901 INFO  Index of Response after SP list items retrieval - 57
+2019-03-28 09:55:12,901 INFO  Status of Response after SP list items retrieval at index - 57 , is - True
+2019-03-28 09:55:12,902 INFO  System of Response after SP list items retrieval at index - 57 , is - Duo
+2019-03-28 09:55:12,902 INFO  Add title - Duo ,at index - 57 to dropdownOptions.systemList.
+2019-03-28 09:55:12,903 INFO  problem of Response after SP list items retrieval at index - 57 , is - Authentication Issue
+2019-03-28 09:55:12,903 INFO  Add problem - Authentication Issue ,at index - 57 to dropdownOptions.problemList.
+2019-03-28 09:55:12,904 INFO  resolution of Response after SP list items retrieval at index - 57 , is - Duo Push
+2019-03-28 09:55:12,904 INFO  Add resolution - Duo Push ,at index - 57 to dropdownOptions.resolutionList.
+2019-03-28 09:55:12,905 INFO  Index of Response after SP list items retrieval - 58
+2019-03-28 09:55:12,906 INFO  Status of Response after SP list items retrieval at index - 58 , is - True
+2019-03-28 09:55:12,906 INFO  System of Response after SP list items retrieval at index - 58 , is - Duo
+2019-03-28 09:55:12,907 INFO  dropdownOptions.systemList Contains title - Duo ,at index - 58
+2019-03-28 09:55:12,909 INFO  problem of Response after SP list items retrieval at index - 58 , is - Authentication Issue
+2019-03-28 09:55:12,910 INFO  dropdownOptions.problemList Contains problem - Authentication Issue ,at index - 58
+2019-03-28 09:55:12,910 INFO  resolution of Response after SP list items retrieval at index - 58 , is - Send out Enrollment Email
+2019-03-28 09:55:12,911 INFO  Add resolution - Send out Enrollment Email ,at index - 58 to dropdownOptions.resolutionList.
+2019-03-28 09:55:12,911 INFO  Index of Response after SP list items retrieval - 59
+2019-03-28 09:55:12,912 INFO  Status of Response after SP list items retrieval at index - 59 , is - True
+2019-03-28 09:55:12,912 INFO  System of Response after SP list items retrieval at index - 59 , is - Duo
+2019-03-28 09:55:12,913 INFO  dropdownOptions.systemList Contains title - Duo ,at index - 59
+2019-03-28 09:55:12,914 INFO  problem of Response after SP list items retrieval at index - 59 , is - Need Setup
+2019-03-28 09:55:12,914 INFO  Add problem - Need Setup ,at index - 59 to dropdownOptions.problemList.
+2019-03-28 09:55:12,915 INFO  resolution of Response after SP list items retrieval at index - 59 , is - Send SOP
+2019-03-28 09:55:12,916 INFO  Add resolution - Send SOP ,at index - 59 to dropdownOptions.resolutionList.
+2019-03-28 09:55:12,916 INFO  Index of Response after SP list items retrieval - 60
+2019-03-28 09:55:12,917 INFO  Status of Response after SP list items retrieval at index - 60 , is - True
+2019-03-28 09:55:12,917 INFO  System of Response after SP list items retrieval at index - 60 , is - Duo
+2019-03-28 09:55:12,918 INFO  dropdownOptions.systemList Contains title - Duo ,at index - 60
+2019-03-28 09:55:12,918 INFO  problem of Response after SP list items retrieval at index - 60 , is - Need Setup
+2019-03-28 09:55:12,919 INFO  dropdownOptions.problemList Contains problem - Need Setup ,at index - 60
+2019-03-28 09:55:12,919 INFO  resolution of Response after SP list items retrieval at index - 60 , is - Walkthrough over Phone
+2019-03-28 09:55:12,920 INFO  Add resolution - Walkthrough over Phone ,at index - 60 to dropdownOptions.resolutionList.

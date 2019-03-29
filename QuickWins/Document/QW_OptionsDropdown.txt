@@ -1,0 +1,173 @@
+QW Options Dropdown:
+
+Baan:
+	General Baan Access
+		Raise IT Ticket
+		Raise ISR
+
+	General Baan Error
+		Raise IT Ticket
+
+	Baan lockout
+		Unlock through Active Directory
+
+	Baan Account Issue
+		Raise IT Ticket
+
+PC:
+	Locked Out
+		Unlock through Active Directory
+		Raise IT Ticket
+		
+	System Issues
+		Raise IT Ticket
+		
+	Error Message prompt
+		Raise IT Ticket
+		
+Pace tracker:
+	Error for 100 Code
+		Clear Data/ Cache
+	
+	Nothing populates under Timesheet
+		Clear Data/ Cache
+		
+	Not able to register
+		Check Employee Records
+		Reset Password
+
+Email:
+	Unable to log in
+		Unlock through Active Directory
+		Raise IT Ticket
+		
+	Email not populating
+		Check Knox
+		Check Duo
+		
+	Cannot send email
+		Check Knox
+		Check Duo
+		
+	Need an Add-On
+		Raise IT Ticket
+	
+Software:
+	Download additional Software
+		Raise IT Ticket
+		
+	Software Error
+		Raise IT Ticket
+	
+cERP :
+	Add Permission
+		Raise IT Ticket
+
+	Permission Error
+		Raise IT Ticket
+
+	cERP down
+		Forward issue to Miles/ Julia
+	
+SAM:
+	Access Issue
+		Raise IT Ticket
+		
+	Getting Errors
+		Raise IT Ticket
+	
+Shoretel/ Phone System:
+	Calls not Transfering
+		Raise IT Ticket
+		
+	Connection Issue
+		Raise IT Ticket
+		
+	Shoretel Button not working
+		Raise IT Ticket
+		
+	Unable to log in
+		Raise IT Ticket
+	
+SharePoint:
+	Workflow Error
+		Forward issue to Julie Batista/ Kevin Dunn
+		Raise IT Ticket
+		
+	SharePoint is down
+		Forward issue to Julie Batista/ Kevin Dunn
+		
+	Access Request
+		Raise IT Ticket
+	
+Hardware:
+	Hardware Replacement
+		Raise IT Ticket
+		
+	Hardware Issues
+		Raise IT Ticket
+	
+Admin:
+	Baan Configuration Setup
+		Raise IT Ticket
+		Remotely setup Config page
+		
+	Configuration password reset
+		Raise IT Ticket
+		Un-save password from saved Configuration
+		Unlock through Active Directory
+	
+UltiPro:
+	Locked Out
+		Login to UltiPro and unlock
+		Login to UltiPro to reset password
+
+WFA:
+	Brick Hardware Issue
+		Swap brick
+		
+	Timesheet
+		Forward issue to Steve Auckly/ Jake Zube
+		
+	Service Ticket
+		Ignore Lines
+		Raise IT Ticket
+		
+	System Issue
+		Re-install WFA
+		
+	Sync Issue
+		Re-run Client Installer
+		
+Netwrok:
+	Need access to Netwrok Drive
+		Raise IT Ticket
+		
+	Change Netwrok ID
+		Raise IT Ticket
+		
+	General Issue
+		Raise IT Ticket
+		
+	Printer
+		Raise IT Ticket
+		
+	VPN
+		Raise IT Ticket
+
+Skype:
+	Login Issue
+		Unlock through Active Directory
+		Forward issue to Netwrok
+		
+Duo:
+	Authentication Issue
+		Duo Push
+		Send out Enrollment Email
+		
+	Need Setup
+		Send SOP
+		Walkthrough over Phone
+		
+		
+		

@@ -1,0 +1,156 @@
+----> To create a pfx key for the Quick Wins VS Add-In project  <-------
+
+Microsoft Windows [Version 10.0.17134.590]
+(c) 2018 Microsoft Corporation. All rights reserved.
+
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.17134.0\x64>makecert /?
+Usage: MakeCert [ basic|extended options] [outputCertificateFile]
+Basic Options
+ -sk  <keyName>      Subject's key container name; To be created if not present
+ -pe                 Mark generated private key as exportable
+ -ss  <store>        Subject's certificate store name that stores the output
+                     certificate
+ -sr  <location>     Subject's certificate store location.
+                        <CurrentUser|LocalMachine>.  Default to 'CurrentUser'
+ -#   <number>       Serial Number from 1 to 2^31-1.  Default to be unique
+ -$   <authority>    The signing authority of the certificate
+                        <individual|commercial>
+ -n   <X509name>     Certificate subject X500 name (eg: CN=Fred Dews)
+ -?                  Return a list of basic options
+ -!                  Return a list of extended options
+
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.17134.0\x64>makecert
+Error: Please either specify the outputCertificateFile or -ss option
+Usage: MakeCert [ basic|extended options] [outputCertificateFile]
+Basic Options
+ -sk  <keyName>      Subject's key container name; To be created if not present
+ -pe                 Mark generated private key as exportable
+ -ss  <store>        Subject's certificate store name that stores the output
+                     certificate
+ -sr  <location>     Subject's certificate store location.
+                        <CurrentUser|LocalMachine>.  Default to 'CurrentUser'
+ -#   <number>       Serial Number from 1 to 2^31-1.  Default to be unique
+ -$   <authority>    The signing authority of the certificate
+                        <individual|commercial>
+ -n   <X509name>     Certificate subject X500 name (eg: CN=Fred Dews)
+ -?                  Return a list of basic options
+ -!                  Return a list of extended options
+
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.17134.0\x64>makecert /n "CN=DH Pace, O=DH Pace, C=US" /r /h 0 /eku "1.3.6.1.5.5.7.3.3,1.3.6.1.4.1.311.10.3.13" /e 03/28/2159 /sv c:\temp\pace.pvk c:\temp\pace.cer
+Succeeded
+
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.17134.0\x64>pvk2pfx /pvk c:\temp\pace.pvk /pi 123456 /spc c:\temp\pace.cer /pfx c:\temp\pace.pfx /po 123456
+
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.17134.0\x64>
+
+
+
+
+
+**********************************************************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+**********************************************************************************************************************************
+
+
+
+----> To check the error in Active DS reference library in the Quick Wins VS Add-In project  <-------
+
+Microsoft Windows [Version 10.0.17134.590]
+(c) 2018 Microsoft Corporation. All rights reserved.
+
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools>tlbimp activeds.tlb /out:C:\temp\Interop.ActiveDs.dll /verbose
+Microsoft (R) .NET Framework Type Library to Assembly Converter 4.6.1055.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+TlbImp : Resolved referenced file 'activeds.tlb' to file 'C:\WINDOWS\SYSTEM32\activeds.tlb'.
+TlbImp : error TI1000 : The type library importer encountered an unexpected exception: System.DllNotFoundException - Unable to load DLL 'tlbref.dll': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools>tlbimp /?
+Microsoft (R) .NET Framework Type Library to Assembly Converter 4.6.1055.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+Syntax: TlbImp TypeLibName [Options]
+Options:
+    /out:FileName            File name of assembly to be produced
+    /namespace:Namespace     Namespace of the assembly to be produced
+    /asmversion:Version      Version number of the assembly to be produced
+    /reference:FileName      File name of assembly to use to resolve references
+    /tlbreference:FileName   File name of typelib to use to resolve references
+    /publickey:FileName      File containing strong name public key
+    /keyfile:FileName        File containing strong name key pair
+    /keycontainer:FileName   Key container holding strong name key pair
+    /delaysign               Force strong name delay signing
+    /product:Product         The name of the product with which this assembly
+                             is distributed
+    /productversion:Version  The version of the product with which this
+                             assembly is distributed
+    /company:Company         The name of the company that produced this
+                             assembly
+    /copyright:Copyright     Describes all copyright notices, trademarks, and
+                             registered trademarks that apply to this assembly
+    /trademark:Trademark     Describes all trademarks and registered trademarks
+                             that apply to this assembly
+    /unsafe                  Produce interfaces without runtime security checks
+    /noclassmembers          Prevents TlbImp from adding members to classes
+    /nologo                  Prevents TlbImp from displaying logo
+    /silent                  Suppresses all output except for errors
+    /silence:WarningNumber   Suppresses output for the given warning (Can not
+                             be used with /silent)
+    /verbose                 Displays extra information
+    /primary                 Produce a primary interop assembly
+    /sysarray                Import SAFEARRAY as System.Array
+    /machine:MachineType     Create an assembly for the specified machine type
+    /transform:TransformName Perform the specified transformation
+    /strictref               Only use assemblies specified using /reference and
+                             registered PIAs
+    /strictref:nopia         Only use assemblies specified using /reference and
+                             ignore PIAs
+    /VariantBoolFieldToBool  Convert VARIANT_BOOL field in structures to bool.
+    /Legacy35                Use legacy TlbImp 3.5 behavior.
+    /? or /help              Display this usage message
+
+The assembly version must be specified as: Major.Minor.Build.Revision.
+
+Multiple reference assemblies can be specified by using the /reference option
+multiple times.
+
+Supported machine types:
+    X86
+    X64
+    Itanium
+    ARM
+    Agnostic
+
+Supported transforms:
+    SerializableValueClasses Mark all value classes as serializable
+    DispRet                  Apply the [out, retval] parameter transformation
+                             to methods of disp only interfaces
+
+A resource ID can optionally be appended to the TypeLibName when importing a
+type library from a module containing multiple type libraries.
+ example: TlbImp MyModule.dll\1
+
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools>tlbimp activeds.tlb /out:C:\temp\Interop.ActiveDs.dll /verbose /tlbreference:C:\Windows\Microsoft.NET\Framework\v4.0.30319\TLBREF.DLL
+TlbImp : Resolved referenced file 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\TLBREF.DLL' to file 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\TLBREF.DLL'.
+Microsoft (R) .NET Framework Type Library to Assembly Converter 4.6.1055.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+TlbImp : Resolved referenced file 'activeds.tlb' to file 'C:\WINDOWS\SYSTEM32\activeds.tlb'.
+TlbImp : error TI1002 : The input file 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\TLBREF.DLL' is not a valid type library.
+
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools>tlbimp activeds.tlb /out:C:\temp\Interop.ActiveDs.dll /verbose /reference:C:\Windows\Microsoft.NET\Framework\v4.0.30319\TLBREF.DLL
+TlbImp : Resolved referenced file 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\TLBREF.DLL' to file 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\TLBREF.DLL'.
+Microsoft (R) .NET Framework Type Library to Assembly Converter 4.6.1055.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+TlbImp : Resolved referenced file 'activeds.tlb' to file 'C:\WINDOWS\SYSTEM32\activeds.tlb'.
+TlbImp : error TI1015 : Referenced assembly 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\TLBREF.DLL' is not a valid assembly.
+
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools>tlbimp activeds.tlb /out:C:\temp\Interop.ActiveDs.dll /verbose
+Microsoft (R) .NET Framework Type Library to Assembly Converter 4.6.1055.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+TlbImp : Resolved referenced file 'activeds.tlb' to file 'C:\WINDOWS\SYSTEM32\activeds.tlb'.
+TlbImp : error TI1000 : The type library importer encountered an unexpected exception: System.DllNotFoundException - Unable to load DLL 'tlbref.dll': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools>Help Desk Outlook Add-In
