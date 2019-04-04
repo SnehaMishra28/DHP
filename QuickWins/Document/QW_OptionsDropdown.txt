@@ -10,6 +10,7 @@ Baan:
 
 	Baan lockout
 		Unlock through Active Directory
+		Raise IT Ticket
 
 	Baan Account Issue
 		Raise IT Ticket
@@ -26,15 +27,18 @@ PC:
 		Raise IT Ticket
 		
 Pace tracker:
-	Error for 100 Code
+	Error 400 Code
 		Clear Data/ Cache
+		Raise IT Ticket
 	
 	Nothing populates under Timesheet
 		Clear Data/ Cache
+		Raise IT Ticket
 		
 	Not able to register
 		Check Employee Records
 		Reset Password
+		Raise IT Ticket
 
 Email:
 	Unable to log in
@@ -44,12 +48,20 @@ Email:
 	Email not populating
 		Check Knox
 		Check Duo
+		Raise IT Ticket
 		
 	Cannot send email
 		Check Knox
 		Check Duo
+		Raise IT Ticket
 		
 	Need an Add-On
+		Raise IT Ticket
+		
+	Setup
+		Give password
+		Password reset
+		Walkthrough
 		Raise IT Ticket
 	
 Software:
@@ -68,6 +80,7 @@ cERP :
 
 	cERP down
 		Forward issue to Miles/ Julia
+		Raise IT Ticket
 	
 SAM:
 	Access Issue
@@ -96,6 +109,7 @@ SharePoint:
 		
 	SharePoint is down
 		Forward issue to Julie Batista/ Kevin Dunn
+		Raise IT Ticket
 		
 	Access Request
 		Raise IT Ticket
@@ -121,23 +135,33 @@ UltiPro:
 	Locked Out
 		Login to UltiPro and unlock
 		Login to UltiPro to reset password
+		Raise IT Ticket
 
 WFA:
 	Brick Hardware Issue
 		Swap brick
+		Cold reboot 
+		Raise IT Ticket
 		
 	Timesheet
 		Forward issue to Steve Auckly/ Jake Zube
+		Cold reboot 
+		Raise IT Ticket
 		
 	Service Ticket
 		Ignore Lines
 		Raise IT Ticket
+		Cold reboot 
 		
 	System Issue
 		Re-install WFA
+		Cold reboot 
+		Raise IT Ticket
 		
 	Sync Issue
 		Re-run Client Installer
+		Cold reboot 
+		Raise IT Ticket
 		
 Netwrok:
 	Need access to Netwrok Drive
@@ -159,15 +183,16 @@ Skype:
 	Login Issue
 		Unlock through Active Directory
 		Forward issue to Netwrok
+		Raise IT Ticket
 		
 Duo:
 	Authentication Issue
 		Duo Push
 		Send out Enrollment Email
+		Raise IT Ticket
 		
 	Need Setup
 		Send SOP
 		Walkthrough over Phone
-		
-		
-		
+		Send out Enrollment Email
+		Raise IT Ticket
