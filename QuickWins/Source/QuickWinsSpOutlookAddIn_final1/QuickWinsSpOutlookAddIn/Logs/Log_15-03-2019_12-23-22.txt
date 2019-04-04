@@ -1,0 +1,57 @@
+2019-03-15 12:23:23,319 INFO  Response after SP list items retrieval is not Null!
+2019-03-15 12:23:23,334 INFO  Count of Response after SP list items retrieval is - 3
+2019-03-15 12:23:23,336 INFO  Index of Response after SP list items retrieval - 0
+2019-03-15 12:23:23,337 INFO  Status of Response after SP list items retrieval at index - 0 , is - True
+2019-03-15 12:23:23,338 INFO  System of Response after SP list items retrieval at index - 0 , is - Baan
+2019-03-15 12:23:23,339 INFO  problem of Response after SP list items retrieval at index - 0 , is - Can't Log In
+2019-03-15 12:23:23,341 INFO  resolution of Response after SP list items retrieval at index - 0 , is - Reset Password
+2019-03-15 12:23:23,349 INFO  Index of Response after SP list items retrieval - 1
+2019-03-15 12:23:23,351 INFO  Status of Response after SP list items retrieval at index - 1 , is - True
+2019-03-15 12:23:23,354 INFO  System of Response after SP list items retrieval at index - 1 , is - Baan
+2019-03-15 12:23:23,355 INFO  problem of Response after SP list items retrieval at index - 1 , is - No Access
+2019-03-15 12:23:23,356 INFO  resolution of Response after SP list items retrieval at index - 1 , is - Grant Security
+2019-03-15 12:23:23,357 INFO  Index of Response after SP list items retrieval - 2
+2019-03-15 12:23:23,358 INFO  Status of Response after SP list items retrieval at index - 2 , is - True
+2019-03-15 12:23:23,360 INFO  System of Response after SP list items retrieval at index - 2 , is - Baan
+2019-03-15 12:23:23,377 INFO  problem of Response after SP list items retrieval at index - 2 , is - No Access
+2019-03-15 12:23:23,384 INFO  resolution of Response after SP list items retrieval at index - 2 , is - Referred to ISR
+2019-03-15 12:23:23,400 INFO  Response after SP list items retrieval is not Null!
+2019-03-15 12:23:23,404 INFO  Count of Response after SP list items retrieval is - 3
+2019-03-15 12:23:23,405 INFO  Index of Response after SP list items retrieval - 0
+2019-03-15 12:23:23,406 INFO  Status of Response after SP list items retrieval at index - 0 , is - True
+2019-03-15 12:23:23,407 INFO  System of Response after SP list items retrieval at index - 0 , is - Baan
+2019-03-15 12:23:23,409 INFO  problem of Response after SP list items retrieval at index - 0 , is - Can't Log In
+2019-03-15 12:23:23,410 INFO  resolution of Response after SP list items retrieval at index - 0 , is - Reset Password
+2019-03-15 12:23:23,411 INFO  Index of Response after SP list items retrieval - 1
+2019-03-15 12:23:23,433 INFO  Status of Response after SP list items retrieval at index - 1 , is - True
+2019-03-15 12:23:23,434 INFO  System of Response after SP list items retrieval at index - 1 , is - Baan
+2019-03-15 12:23:23,435 INFO  problem of Response after SP list items retrieval at index - 1 , is - No Access
+2019-03-15 12:23:23,436 INFO  resolution of Response after SP list items retrieval at index - 1 , is - Grant Security
+2019-03-15 12:23:23,438 INFO  Index of Response after SP list items retrieval - 2
+2019-03-15 12:23:23,439 INFO  Status of Response after SP list items retrieval at index - 2 , is - True
+2019-03-15 12:23:23,441 INFO  System of Response after SP list items retrieval at index - 2 , is - Baan
+2019-03-15 12:23:23,443 INFO  problem of Response after SP list items retrieval at index - 2 , is - No Access
+2019-03-15 12:23:23,444 INFO  resolution of Response after SP list items retrieval at index - 2 , is - Referred to ISR
+2019-03-15 12:23:38,440 INFO  Inside btnForm_Click - to open form!
+2019-03-15 12:23:39,291 INFO  Inside QuickWinForm - InitializeVariables func!
+2019-03-15 12:23:48,385 INFO  source value changed to - Desk Visit
+2019-03-15 12:23:55,759 INFO  source value changed to - Skype
+2019-03-15 12:23:56,559 INFO  source value changed to - Desk Visit
+2019-03-15 12:23:56,800 INFO  source value changed to - Email
+2019-03-15 12:23:56,999 INFO  source value changed to - Phone
+2019-03-15 12:24:02,103 INFO  system value changed to - Cerp
+2019-03-15 12:24:03,054 INFO  system value changed to - Cerp
+2019-03-15 12:24:03,390 INFO  system value changed to - Cerp
+2019-03-15 12:24:03,616 INFO  system value changed to - Cerp
+2019-03-15 12:24:14,534 INFO  system value changed to - Sharepoint
+2019-03-15 12:24:15,334 INFO  system value changed to - Shoretel
+2019-03-15 12:24:15,839 INFO  system value changed to - Sharepoint
+2019-03-15 12:24:16,232 INFO  system value changed to - Shoretel
+2019-03-15 12:24:16,648 INFO  system value changed to - Sharepoint
+2019-03-15 12:24:17,238 INFO  system value changed to - Shoretel
+2019-03-15 12:24:17,816 INFO  system value changed to - Sharepoint
+2019-03-15 12:24:29,248 INFO  issue value changed to - Can't Login
+2019-03-15 12:24:29,574 INFO  issue value changed to - Can't Login
+2019-03-15 12:24:32,005 INFO  resolution value changed to - Reset Password
+2019-03-15 12:24:32,406 INFO  resolution value changed to - Reset Password
+2019-03-15 12:25:31,963 INFO  Inside QuickWinForm - cancel button is clicked!

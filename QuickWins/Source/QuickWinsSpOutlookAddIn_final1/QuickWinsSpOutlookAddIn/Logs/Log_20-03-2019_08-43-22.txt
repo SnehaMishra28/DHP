@@ -1,0 +1,65 @@
+2019-03-20 08:43:22,479 INFO  Inside CreateSpListItem constructor to create Client!
+2019-03-20 08:43:22,506 INFO  Inside RetrieveQWOptionItems to retrieve QW Option List Items!
+2019-03-20 08:43:22,507 INFO  Inside GetDigestValue to Get the DigestValue!
+2019-03-20 08:43:22,713 INFO  Inside HasError func!
+2019-03-20 08:43:22,831 INFO  Response after SP list items retrieval is not Null!
+2019-03-20 08:43:22,844 INFO  Count of Response after SP list items retrieval is - 3
+2019-03-20 08:43:22,845 INFO  Index of Response after SP list items retrieval - 0
+2019-03-20 08:43:22,846 INFO  Status of Response after SP list items retrieval at index - 0 , is - True
+2019-03-20 08:43:22,848 INFO  System of Response after SP list items retrieval at index - 0 , is - Baan
+2019-03-20 08:43:22,849 INFO  problem of Response after SP list items retrieval at index - 0 , is - Can't Log In
+2019-03-20 08:43:22,850 INFO  resolution of Response after SP list items retrieval at index - 0 , is - Reset Password
+2019-03-20 08:43:22,853 INFO  Index of Response after SP list items retrieval - 1
+2019-03-20 08:43:22,854 INFO  Status of Response after SP list items retrieval at index - 1 , is - True
+2019-03-20 08:43:22,855 INFO  System of Response after SP list items retrieval at index - 1 , is - Baan
+2019-03-20 08:43:22,856 INFO  problem of Response after SP list items retrieval at index - 1 , is - No Access
+2019-03-20 08:43:22,856 INFO  resolution of Response after SP list items retrieval at index - 1 , is - Grant Security
+2019-03-20 08:43:22,856 INFO  Index of Response after SP list items retrieval - 2
+2019-03-20 08:43:22,857 INFO  Status of Response after SP list items retrieval at index - 2 , is - True
+2019-03-20 08:43:22,859 INFO  System of Response after SP list items retrieval at index - 2 , is - Baan
+2019-03-20 08:43:22,860 INFO  problem of Response after SP list items retrieval at index - 2 , is - No Access
+2019-03-20 08:43:22,861 INFO  resolution of Response after SP list items retrieval at index - 2 , is - Referred to ISR
+2019-03-20 08:43:22,863 INFO  Response after SP list items retrieval is not Null!
+2019-03-20 08:43:22,864 INFO  Count of Response after SP list items retrieval is - 3
+2019-03-20 08:43:22,865 INFO  Index of Response after SP list items retrieval - 0
+2019-03-20 08:43:22,866 INFO  Status of Response after SP list items retrieval at index - 0 , is - True
+2019-03-20 08:43:22,873 INFO  System of Response after SP list items retrieval at index - 0 , is - Baan
+2019-03-20 08:43:22,888 INFO  Add title - Baan ,at index - 0 to dropdownOptions.systemList.
+2019-03-20 08:43:22,889 INFO  problem of Response after SP list items retrieval at index - 0 , is - Can't Log In
+2019-03-20 08:43:22,891 INFO  Add problem - Can't Log In ,at index - 0 to dropdownOptions.problemList.
+2019-03-20 08:43:22,895 INFO  resolution of Response after SP list items retrieval at index - 0 , is - Reset Password
+2019-03-20 08:43:22,897 INFO  Add resolution - Reset Password ,at index - 0 to dropdownOptions.resolutionList.
+2019-03-20 08:43:22,907 INFO  Index of Response after SP list items retrieval - 1
+2019-03-20 08:43:22,908 INFO  Status of Response after SP list items retrieval at index - 1 , is - True
+2019-03-20 08:43:22,909 INFO  System of Response after SP list items retrieval at index - 1 , is - Baan
+2019-03-20 08:43:22,910 INFO  dropdownOptions.systemList Contains title - Baan ,at index - 1
+2019-03-20 08:43:22,910 INFO  problem of Response after SP list items retrieval at index - 1 , is - No Access
+2019-03-20 08:43:22,911 INFO  Add problem - No Access ,at index - 1 to dropdownOptions.problemList.
+2019-03-20 08:43:22,912 INFO  resolution of Response after SP list items retrieval at index - 1 , is - Grant Security
+2019-03-20 08:43:22,912 INFO  Add resolution - Grant Security ,at index - 1 to dropdownOptions.resolutionList.
+2019-03-20 08:43:22,913 INFO  Index of Response after SP list items retrieval - 2
+2019-03-20 08:43:22,914 INFO  Status of Response after SP list items retrieval at index - 2 , is - True
+2019-03-20 08:43:22,915 INFO  System of Response after SP list items retrieval at index - 2 , is - Baan
+2019-03-20 08:43:22,915 INFO  dropdownOptions.systemList Contains title - Baan ,at index - 2
+2019-03-20 08:43:22,916 INFO  problem of Response after SP list items retrieval at index - 2 , is - No Access
+2019-03-20 08:43:22,920 INFO  dropdownOptions.problemList Contains problem - No Access ,at index - 2
+2019-03-20 08:43:22,922 INFO  resolution of Response after SP list items retrieval at index - 2 , is - Referred to ISR
+2019-03-20 08:43:22,923 INFO  Add resolution - Referred to ISR ,at index - 2 to dropdownOptions.resolutionList.
+2019-03-20 08:43:38,545 INFO  Inside btnForm_Click - to open form!
+2019-03-20 08:43:38,549 INFO  Inside QuickWinForm constructor to create the Quick Win form!
+2019-03-20 08:43:38,918 INFO  Inside FinishInitializing func to set the dropdown items in the Quick Win form!
+2019-03-20 08:43:38,928 INFO  Inside QuickWinForm - InitializeVariables func!
+2019-03-20 08:43:41,989 INFO  Set the dropdown items in the Quick Win form for System combo box!
+2019-03-20 08:43:41,992 INFO  Set the dropdown items in the Quick Win form for Problem combo box!
+2019-03-20 08:43:41,994 INFO  Set the dropdown items in the Quick Win form for Resolution combo box!
+2019-03-20 08:43:41,996 INFO  Inside CreateSpListItem constructor to create Client!
+2019-03-20 08:43:44,807 INFO  Inside simpleButton1_Click to create ticket in SP and then close the Quick Win form!
+2019-03-20 08:43:44,810 INFO  Inside QuickWinForm - submit Form to SP button Click!
+2019-03-20 08:43:44,813 INFO  Inside QuickWinForm - submitFormToSP func!
+2019-03-20 08:43:44,816 INFO  Inside QuickWinForm - SP client is not null!
+2019-03-20 08:43:44,820 INFO  Inside QuickWinForm - setItemFields func!
+2019-03-20 08:43:44,822 INFO  Inside QuickWinForm - SP item object is not null!
+2019-03-20 08:43:44,826 INFO  Inside createItem to create List Items!
+2019-03-20 08:43:44,828 INFO  Inside GetDigestValue to Get the DigestValue!
+2019-03-20 08:43:44,861 INFO  Inside HasError func!
+2019-03-20 08:43:45,968 DEBUG Creating SP list item!

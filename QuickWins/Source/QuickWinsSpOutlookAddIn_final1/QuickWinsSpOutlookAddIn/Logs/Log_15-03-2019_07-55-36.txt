@@ -1,0 +1,34 @@
+2019-03-15 07:55:39,129 INFO  Response after SP list items retrieval is not Null!
+2019-03-15 07:55:39,147 INFO  Count of Response after SP list items retrieval is - 3
+2019-03-15 07:55:39,148 INFO  Index of Response after SP list items retrieval - 0
+2019-03-15 07:55:39,149 INFO  Status of Response after SP list items retrieval at index - 0 , is - True
+2019-03-15 07:55:39,150 INFO  System of Response after SP list items retrieval at index - 0 , is - Baan
+2019-03-15 07:55:39,152 INFO  problem of Response after SP list items retrieval at index - 0 , is - Can't Log In
+2019-03-15 07:55:39,153 INFO  resolution of Response after SP list items retrieval at index - 0 , is - Reset Password
+2019-03-15 07:55:39,154 INFO  Index of Response after SP list items retrieval - 1
+2019-03-15 07:55:39,157 INFO  Status of Response after SP list items retrieval at index - 1 , is - True
+2019-03-15 07:55:39,157 INFO  System of Response after SP list items retrieval at index - 1 , is - Baan
+2019-03-15 07:55:39,158 INFO  problem of Response after SP list items retrieval at index - 1 , is - No Access
+2019-03-15 07:55:39,160 INFO  resolution of Response after SP list items retrieval at index - 1 , is - Grant Security
+2019-03-15 07:55:39,161 INFO  Index of Response after SP list items retrieval - 2
+2019-03-15 07:55:39,162 INFO  Status of Response after SP list items retrieval at index - 2 , is - True
+2019-03-15 07:55:39,163 INFO  System of Response after SP list items retrieval at index - 2 , is - Baan
+2019-03-15 07:55:39,164 INFO  problem of Response after SP list items retrieval at index - 2 , is - No Access
+2019-03-15 07:55:39,164 INFO  resolution of Response after SP list items retrieval at index - 2 , is - Referred to ISR
+2019-03-15 07:55:39,167 INFO  Response after SP list items retrieval is not Null!
+2019-03-15 07:55:39,169 INFO  Count of Response after SP list items retrieval is - 3
+2019-03-15 07:55:39,170 INFO  Index of Response after SP list items retrieval - 0
+2019-03-15 07:55:39,172 INFO  Status of Response after SP list items retrieval at index - 0 , is - True
+2019-03-15 07:55:39,174 INFO  System of Response after SP list items retrieval at index - 0 , is - Baan
+2019-03-15 07:55:39,175 INFO  problem of Response after SP list items retrieval at index - 0 , is - Can't Log In
+2019-03-15 07:55:39,177 INFO  resolution of Response after SP list items retrieval at index - 0 , is - Reset Password
+2019-03-15 07:55:39,178 INFO  Index of Response after SP list items retrieval - 1
+2019-03-15 07:55:39,179 INFO  Status of Response after SP list items retrieval at index - 1 , is - True
+2019-03-15 07:55:39,180 INFO  System of Response after SP list items retrieval at index - 1 , is - Baan
+2019-03-15 07:55:39,180 INFO  problem of Response after SP list items retrieval at index - 1 , is - No Access
+2019-03-15 07:55:39,181 INFO  resolution of Response after SP list items retrieval at index - 1 , is - Grant Security
+2019-03-15 07:55:39,182 INFO  Index of Response after SP list items retrieval - 2
+2019-03-15 07:55:39,183 INFO  Status of Response after SP list items retrieval at index - 2 , is - True
+2019-03-15 07:55:39,183 INFO  System of Response after SP list items retrieval at index - 2 , is - Baan
+2019-03-15 07:55:39,185 INFO  problem of Response after SP list items retrieval at index - 2 , is - No Access
+2019-03-15 07:55:39,186 INFO  resolution of Response after SP list items retrieval at index - 2 , is - Referred to ISR
