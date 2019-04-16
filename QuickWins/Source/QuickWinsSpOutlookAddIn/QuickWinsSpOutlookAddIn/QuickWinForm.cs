@@ -555,6 +555,7 @@ namespace QuickWinsSpOutlookAddIn
         // Returns nothing
         private void txtRequestedBy_EditValueChanged(object sender, EventArgs e)
         {
+            log.Debug("Inside QuickWinForm - txtRequestedBy_EditValueChanged - setting value for RequestedBy!");
             requestedBy = txtRequestedBy.Text;
         }
 
@@ -562,6 +563,7 @@ namespace QuickWinsSpOutlookAddIn
         // Returns nothing
         private void txtRequestedBy_KeyUp(object sender, KeyEventArgs e)
         {
+            log.Debug("Inside QuickWinForm - txtRequestedBy_KeyUp - space key pressed for RequestedBy!");
             if (e.KeyCode == Keys.Space)
             {
                 //txtRequestedBy_ButtonClick(sender, e);
@@ -581,6 +583,7 @@ namespace QuickWinsSpOutlookAddIn
                 }
                 txtRequestedBy.Text = edit.EditValue.ToString();
                 requestedBy = edit.EditValue.ToString();
+                log.Debug("Inside QuickWinForm - txtRequestedBy_KeyUp - RequestedBy!" + requestedBy);
             }
         }
     }

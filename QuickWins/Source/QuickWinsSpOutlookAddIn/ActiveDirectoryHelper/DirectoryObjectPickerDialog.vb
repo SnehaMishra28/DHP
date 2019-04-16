@@ -357,7 +357,7 @@ Namespace ActiveDirectory
                 '    refScopeInitInfo, true);
 
                 'Marshal.StructureToPtr(scopeInitInfo(index), CType(CInt(refScopeInitInfo) + index * Marshal.SizeOf(GetType(DSOP_SCOPE_INIT_INFO)), IntPtr), True)
-                Marshal.StructureToPtr(scopeInitInfo(index), CType(CInt(refScopeInitInfo) + index * Marshal.SizeOf(GetType(DSOP_SCOPE_INIT_INFO)), IntPtr), False)
+                Marshal.StructureToPtr(scopeInitInfo(index), CType(CLng(refScopeInitInfo) + index * Marshal.SizeOf(GetType(DSOP_SCOPE_INIT_INFO)), IntPtr), False)
             Next
 
             ' Initialize structure with data to initialize an object picker dialog box. 
@@ -431,7 +431,7 @@ Namespace ActiveDirectory
                 If cnt > 0 Then
                     selections = New DirectoryObject(cnt - 1) {}
                     ' increment the pointer so we can read the DS_SELECTION structure
-                    current = CType(CInt(current) + (Marshal.SizeOf(GetType(UInteger)) * 2), IntPtr)
+                    current = CType(CLng(current) + (Marshal.SizeOf(GetType(UInteger)) * 2), IntPtr)
                     ' now loop through the structures
                     For i As Integer = 0 To cnt - 1
                         ' marshal the pointer to the structure
@@ -439,7 +439,7 @@ Namespace ActiveDirectory
                         'Marshal.DestroyStructure(current, GetType(DS_SELECTION))
 
                         ' increment the position of our pointer by the size of the structure
-                        current = CType(CInt(current) + Marshal.SizeOf(GetType(DS_SELECTION)), IntPtr)
+                        current = CType(CLng(current) + Marshal.SizeOf(GetType(DS_SELECTION)), IntPtr)
 
                         Dim name As String = s.pwzName
                         Dim path As String = s.pwzADsPath

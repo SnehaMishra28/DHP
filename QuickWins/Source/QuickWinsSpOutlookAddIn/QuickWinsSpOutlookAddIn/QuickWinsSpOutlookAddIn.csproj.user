@@ -2,5 +2,8 @@
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ProjectView>ProjectFiles</ProjectView>
+    <PublishUrlHistory>publish\|C:\Users\13519\Desktop\|C:\Users\13519\Desktop\TestSetUp\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
   </PropertyGroup>
 </Project>

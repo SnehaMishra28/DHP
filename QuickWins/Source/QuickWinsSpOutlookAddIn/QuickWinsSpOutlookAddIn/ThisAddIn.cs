@@ -5,6 +5,8 @@ using System.Collections.Generic;
 using System.Security.Principal;
 using System.DirectoryServices.AccountManagement;
 using System.Linq;
+using System.Reflection;
+using System.Configuration;
 
 namespace QuickWinsSpOutlookAddIn
 {
@@ -14,19 +16,33 @@ namespace QuickWinsSpOutlookAddIn
         private static ILog log = LogManager.GetLogger(typeof(ThisAddIn));
         CreateSpListItem client;
 
+        //private static Configuration _settings;
+        //public static Configuration Settings
+        //{
+        //    get
+        //    {
+        //        if (_settings == null)
+        //            _settings = ConfigurationManager.OpenExeConfiguration(Assembly.GetExecutingAssembly().Location);
+        //        return _settings;
+        //    }
+        //}
+
         private void ThisAddIn_Startup(object sender, System.EventArgs e)
         {
+            var configLocation = Assembly.GetExecutingAssembly().Location + ".config";
+            log4net.Config.XmlConfigurator.Configure(new Uri(configLocation));
+
             log.Info("Inside ThisAddIn_Startup!");
-            log4net.Config.XmlConfigurator.Configure();
 
             // checking if the currently signed in User belongs to specific user groups
             //var status = IsUserInGroup("IS_HelpDesk");
             //var status = IsUserInGroup("LOCAL");
 
             //var status = IsUserInGroup("een\\IT Support - Apps");
+            //string name = Properties.Settings.Default.QwAllowedUserGroup;
             var status = checkUserGroup("IT Support - Apps");
-            //var status = IsUserInGroup(Properties.Settings.Default.QwAllowedUserGroup);
-            //var status = checkUserGroup(Properties.Settings.Default.QwAllowedUserGroup);
+            //var status = IsUserInGroup(Settings.Default.QwAllowedUserGroup);
+            //var status = checkUserGroup(Settings.Default.QwAllowedUserGroup);
             if (!status)
             {
                 // if the User is not in the mentioned group, then hide the button

@@ -15,16 +15,24 @@ Baan:
 	Baan Account Issue
 		Raise IT Ticket
 
+	Configuration Page Setup
+		Remote in to set up
+		Raise IT Ticket
+
 PC:
 	Locked Out
 		Unlock through Active Directory
 		Raise IT Ticket
+		Remove ultipro password reset and ultipro unlock
 		
 	System Issues
 		Raise IT Ticket
 		
 	Error Message prompt
 		Raise IT Ticket
+
+	Bitlocker
+		Sent recovery key
 		
 Pace tracker:
 	Error 400 Code
@@ -37,6 +45,7 @@ Pace tracker:
 		
 	Not able to register
 		Check Employee Records
+		Corrected Employee Records
 		Reset Password
 		Raise IT Ticket
 
@@ -178,6 +187,7 @@ Netwrok:
 		
 	VPN
 		Raise IT Ticket
+		Raise ISR
 
 Skype:
 	Login Issue
