@@ -1,0 +1,10 @@
+C:\Dev\VSTS\Utilities\QuickWinsSpOutlookAddIn\ActiveDirectoryHelper\obj\Debug\ActiveDirectoryHelper.vbprojAssemblyReference.cache
+C:\Dev\VSTS\Utilities\QuickWinsSpOutlookAddIn\ActiveDirectoryHelper\obj\Debug\ActiveDirectoryHelper.Resources.resources
+C:\Dev\VSTS\Utilities\QuickWinsSpOutlookAddIn\ActiveDirectoryHelper\obj\Debug\ActiveDirectoryHelper.vbproj.GenerateResource.cache
+C:\Dev\VSTS\Utilities\QuickWinsSpOutlookAddIn\ActiveDirectoryHelper\obj\Debug\ActiveDirectoryHelper.vbproj.CoreCompileInputs.cache
+C:\Dev\VSTS\Utilities\QuickWinsSpOutlookAddIn\ActiveDirectoryHelper\bin\Debug\ActiveDirectoryHelper.dll
+C:\Dev\VSTS\Utilities\QuickWinsSpOutlookAddIn\ActiveDirectoryHelper\bin\Debug\ActiveDirectoryHelper.pdb
+C:\Dev\VSTS\Utilities\QuickWinsSpOutlookAddIn\ActiveDirectoryHelper\bin\Debug\ActiveDirectoryHelper.xml
+C:\Dev\VSTS\Utilities\QuickWinsSpOutlookAddIn\ActiveDirectoryHelper\obj\Debug\ActiveDirectoryHelper.dll
+C:\Dev\VSTS\Utilities\QuickWinsSpOutlookAddIn\ActiveDirectoryHelper\obj\Debug\ActiveDirectoryHelper.xml
+C:\Dev\VSTS\Utilities\QuickWinsSpOutlookAddIn\ActiveDirectoryHelper\obj\Debug\ActiveDirectoryHelper.pdb

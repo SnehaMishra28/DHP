@@ -17,8 +17,16 @@ namespace QuickWinsSpOutlookAddIn
         private void btnForm_Click(object sender, RibbonControlEventArgs e)
         {
             log.Info("Inside btnForm_Click - to open form!");
-            QuickWinForm form = new QuickWinForm();
-            form.ShowDialog();
+            // check if the instance of the form already exists
+            // make it singleton, one instance at a time
+            //QuickWinForm form = new QuickWinForm();
+            QuickWinForm.getInstance();
+
+            //form.ShowDialog();
+
+            // This is to make the user form non-modal
+            // User can work with outlook, even thought the form is open.
+            //form.Show();
         }
     }
 }

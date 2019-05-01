@@ -556,12 +556,6 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_105B41A9F811BF8B94578ED93AB81F88"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_1FE94DBF4CE157C8EB849A2C764F9F4F"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -707,6 +701,12 @@
         {
         "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_28FF61E00404668A4164BF9DB9A96381"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_105B41A9F811BF8B94578ED93AB81F88"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -1712,14 +1712,14 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Help Desk Outlook Add-In"
         "ProductCode" = "8:{BF4FEF4B-4772-44F5-8E5D-D35DA0B44096}"
-        "PackageCode" = "8:{4BC5F29B-4FA9-4CB1-A9BA-E85FD3B4BE3B}"
+        "PackageCode" = "8:{26A141EA-240F-4074-A403-F7F68251B2FA}"
         "UpgradeCode" = "8:{DEB5840B-7E0B-426F-A130-4CE2E239A381}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:FALSE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:FALSE"
-        "ProductVersion" = "8:1.0.0"
+        "ProductVersion" = "8:1.0.2"
         "Manufacturer" = "8:DH Pace"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"

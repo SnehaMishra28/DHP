@@ -1,0 +1,46 @@
+2019-03-18 14:31:10,985 INFO  Response after SP list items retrieval is not Null!
+2019-03-18 14:31:10,998 INFO  Count of Response after SP list items retrieval is - 3
+2019-03-18 14:31:10,999 INFO  Index of Response after SP list items retrieval - 0
+2019-03-18 14:31:11,001 INFO  Status of Response after SP list items retrieval at index - 0 , is - True
+2019-03-18 14:31:11,003 INFO  System of Response after SP list items retrieval at index - 0 , is - Baan
+2019-03-18 14:31:11,005 INFO  problem of Response after SP list items retrieval at index - 0 , is - Can't Log In
+2019-03-18 14:31:11,010 INFO  resolution of Response after SP list items retrieval at index - 0 , is - Reset Password
+2019-03-18 14:31:11,013 INFO  Index of Response after SP list items retrieval - 1
+2019-03-18 14:31:11,015 INFO  Status of Response after SP list items retrieval at index - 1 , is - True
+2019-03-18 14:31:11,017 INFO  System of Response after SP list items retrieval at index - 1 , is - Baan
+2019-03-18 14:31:11,018 INFO  problem of Response after SP list items retrieval at index - 1 , is - No Access
+2019-03-18 14:31:11,020 INFO  resolution of Response after SP list items retrieval at index - 1 , is - Grant Security
+2019-03-18 14:31:11,026 INFO  Index of Response after SP list items retrieval - 2
+2019-03-18 14:31:11,028 INFO  Status of Response after SP list items retrieval at index - 2 , is - True
+2019-03-18 14:31:11,030 INFO  System of Response after SP list items retrieval at index - 2 , is - Baan
+2019-03-18 14:31:11,031 INFO  problem of Response after SP list items retrieval at index - 2 , is - No Access
+2019-03-18 14:31:11,034 INFO  resolution of Response after SP list items retrieval at index - 2 , is - Referred to ISR
+2019-03-18 14:31:11,037 INFO  Response after SP list items retrieval is not Null!
+2019-03-18 14:31:11,043 INFO  Count of Response after SP list items retrieval is - 3
+2019-03-18 14:31:11,045 INFO  Index of Response after SP list items retrieval - 0
+2019-03-18 14:31:11,046 INFO  Status of Response after SP list items retrieval at index - 0 , is - True
+2019-03-18 14:31:11,047 INFO  System of Response after SP list items retrieval at index - 0 , is - Baan
+2019-03-18 14:31:11,048 INFO  Add title - Baan ,at index - 0 to dropdownOptions.systemList.
+2019-03-18 14:31:11,050 INFO  problem of Response after SP list items retrieval at index - 0 , is - Can't Log In
+2019-03-18 14:31:11,051 INFO  Add problem - Can't Log In ,at index - 0 to dropdownOptions.problemList.
+2019-03-18 14:31:11,053 INFO  resolution of Response after SP list items retrieval at index - 0 , is - Reset Password
+2019-03-18 14:31:11,055 INFO  Add resolution - Reset Password ,at index - 0 to dropdownOptions.resolutionList.
+2019-03-18 14:31:11,057 INFO  Index of Response after SP list items retrieval - 1
+2019-03-18 14:31:11,058 INFO  Status of Response after SP list items retrieval at index - 1 , is - True
+2019-03-18 14:31:11,059 INFO  System of Response after SP list items retrieval at index - 1 , is - Baan
+2019-03-18 14:31:11,060 INFO  dropdownOptions.systemList Contains title - Baan ,at index - 1
+2019-03-18 14:31:11,062 INFO  problem of Response after SP list items retrieval at index - 1 , is - No Access
+2019-03-18 14:31:11,063 INFO  Add problem - No Access ,at index - 1 to dropdownOptions.problemList.
+2019-03-18 14:31:11,064 INFO  resolution of Response after SP list items retrieval at index - 1 , is - Grant Security
+2019-03-18 14:31:11,065 INFO  Add resolution - Grant Security ,at index - 1 to dropdownOptions.resolutionList.
+2019-03-18 14:31:11,066 INFO  Index of Response after SP list items retrieval - 2
+2019-03-18 14:31:11,068 INFO  Status of Response after SP list items retrieval at index - 2 , is - True
+2019-03-18 14:31:11,069 INFO  System of Response after SP list items retrieval at index - 2 , is - Baan
+2019-03-18 14:31:11,071 INFO  dropdownOptions.systemList Contains title - Baan ,at index - 2
+2019-03-18 14:31:11,074 INFO  problem of Response after SP list items retrieval at index - 2 , is - No Access
+2019-03-18 14:31:11,075 INFO  dropdownOptions.problemList Contains problem - No Access ,at index - 2
+2019-03-18 14:31:11,076 INFO  resolution of Response after SP list items retrieval at index - 2 , is - Referred to ISR
+2019-03-18 14:31:11,077 INFO  dropdownOptions.resolutionList Contains resolution - Referred to ISR ,at index - 2
+2019-03-18 14:31:12,396 INFO  Inside btnForm_Click - to open form!
+2019-03-18 14:31:12,627 INFO  Inside QuickWinForm - InitializeVariables func!
+2019-03-18 14:32:03,297 INFO  Inside QuickWinForm - cancel button is clicked!

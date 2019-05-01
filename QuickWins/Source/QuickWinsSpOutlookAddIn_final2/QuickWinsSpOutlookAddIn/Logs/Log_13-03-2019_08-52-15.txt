@@ -1,0 +1,10 @@
+2019-03-13 08:52:32,599 INFO  Inside btnForm_Click - to open form!
+2019-03-13 08:52:33,585 INFO  Inside QuickWinForm - InitializeVariables func!
+2019-03-13 08:52:35,539 INFO  Inside QuickWinForm - submit Form to SP button Click!
+2019-03-13 08:52:35,542 INFO  Inside QuickWinForm - submitFormToSP func!
+2019-03-13 08:52:40,913 INFO  Inside QuickWinForm - SP client is not null!
+2019-03-13 08:52:40,917 INFO  Inside QuickWinForm - setItemFields func!
+2019-03-13 08:52:40,938 INFO  Inside QuickWinForm - SP item object is not null!
+2019-03-13 08:53:01,455 INFO  Inside QuickWinForm - setItemFields func!
+2019-03-13 08:53:13,787 INFO  Inside QuickWinForm - SP item object is not null!
+2019-03-13 08:54:15,156 DEBUG creating SP list item!

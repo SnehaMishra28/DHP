@@ -1,0 +1,3 @@
+2019-03-13 14:21:51,269 INFO  Inside btnForm_Click - to open form!
+2019-03-13 14:21:52,987 INFO  Inside QuickWinForm - InitializeVariables func!
+2019-03-13 14:23:24,798 INFO  Inside QuickWinForm - cancel button is clicked!

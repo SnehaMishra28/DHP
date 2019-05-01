@@ -289,6 +289,7 @@
     <AppDesigner Include="Properties\" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\quickwin.png" />
     <Content Include="Resources\quickWinIcon.JPG" />
     <None Include="Resources\quickWinIcon1.JPG" />
     <Content Include="Resources\SharePoint_Icon.JPG" />

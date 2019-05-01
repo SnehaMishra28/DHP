@@ -59,7 +59,7 @@
             // btnForm
             // 
             this.btnForm.ControlSize = Microsoft.Office.Core.RibbonControlSize.RibbonControlSizeLarge;
-            this.btnForm.Image = global::QuickWinsSpOutlookAddIn.Properties.Resources.quickWinIcon;
+            this.btnForm.Image = global::QuickWinsSpOutlookAddIn.Properties.Resources.quickwin;
             this.btnForm.Label = "Quick Wins";
             this.btnForm.Name = "btnForm";
             this.btnForm.ShowImage = true;

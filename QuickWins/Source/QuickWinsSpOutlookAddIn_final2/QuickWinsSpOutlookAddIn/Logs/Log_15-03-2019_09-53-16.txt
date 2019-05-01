@@ -1,0 +1,51 @@
+2019-03-15 09:53:16,955 INFO  Response after SP list items retrieval is not Null!
+2019-03-15 09:53:16,971 INFO  Count of Response after SP list items retrieval is - 3
+2019-03-15 09:53:16,973 INFO  Index of Response after SP list items retrieval - 0
+2019-03-15 09:53:16,974 INFO  Status of Response after SP list items retrieval at index - 0 , is - True
+2019-03-15 09:53:16,975 INFO  System of Response after SP list items retrieval at index - 0 , is - Baan
+2019-03-15 09:53:16,977 INFO  problem of Response after SP list items retrieval at index - 0 , is - Can't Log In
+2019-03-15 09:53:16,978 INFO  resolution of Response after SP list items retrieval at index - 0 , is - Reset Password
+2019-03-15 09:53:16,983 INFO  Index of Response after SP list items retrieval - 1
+2019-03-15 09:53:16,984 INFO  Status of Response after SP list items retrieval at index - 1 , is - True
+2019-03-15 09:53:16,985 INFO  System of Response after SP list items retrieval at index - 1 , is - Baan
+2019-03-15 09:53:16,986 INFO  problem of Response after SP list items retrieval at index - 1 , is - No Access
+2019-03-15 09:53:16,987 INFO  resolution of Response after SP list items retrieval at index - 1 , is - Grant Security
+2019-03-15 09:53:16,987 INFO  Index of Response after SP list items retrieval - 2
+2019-03-15 09:53:16,988 INFO  Status of Response after SP list items retrieval at index - 2 , is - True
+2019-03-15 09:53:16,990 INFO  System of Response after SP list items retrieval at index - 2 , is - Baan
+2019-03-15 09:53:16,991 INFO  problem of Response after SP list items retrieval at index - 2 , is - No Access
+2019-03-15 09:53:16,992 INFO  resolution of Response after SP list items retrieval at index - 2 , is - Referred to ISR
+2019-03-15 09:53:16,994 INFO  Response after SP list items retrieval is not Null!
+2019-03-15 09:53:16,995 INFO  Count of Response after SP list items retrieval is - 3
+2019-03-15 09:53:16,995 INFO  Index of Response after SP list items retrieval - 0
+2019-03-15 09:53:16,999 INFO  Status of Response after SP list items retrieval at index - 0 , is - True
+2019-03-15 09:53:17,000 INFO  System of Response after SP list items retrieval at index - 0 , is - Baan
+2019-03-15 09:53:17,001 INFO  problem of Response after SP list items retrieval at index - 0 , is - Can't Log In
+2019-03-15 09:53:17,002 INFO  resolution of Response after SP list items retrieval at index - 0 , is - Reset Password
+2019-03-15 09:53:17,003 INFO  Index of Response after SP list items retrieval - 1
+2019-03-15 09:53:17,004 INFO  Status of Response after SP list items retrieval at index - 1 , is - True
+2019-03-15 09:53:17,008 INFO  System of Response after SP list items retrieval at index - 1 , is - Baan
+2019-03-15 09:53:17,010 INFO  problem of Response after SP list items retrieval at index - 1 , is - No Access
+2019-03-15 09:53:17,011 INFO  resolution of Response after SP list items retrieval at index - 1 , is - Grant Security
+2019-03-15 09:53:17,011 INFO  Index of Response after SP list items retrieval - 2
+2019-03-15 09:53:17,013 INFO  Status of Response after SP list items retrieval at index - 2 , is - True
+2019-03-15 09:53:17,016 INFO  System of Response after SP list items retrieval at index - 2 , is - Baan
+2019-03-15 09:53:17,017 INFO  problem of Response after SP list items retrieval at index - 2 , is - No Access
+2019-03-15 09:53:17,018 INFO  resolution of Response after SP list items retrieval at index - 2 , is - Referred to ISR
+2019-03-15 09:53:28,852 INFO  Inside btnForm_Click - to open form!
+2019-03-15 09:53:29,734 INFO  Inside QuickWinForm - InitializeVariables func!
+2019-03-15 09:53:36,030 INFO  RequestedBy value changed to - s
+2019-03-15 09:53:36,270 INFO  RequestedBy value changed to - sn
+2019-03-15 09:53:36,397 INFO  RequestedBy value changed to - sne
+2019-03-15 09:53:36,525 INFO  RequestedBy value changed to - sneh
+2019-03-15 09:53:36,726 INFO  RequestedBy value changed to - sneha
+2019-03-15 09:53:38,255 INFO  source value changed to - Phone
+2019-03-15 09:53:46,664 INFO  system value changed to - IFS
+2019-03-15 09:53:48,993 INFO  issue value changed to - Can't Login
+2019-03-15 09:53:50,655 INFO  resolution value changed to - Reset Password
+2019-03-15 09:53:52,385 INFO  Inside QuickWinForm - submit Form to SP button Click!
+2019-03-15 09:53:52,387 INFO  Inside QuickWinForm - submitFormToSP func!
+2019-03-15 09:53:52,389 INFO  Inside QuickWinForm - SP client is not null!
+2019-03-15 09:53:52,391 INFO  Inside QuickWinForm - setItemFields func!
+2019-03-15 09:53:52,395 INFO  Inside QuickWinForm - SP item object is not null!
+2019-03-15 09:53:55,575 DEBUG creating SP list item!

@@ -21,7 +21,8 @@ namespace QuickWinsSpOutlookAddIn
         String otherIssue;
         String resolution;
         String otherResolution;
-        DateTime ticketDate;
+        String ticketDate;
+        //DateTime datePicker;
         SpItemObject spFilledItemObject = new SpItemObject();
         CreateSpListItem client;
         IRestResponse<RootObject> qwRespObj;
@@ -29,7 +30,7 @@ namespace QuickWinsSpOutlookAddIn
         // Constructor to Initialize the Form
         // Create the client object and
         // Finish rest of the form's initialization if required.
-        public QuickWinForm()
+        private QuickWinForm()
         {
             log.Info("Inside QuickWinForm constructor to create the Quick Win form!");
 
@@ -50,6 +51,26 @@ namespace QuickWinsSpOutlookAddIn
 
             // pass the 3 list to initialize the list in combo box
         }
+
+        public static QuickWinForm getInstance()
+        {
+            // Check if the instance of form is already available
+            if (sFormInstance == null)
+            { 
+                //if there is no instance available... create new one
+                sFormInstance = new QuickWinForm();
+            }
+
+            // This is to make the user form non-modal
+            // User can work with outlook, even thought the form is open.
+            sFormInstance.Show();
+            sFormInstance.BringToFront();
+
+            return sFormInstance;
+        }
+
+        //private static QuickWinForm sFormInstance = new QuickWinForm();
+        private static QuickWinForm sFormInstance;
 
         // Function to finish the Form's Initialization, 
         // perform different logical changes to the form before it is loaded to the User
@@ -184,20 +205,48 @@ namespace QuickWinsSpOutlookAddIn
             log.Info("Inside simpleButton1_Click to create ticket in SP and then close the Quick Win form!");
 
             log.Info("Inside QuickWinForm - submit Form to SP button Click!");
-            if (submitFormToSP())
+
+            // check if all user fields are filled by the user
+            if (String.IsNullOrEmpty(requestedBy) || String.IsNullOrEmpty(source)
+                || String.IsNullOrEmpty(system) || String.IsNullOrEmpty(issue)
+                || String.IsNullOrEmpty(resolution) )
             {
-                string message = "Ticket created in SharePoint, Thank you!";
-                MessageBox.Show(message);
-                log.Info(message);
-                this.Close();
+                string message = "All the fields are mandatory!";
+                string message1 = "Kindly fill all fields & try Again!";
+                MessageBox.Show(message + '\n' + message1);
             }
             else
             {
-                string message = "Ticket could not be created in SharePoint, Sorry :(";
-                string message1 = "Kindly try Again!";
-                MessageBox.Show(message + '\n' + message1);
-                log.Info(message + '\n' + message1);
+                if (String.IsNullOrEmpty(ticketDate))
+                {
+                    string message = "Kindly select proper date, Thank you!";
+                    MessageBox.Show(message);
+                    log.Info(message);
+                }
+                else
+                {
+                    if (submitFormToSP())
+                    {
+                        string message = "Ticket created in SharePoint, Thank you!";
+                        MessageBox.Show(message);
+                        log.Info(message);
+
+                        // making the form instance null before closing it
+                        sFormInstance = null;
+
+                        this.Close();
+                    }
+                    else
+                    {
+                        string message = "Ticket could not be created in SharePoint, Sorry :(";
+                        string message1 = "Kindly try Again!";
+                        MessageBox.Show(message + '\n' + message1);
+                        log.Info(message + '\n' + message1);
+                    }
+                }
+                
             }
+            
         }
 
         // Function to create an item in SharePoint
@@ -236,7 +285,7 @@ namespace QuickWinsSpOutlookAddIn
             if (spItemObject != null)
             {
                 log.Info("Inside QuickWinForm - SP item object is not null!");
-                spItemObject.Date = ticketDate.ToShortDateString();
+                spItemObject.Date = ticketDate;
                 spItemObject.RequestedBy = requestedBy;
                 spItemObject.Source = source;
                 spItemObject.System = system;
@@ -469,7 +518,7 @@ namespace QuickWinsSpOutlookAddIn
             otherIssue = "";
             resolution = "";
             otherResolution = "";
-            ticketDate = DateTime.Now;
+            ticketDate = DateTime.Now.ToShortDateString();
         }
 
         // Cancel button in the User form
@@ -477,13 +526,29 @@ namespace QuickWinsSpOutlookAddIn
         private void simpleButton2_Click(object sender, EventArgs e)
         {
             log.Info("Inside QuickWinForm - cancel button is clicked!");
+            
+            // making the instance as null before closing
+            sFormInstance = null;
+
             this.Close();
         }
 
         private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
         {
             log.Debug("Inside QuickWinForm - dateTimePicker1_ValueChanged!");
-            ticketDate = DateTime.Now;
+            if (dateTimePicker1.Value > DateTime.Now)
+            {
+                string message = "Kindly select past or today's date, Thank you!";
+                MessageBox.Show(message);
+                log.Info(message);
+                ticketDate = "";
+            }
+            else
+            {
+                ticketDate = dateTimePicker1.Value.ToShortDateString();
+                log.Info("Inside QuickWinForm - dateTimePicker1_ValueChanged! - date set to - " + ticketDate);
+            }
+            
         }
 
         // Ellipsis button click in the User form to open the Dialog box to fetch the requested by name from AD

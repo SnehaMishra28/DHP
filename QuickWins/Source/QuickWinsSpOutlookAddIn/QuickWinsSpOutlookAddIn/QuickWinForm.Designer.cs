@@ -91,7 +91,7 @@ partial class QuickWinForm
             this.layoutControl1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.layoutControl1.Location = new System.Drawing.Point(0, 0);
             this.layoutControl1.Name = "layoutControl1";
-            this.layoutControl1.OptionsCustomizationForm.DesignTimeCustomizationFormPositionAndSize = new System.Drawing.Rectangle(660, 318, 650, 400);
+            this.layoutControl1.OptionsCustomizationForm.DesignTimeCustomizationFormPositionAndSize = new System.Drawing.Rectangle(660, 319, 923, 522);
             this.layoutControl1.Root = this.Root;
             this.layoutControl1.Size = new System.Drawing.Size(568, 510);
             this.layoutControl1.TabIndex = 0;
@@ -99,15 +99,15 @@ partial class QuickWinForm
             // 
             // txtRequestedBy
             // 
-            this.txtRequestedBy.Location = new System.Drawing.Point(86, 36);
+            this.txtRequestedBy.Location = new System.Drawing.Point(93, 36);
             this.txtRequestedBy.Name = "txtRequestedBy";
             this.txtRequestedBy.Properties.Appearance.BackColor = System.Drawing.Color.Gainsboro;
             this.txtRequestedBy.Properties.Appearance.Options.UseBackColor = true;
             this.txtRequestedBy.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton()});
-            this.txtRequestedBy.Size = new System.Drawing.Size(470, 20);
+            this.txtRequestedBy.Size = new System.Drawing.Size(463, 20);
             this.txtRequestedBy.StyleController = this.layoutControl1;
-            this.txtRequestedBy.TabIndex = 20;
+            this.txtRequestedBy.TabIndex = 1;
             this.txtRequestedBy.ButtonClick += new DevExpress.XtraEditors.Controls.ButtonPressedEventHandler(this.txtRequestedBy_ButtonClick);
             this.txtRequestedBy.EditValueChanged += new System.EventHandler(this.txtRequestedBy_EditValueChanged);
             this.txtRequestedBy.KeyUp += new System.Windows.Forms.KeyEventHandler(this.txtRequestedBy_KeyUp);
@@ -116,20 +116,20 @@ partial class QuickWinForm
             // 
             this.comboResolution.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboResolution.FormattingEnabled = true;
-            this.comboResolution.Location = new System.Drawing.Point(86, 261);
+            this.comboResolution.Location = new System.Drawing.Point(93, 261);
             this.comboResolution.Name = "comboResolution";
-            this.comboResolution.Size = new System.Drawing.Size(470, 21);
-            this.comboResolution.TabIndex = 19;
+            this.comboResolution.Size = new System.Drawing.Size(463, 21);
+            this.comboResolution.TabIndex = 5;
             this.comboResolution.SelectedIndexChanged += new System.EventHandler(this.comboBox4_SelectedIndexChanged);
             // 
             // comboSystem
             // 
             this.comboSystem.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboSystem.FormattingEnabled = true;
-            this.comboSystem.Location = new System.Drawing.Point(86, 85);
+            this.comboSystem.Location = new System.Drawing.Point(93, 85);
             this.comboSystem.Name = "comboSystem";
-            this.comboSystem.Size = new System.Drawing.Size(470, 21);
-            this.comboSystem.TabIndex = 18;
+            this.comboSystem.Size = new System.Drawing.Size(463, 21);
+            this.comboSystem.TabIndex = 3;
             this.comboSystem.SelectedIndexChanged += new System.EventHandler(this.comboBox3_SelectedIndexChanged);
             // 
             // comboSource
@@ -141,10 +141,10 @@ partial class QuickWinForm
             "Email",
             "Desk Visit",
             "Skype"});
-            this.comboSource.Location = new System.Drawing.Point(86, 60);
+            this.comboSource.Location = new System.Drawing.Point(93, 60);
             this.comboSource.Name = "comboSource";
-            this.comboSource.Size = new System.Drawing.Size(470, 21);
-            this.comboSource.TabIndex = 17;
+            this.comboSource.Size = new System.Drawing.Size(463, 21);
+            this.comboSource.TabIndex = 2;
             this.comboSource.SelectedIndexChanged += new System.EventHandler(this.comboBox2_SelectedIndexChanged);
             // 
             // comboIssue
@@ -153,19 +153,19 @@ partial class QuickWinForm
             this.comboIssue.BackColor = System.Drawing.SystemColors.ControlLight;
             this.comboIssue.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboIssue.FormattingEnabled = true;
-            this.comboIssue.Location = new System.Drawing.Point(86, 110);
+            this.comboIssue.Location = new System.Drawing.Point(93, 110);
             this.comboIssue.Name = "comboIssue";
-            this.comboIssue.Size = new System.Drawing.Size(470, 21);
-            this.comboIssue.TabIndex = 16;
+            this.comboIssue.Size = new System.Drawing.Size(463, 21);
+            this.comboIssue.TabIndex = 4;
             this.comboIssue.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // txtOtherResolution
             // 
-            this.txtOtherResolution.Location = new System.Drawing.Point(86, 286);
+            this.txtOtherResolution.Location = new System.Drawing.Point(93, 286);
             this.txtOtherResolution.Name = "txtOtherResolution";
             this.txtOtherResolution.Properties.Appearance.BackColor = System.Drawing.Color.Gainsboro;
             this.txtOtherResolution.Properties.Appearance.Options.UseBackColor = true;
-            this.txtOtherResolution.Size = new System.Drawing.Size(470, 186);
+            this.txtOtherResolution.Size = new System.Drawing.Size(463, 186);
             this.txtOtherResolution.StyleController = this.layoutControl1;
             this.txtOtherResolution.TabIndex = 15;
             this.txtOtherResolution.Visible = false;
@@ -173,11 +173,11 @@ partial class QuickWinForm
             // 
             // txtOherIssue
             // 
-            this.txtOherIssue.Location = new System.Drawing.Point(86, 135);
+            this.txtOherIssue.Location = new System.Drawing.Point(93, 135);
             this.txtOherIssue.Name = "txtOherIssue";
             this.txtOherIssue.Properties.Appearance.BackColor = System.Drawing.Color.Gainsboro;
             this.txtOherIssue.Properties.Appearance.Options.UseBackColor = true;
-            this.txtOherIssue.Size = new System.Drawing.Size(470, 122);
+            this.txtOherIssue.Size = new System.Drawing.Size(463, 122);
             this.txtOherIssue.StyleController = this.layoutControl1;
             this.txtOherIssue.TabIndex = 14;
             this.txtOherIssue.Visible = false;
@@ -185,11 +185,13 @@ partial class QuickWinForm
             // 
             // dateTimePicker1
             // 
-            this.dateTimePicker1.Enabled = false;
-            this.dateTimePicker1.Location = new System.Drawing.Point(86, 12);
+            this.dateTimePicker1.CalendarMonthBackground = System.Drawing.SystemColors.ButtonShadow;
+            this.dateTimePicker1.CalendarTitleBackColor = System.Drawing.SystemColors.AppWorkspace;
+            this.dateTimePicker1.Location = new System.Drawing.Point(93, 12);
             this.dateTimePicker1.Name = "dateTimePicker1";
-            this.dateTimePicker1.Size = new System.Drawing.Size(470, 20);
-            this.dateTimePicker1.TabIndex = 4;
+            this.dateTimePicker1.Size = new System.Drawing.Size(463, 20);
+            this.dateTimePicker1.TabIndex = 10;
+            this.dateTimePicker1.TabStop = false;
             this.dateTimePicker1.ValueChanged += new System.EventHandler(this.dateTimePicker1_ValueChanged);
             // 
             // simpleButton1
@@ -198,7 +200,7 @@ partial class QuickWinForm
             this.simpleButton1.Name = "simpleButton1";
             this.simpleButton1.Size = new System.Drawing.Size(163, 22);
             this.simpleButton1.StyleController = this.layoutControl1;
-            this.simpleButton1.TabIndex = 12;
+            this.simpleButton1.TabIndex = 6;
             this.simpleButton1.Text = "Submit";
             this.simpleButton1.Click += new System.EventHandler(this.simpleButton1_Click);
             // 
@@ -234,12 +236,15 @@ partial class QuickWinForm
             // 
             // layoutControlItem1
             // 
+            this.layoutControlItem1.AppearanceItemCaption.BackColor = System.Drawing.Color.Transparent;
+            this.layoutControlItem1.AppearanceItemCaption.BackColor2 = System.Drawing.Color.Transparent;
+            this.layoutControlItem1.AppearanceItemCaption.Options.UseBackColor = true;
             this.layoutControlItem1.Control = this.dateTimePicker1;
             this.layoutControlItem1.Location = new System.Drawing.Point(0, 0);
             this.layoutControlItem1.Name = "layoutControlItem1";
             this.layoutControlItem1.Size = new System.Drawing.Size(548, 24);
-            this.layoutControlItem1.Text = "Today\'s Date";
-            this.layoutControlItem1.TextSize = new System.Drawing.Size(71, 13);
+            this.layoutControlItem1.Text = "Requested Date";
+            this.layoutControlItem1.TextSize = new System.Drawing.Size(78, 13);
             // 
             // layoutControlItem10
             // 
@@ -274,7 +279,7 @@ partial class QuickWinForm
             this.layoutControlItem11.Name = "layoutControlItem11";
             this.layoutControlItem11.Size = new System.Drawing.Size(548, 126);
             this.layoutControlItem11.Text = "Other";
-            this.layoutControlItem11.TextSize = new System.Drawing.Size(71, 13);
+            this.layoutControlItem11.TextSize = new System.Drawing.Size(78, 13);
             // 
             // layoutControlItem6
             // 
@@ -283,7 +288,7 @@ partial class QuickWinForm
             this.layoutControlItem6.Name = "layoutControlItem6";
             this.layoutControlItem6.Size = new System.Drawing.Size(548, 190);
             this.layoutControlItem6.Text = "Other";
-            this.layoutControlItem6.TextSize = new System.Drawing.Size(71, 13);
+            this.layoutControlItem6.TextSize = new System.Drawing.Size(78, 13);
             // 
             // layoutControlItem8
             // 
@@ -292,7 +297,7 @@ partial class QuickWinForm
             this.layoutControlItem8.Name = "layoutControlItem8";
             this.layoutControlItem8.Size = new System.Drawing.Size(548, 25);
             this.layoutControlItem8.Text = "Problem/ Issue";
-            this.layoutControlItem8.TextSize = new System.Drawing.Size(71, 13);
+            this.layoutControlItem8.TextSize = new System.Drawing.Size(78, 13);
             // 
             // layoutControlItem5
             // 
@@ -301,7 +306,7 @@ partial class QuickWinForm
             this.layoutControlItem5.Name = "layoutControlItem5";
             this.layoutControlItem5.Size = new System.Drawing.Size(548, 25);
             this.layoutControlItem5.Text = "Source";
-            this.layoutControlItem5.TextSize = new System.Drawing.Size(71, 13);
+            this.layoutControlItem5.TextSize = new System.Drawing.Size(78, 13);
             // 
             // layoutControlItem12
             // 
@@ -310,7 +315,7 @@ partial class QuickWinForm
             this.layoutControlItem12.Name = "layoutControlItem12";
             this.layoutControlItem12.Size = new System.Drawing.Size(548, 25);
             this.layoutControlItem12.Text = "System";
-            this.layoutControlItem12.TextSize = new System.Drawing.Size(71, 13);
+            this.layoutControlItem12.TextSize = new System.Drawing.Size(78, 13);
             // 
             // layoutControlItem13
             // 
@@ -319,7 +324,7 @@ partial class QuickWinForm
             this.layoutControlItem13.Name = "layoutControlItem13";
             this.layoutControlItem13.Size = new System.Drawing.Size(548, 25);
             this.layoutControlItem13.Text = "Resolution";
-            this.layoutControlItem13.TextSize = new System.Drawing.Size(71, 13);
+            this.layoutControlItem13.TextSize = new System.Drawing.Size(78, 13);
             // 
             // layoutControlItem2
             // 
@@ -328,7 +333,7 @@ partial class QuickWinForm
             this.layoutControlItem2.Name = "layoutControlItem2";
             this.layoutControlItem2.Size = new System.Drawing.Size(548, 24);
             this.layoutControlItem2.Text = "Requested By";
-            this.layoutControlItem2.TextSize = new System.Drawing.Size(71, 13);
+            this.layoutControlItem2.TextSize = new System.Drawing.Size(78, 13);
             // 
             // QuickWinForm
             // 
@@ -369,7 +374,6 @@ partial class QuickWinForm
         private DevExpress.XtraLayout.LayoutControl layoutControl1;
         private DevExpress.XtraLayout.LayoutControlGroup Root;
         private DevExpress.XtraLayout.EmptySpaceItem emptySpaceItem1;
-        private System.Windows.Forms.DateTimePicker dateTimePicker1;
         private DevExpress.XtraLayout.LayoutControlItem layoutControlItem1;
         private DevExpress.XtraEditors.SimpleButton simpleButton1;
         private DevExpress.XtraEditors.SimpleButton simpleButton2;
@@ -389,5 +393,6 @@ partial class QuickWinForm
         private DevExpress.XtraLayout.LayoutControlItem layoutControlItem13;
         private DevExpress.XtraEditors.ButtonEdit txtRequestedBy;
         private DevExpress.XtraLayout.LayoutControlItem layoutControlItem2;
+        private System.Windows.Forms.DateTimePicker dateTimePicker1;
     }
 }

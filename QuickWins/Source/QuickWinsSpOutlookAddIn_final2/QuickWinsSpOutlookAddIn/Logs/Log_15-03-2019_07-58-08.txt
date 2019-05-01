@@ -1,0 +1,119 @@
+2019-03-15 07:58:10,161 INFO  Response after SP list items retrieval is not Null!
+2019-03-15 07:58:10,179 INFO  Count of Response after SP list items retrieval is - 3
+2019-03-15 07:58:10,180 INFO  Index of Response after SP list items retrieval - 0
+2019-03-15 07:58:10,182 INFO  Status of Response after SP list items retrieval at index - 0 , is - True
+2019-03-15 07:58:10,184 INFO  System of Response after SP list items retrieval at index - 0 , is - Baan
+2019-03-15 07:58:10,189 INFO  problem of Response after SP list items retrieval at index - 0 , is - Can't Log In
+2019-03-15 07:58:10,190 INFO  resolution of Response after SP list items retrieval at index - 0 , is - Reset Password
+2019-03-15 07:58:10,194 INFO  Index of Response after SP list items retrieval - 1
+2019-03-15 07:58:10,195 INFO  Status of Response after SP list items retrieval at index - 1 , is - True
+2019-03-15 07:58:10,196 INFO  System of Response after SP list items retrieval at index - 1 , is - Baan
+2019-03-15 07:58:10,196 INFO  problem of Response after SP list items retrieval at index - 1 , is - No Access
+2019-03-15 07:58:10,197 INFO  resolution of Response after SP list items retrieval at index - 1 , is - Grant Security
+2019-03-15 07:58:10,198 INFO  Index of Response after SP list items retrieval - 2
+2019-03-15 07:58:10,199 INFO  Status of Response after SP list items retrieval at index - 2 , is - True
+2019-03-15 07:58:10,200 INFO  System of Response after SP list items retrieval at index - 2 , is - Baan
+2019-03-15 07:58:10,206 INFO  problem of Response after SP list items retrieval at index - 2 , is - No Access
+2019-03-15 07:58:10,207 INFO  resolution of Response after SP list items retrieval at index - 2 , is - Referred to ISR
+2019-03-15 07:58:15,991 INFO  Response after SP list items retrieval is not Null!
+2019-03-15 07:58:15,992 INFO  Count of Response after SP list items retrieval is - 3
+2019-03-15 07:58:15,993 INFO  Index of Response after SP list items retrieval - 0
+2019-03-15 07:58:15,994 INFO  Status of Response after SP list items retrieval at index - 0 , is - True
+2019-03-15 07:58:15,995 INFO  System of Response after SP list items retrieval at index - 0 , is - Baan
+2019-03-15 07:58:15,996 INFO  problem of Response after SP list items retrieval at index - 0 , is - Can't Log In
+2019-03-15 07:58:15,997 INFO  resolution of Response after SP list items retrieval at index - 0 , is - Reset Password
+2019-03-15 07:58:15,997 INFO  Index of Response after SP list items retrieval - 1
+2019-03-15 07:58:15,998 INFO  Status of Response after SP list items retrieval at index - 1 , is - True
+2019-03-15 07:58:15,999 INFO  System of Response after SP list items retrieval at index - 1 , is - Baan
+2019-03-15 07:58:16,007 INFO  problem of Response after SP list items retrieval at index - 1 , is - No Access
+2019-03-15 07:58:16,009 INFO  resolution of Response after SP list items retrieval at index - 1 , is - Grant Security
+2019-03-15 07:58:16,010 INFO  Index of Response after SP list items retrieval - 2
+2019-03-15 07:58:16,011 INFO  Status of Response after SP list items retrieval at index - 2 , is - True
+2019-03-15 07:58:16,012 INFO  System of Response after SP list items retrieval at index - 2 , is - Baan
+2019-03-15 07:58:16,013 INFO  problem of Response after SP list items retrieval at index - 2 , is - No Access
+2019-03-15 07:58:16,014 INFO  resolution of Response after SP list items retrieval at index - 2 , is - Referred to ISR
+2019-03-15 08:00:36,513 INFO  Inside btnForm_Click - to open form!
+2019-03-15 08:00:41,541 INFO  Inside QuickWinForm - InitializeVariables func!
+2019-03-15 08:00:56,555 INFO  RequestedBy value changed to - S
+2019-03-15 08:00:56,770 INFO  RequestedBy value changed to - Sn
+2019-03-15 08:00:56,921 INFO  RequestedBy value changed to - Sne
+2019-03-15 08:00:57,098 INFO  RequestedBy value changed to - Sneh
+2019-03-15 08:00:57,297 INFO  RequestedBy value changed to - Sneha
+2019-03-15 08:00:58,033 INFO  RequestedBy value changed to - Sneha 
+2019-03-15 08:00:58,372 INFO  RequestedBy value changed to - Sneha M
+2019-03-15 08:00:58,577 INFO  RequestedBy value changed to - Sneha Mi
+2019-03-15 08:00:58,721 INFO  RequestedBy value changed to - Sneha Mis
+2019-03-15 08:00:58,834 INFO  RequestedBy value changed to - Sneha Mish
+2019-03-15 08:00:59,057 INFO  RequestedBy value changed to - Sneha Mishr
+2019-03-15 08:00:59,216 INFO  RequestedBy value changed to - Sneha Mishra
+2019-03-15 08:01:01,474 INFO  source value changed to - Phone
+2019-03-15 08:01:02,209 INFO  source value changed to - Email
+2019-03-15 08:01:02,690 INFO  source value changed to - Desk Visit
+2019-03-15 08:01:03,018 INFO  source value changed to - Skype
+2019-03-15 08:01:05,121 INFO  system value changed to - Baan
+2019-03-15 08:01:05,489 INFO  system value changed to - IFS
+2019-03-15 08:01:06,192 INFO  Problem/Issue selected is other, so showing text box
+2019-03-15 08:01:06,259 INFO  issue value changed to - Other
+2019-03-15 08:01:08,915 INFO  otherIssue value changed to - H
+2019-03-15 08:01:09,090 INFO  otherIssue value changed to - Hi
+2019-03-15 08:01:09,892 INFO  otherIssue value changed to - Hi 
+2019-03-15 08:01:10,115 INFO  otherIssue value changed to - Hi t
+2019-03-15 08:01:10,162 INFO  otherIssue value changed to - Hi th
+2019-03-15 08:01:10,363 INFO  otherIssue value changed to - Hi thi
+2019-03-15 08:01:10,466 INFO  otherIssue value changed to - Hi this
+2019-03-15 08:01:10,594 INFO  otherIssue value changed to - Hi this 
+2019-03-15 08:01:10,682 INFO  otherIssue value changed to - Hi this i
+2019-03-15 08:01:10,819 INFO  otherIssue value changed to - Hi this is
+2019-03-15 08:01:10,988 INFO  otherIssue value changed to - Hi this is 
+2019-03-15 08:01:11,850 INFO  otherIssue value changed to - Hi this is 
+
+2019-03-15 08:01:13,416 INFO  otherIssue value changed to - Hi this is 
+T
+2019-03-15 08:01:13,617 INFO  otherIssue value changed to - Hi this is 
+Te
+2019-03-15 08:01:13,825 INFO  otherIssue value changed to - Hi this is 
+Tes
+2019-03-15 08:01:13,945 INFO  otherIssue value changed to - Hi this is 
+Test
+2019-03-15 08:01:15,119 INFO  otherIssue value changed to - Hi this is 
+Test
+
+2019-03-15 08:01:17,323 INFO  otherIssue value changed to - Hi this is 
+Test
+m
+2019-03-15 08:01:17,378 INFO  otherIssue value changed to - Hi this is 
+Test
+me
+2019-03-15 08:01:17,808 INFO  otherIssue value changed to - Hi this is 
+Test
+mes
+2019-03-15 08:01:17,938 INFO  otherIssue value changed to - Hi this is 
+Test
+mess
+2019-03-15 08:01:18,273 INFO  otherIssue value changed to - Hi this is 
+Test
+messa
+2019-03-15 08:01:18,482 INFO  otherIssue value changed to - Hi this is 
+Test
+messag
+2019-03-15 08:01:18,610 INFO  otherIssue value changed to - Hi this is 
+Test
+message
+2019-03-15 08:01:20,556 INFO  resolution value changed to - Reset Password
+2019-03-15 08:01:21,208 INFO  resolution value changed to - Activate user
+2019-03-15 08:01:22,049 INFO  resolution value changed to - Grant access
+2019-03-15 08:01:22,586 INFO  resolution value changed to - Install Hardware
+2019-03-15 08:01:23,216 INFO  resolution value changed to - Install Software
+2019-03-15 08:01:23,593 INFO  resolution to Problem/Issue selected is other, so showing text box
+2019-03-15 08:01:23,622 INFO  resolution value changed to - Other
+2019-03-15 08:01:24,627 INFO  resolution value changed to - Install Software
+2019-03-15 08:01:32,279 INFO  Inside QuickWinForm - submit Form to SP button Click!
+2019-03-15 08:01:32,282 INFO  Inside QuickWinForm - submitFormToSP func!
+2019-03-15 08:01:32,287 DEBUG Inside QuickWinForm - SP client is null!
+2019-03-15 08:02:07,071 INFO  Inside QuickWinForm - submit Form to SP button Click!
+2019-03-15 08:02:07,073 INFO  Inside QuickWinForm - submitFormToSP func!
+2019-03-15 08:02:07,074 DEBUG Inside QuickWinForm - SP client is null!
+2019-03-15 08:02:59,671 INFO  Inside QuickWinForm - submit Form to SP button Click!
+2019-03-15 08:02:59,673 INFO  Inside QuickWinForm - submitFormToSP func!
+2019-03-15 08:02:59,674 DEBUG Inside QuickWinForm - SP client is null!
+2019-03-15 08:03:21,127 INFO  Inside QuickWinForm - cancel button is clicked!

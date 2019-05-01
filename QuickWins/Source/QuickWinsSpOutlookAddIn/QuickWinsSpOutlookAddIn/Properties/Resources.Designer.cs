@@ -63,6 +63,16 @@ namespace QuickWinsSpOutlookAddIn.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap quickwin {
+            get {
+                object obj = ResourceManager.GetObject("quickwin", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap quickWinIcon {
             get {
                 object obj = ResourceManager.GetObject("quickWinIcon", resourceCulture);
